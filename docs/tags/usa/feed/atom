@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Thu, 18 Dec 2008 23:46:00 +0100</lastBuildDate>
     
-	<atom:link href="https://franek.chicour.net/tags/usa/feed/atom" rel="self" type="application/customrss" />
+	<atom:link href="https://franek.chicour.net/tags/usa/feed/atom" rel="self" type="application/rss+xml" />
     
     
     <item>

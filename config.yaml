@@ -40,12 +40,12 @@ params:
     disableThemeToggle: true
     disableSpecial1stPost: false
 
-    assets:
-        favicon: "<link / abs url>"
-        favicon16x16: "<link / abs url>"
-        favicon32x32: "<link / abs url>"
-        apple_touch_icon: "<link / abs url>"
-        safari_pinned_tab: "<link / abs url>"
+    #assets:
+        #favicon: "https://franek.chicour.net/public/logo-franek.png"
+        #favicon16x16: "https://franek.chicour.net/public/logo-franek.png"
+        #favicon32x32: "https://franek.chicour.net/public/logo-franek.png"
+        #apple_touch_icon: "https://franek.chicour.net/public/logo-franek.png"
+        #safari_pinned_tab: "https://franek.chicour.net/public/logo-franek.png"
 
     label:
         text: ""
@@ -105,12 +105,12 @@ outputs:
 
 # For compatibility with dotclear (old blog system), redefine feed URI to /feed/atom
 mediaTypes:
-  application/customrss:
+  application/rss+xml:
     suffixes: 
       - ""
     delimiter: ""
 
 outputFormats:
   RSS:
-    mediatype: "application/customrss"
+    mediatype: "application/rss+xml"
     baseName: "feed/atom"
