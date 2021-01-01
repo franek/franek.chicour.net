@@ -84,10 +84,6 @@ taxonomies:
     
 menu:
     main:
-        - identifier: search
-          name: Recherche
-          url: /search/
-          weight: 30
         - identifier: tags
           name: Tags
           url: /tags/
@@ -96,6 +92,14 @@ menu:
           name: Archives
           url: /archive/
           weight: 20
+        - identifier: search
+          name: Recherche
+          url: /search/
+          weight: 30
+        - identifier: RSS
+          name: RSS
+          url: /feed/atom
+          weight: 40
 
 outputs:
     home:
