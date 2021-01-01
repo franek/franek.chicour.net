@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Snoopy on ::franek::</title>
+    <link>https://franek.chicour.net/tags/snoopy/</link>
+    <description>Recent content in Snoopy on ::franek::</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 05 May 2009 23:39:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://franek.chicour.net/tags/snoopy/feed/atom" rel="self" type="application/customrss" />
+    
+    
+    <item>
+      <title>N&#39;oubliez pas votre lettre aux impôts...</title>
+      <link>https://franek.chicour.net/post/n-oubliez-pas-votre-lettre-aux-impots/</link>
+      <pubDate>Tue, 05 May 2009 23:39:00 +0200</pubDate>
+      
+      <guid>https://franek.chicour.net/post/n-oubliez-pas-votre-lettre-aux-impots/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

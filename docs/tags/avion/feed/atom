@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>avion on ::franek::</title>
+    <link>https://franek.chicour.net/tags/avion/</link>
+    <description>Recent content in avion on ::franek::</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 18 Jul 2007 22:58:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://franek.chicour.net/tags/avion/feed/atom" rel="self" type="application/customrss" />
+    
+    
+    <item>
+      <title>comparatifs prix des vols (low costs)</title>
+      <link>https://franek.chicour.net/post/comparatifs-prix-des-vols-low-costs/</link>
+      <pubDate>Wed, 18 Jul 2007 22:58:00 +0200</pubDate>
+      
+      <guid>https://franek.chicour.net/post/comparatifs-prix-des-vols-low-costs/</guid>
+      <description> BravoFly FlyC &amp;hellip;  </description>
+    </item>
+    
+  </channel>
+</rss>

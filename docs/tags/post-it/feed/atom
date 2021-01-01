@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>post-it on ::franek::</title>
+    <link>https://franek.chicour.net/tags/post-it/</link>
+    <description>Recent content in post-it on ::franek::</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 04 Jan 2012 20:59:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://franek.chicour.net/tags/post-it/feed/atom" rel="self" type="application/customrss" />
+    
+    
+    <item>
+      <title>Post-it : crontab et %</title>
+      <link>https://franek.chicour.net/post/post-it-crontab-et/</link>
+      <pubDate>Wed, 04 Jan 2012 20:59:00 +0100</pubDate>
+      
+      <guid>https://franek.chicour.net/post/post-it-crontab-et/</guid>
+      <description>Une petite astuce concernant crontab que je ne connaissais pas (on apprend tous les jours).
+Les caractères % doivent être échappés dans crontab.
+Le crontab suivant :
+ 00 19 * * * /chemin/vers/mon/script.sh &amp;gt;/chemin/vers/output-`date +%Y%m%d`.log ne fonctionnait pas.
+J&amp;rsquo;obtenais une erreur du type :
+ /bin/sh: Syntax error: EOF in backquote substitution Après quelques recherches, je suis tombé sur un fil de stackoverflow qui correspondait à mon problème.
+Dans crontab, il est nécessaires d&amp;rsquo;échapper avec un backslash le caractère %.</description>
+    </item>
+    
+    <item>
+      <title>Post-it : Accéder à un dépôt git à traver un proxy</title>
+      <link>https://franek.chicour.net/post/post-it-acceder-a-un-depot-git-a-traver-un-proxy/</link>
+      <pubDate>Sat, 06 Aug 2011 17:12:00 +0200</pubDate>
+      
+      <guid>https://franek.chicour.net/post/post-it-acceder-a-un-depot-git-a-traver-un-proxy/</guid>
+      <description>Il est parfois nécessaire de pouvoir accéder à son dépôt git (push et pull) auto-hébergé derrière un proxy.
+Mon dépôt git ne support pas le smart HTTP protocol.
+Je vais vous présenter ici une technique s&amp;rsquo;appuyant sur corkscrew. Il y existe sûrement d&amp;rsquo;autres techniques (port forwarding, &amp;hellip;).
+Cette technique sous-entend que ssh est configuré sur le port 443 de votre serveur.
+Installer corkscrew :
+ $ sudo apt-get install corkscrew Ajouter dans le fichier ~/.</description>
+    </item>
+    
+    <item>
+      <title>Une nouvelle méthode de gestion de projet</title>
+      <link>https://franek.chicour.net/post/une-nouvelle-methode-de-gestion-de-projet/</link>
+      <pubDate>Sun, 01 Mar 2009 18:13:00 +0100</pubDate>
+      
+      <guid>https://franek.chicour.net/post/une-nouvelle-methode-de-gestion-de-projet/</guid>
+      <description>Vous connaissez sûrement tous mais c&amp;rsquo;est tellement utilisé&amp;hellip;
+Je ne sais pas si c&amp;rsquo;est applicable partout mais en tout cas, dans le développement logiciel, on la retrouve encore beaucoup&amp;hellip;
+La Rache : Qu&amp;rsquo;est-ce-que &amp;ldquo;La Rache&amp;rdquo; ?</description>
+    </item>
+    
+  </channel>
+</rss>

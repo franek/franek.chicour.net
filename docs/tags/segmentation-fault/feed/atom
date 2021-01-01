@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Segmentation Fault on ::franek::</title>
+    <link>https://franek.chicour.net/tags/segmentation-fault/</link>
+    <description>Recent content in Segmentation Fault on ::franek::</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 09 Nov 2009 09:25:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://franek.chicour.net/tags/segmentation-fault/feed/atom" rel="self" type="application/customrss" />
+    
+    
+    <item>
+      <title>Segmentation fault avec la Zend Platform et le composant Zend_Cache du Zend Framework</title>
+      <link>https://franek.chicour.net/post/segmentation-fault-avec-la-zend-platform-et-le-composant-zend-cache-du-zend-framework/</link>
+      <pubDate>Mon, 09 Nov 2009 09:25:00 +0100</pubDate>
+      
+      <guid>https://franek.chicour.net/post/segmentation-fault-avec-la-zend-platform-et-le-composant-zend-cache-du-zend-framework/</guid>
+      <description>Il nous aura fallu environ 1 mois sur nos serveurs de production pour trouver une résolution à ce problème. Afin que sa résolution puisse servir, je poste un petit mémo.
+Si vous rencontrez des segmentations fault Apache du type :
+[Mon Oct 05 13:02:32 2009] [notice] child pid 25046 exit signal Segmentation fault (11)
+et que vous utilisez la Zend Platform et Zend Framework (et notamment le composant Zend_Cache), cela peut venir du backend Zend_Platform du module Zend Cache du Zend Framework.</description>
+    </item>
+    
+  </channel>
+</rss>

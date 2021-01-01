@@ -1,0 +1,116 @@
+baseURL: "https://franek.chicour.net"
+title: "::franek::"
+paginate: 15
+theme: hugo-PaperMod
+publishDir: "docs"
+
+permalinks:
+  posts: "/post/:year/:month/:title/"
+
+markup:
+  defaultMarkdownHandler: "goldmark"
+  goldmark:
+    renderer:
+      unsafe: true
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+# googleAnalytics: unknown
+
+minify:
+    disableXML: true
+    minifyOutput: true
+
+params:
+    env: production # to enable google analytics, opengraph, twitter-cards and schema.
+    title: "::franek::"
+    description: ""
+    author: Franek
+    # author: ["Me", "You"] # multiple authors
+
+    images: "<link or path of image for opengraph, twitter-cards>"
+
+    ShowReadingTime: false
+    ShowShareButtons: false
+    comments: false
+    defaultTheme: light
+    disableThemeToggle: true
+    disableSpecial1stPost: false
+
+    assets:
+        favicon: "<link / abs url>"
+        favicon16x16: "<link / abs url>"
+        favicon32x32: "<link / abs url>"
+        apple_touch_icon: "<link / abs url>"
+        safari_pinned_tab: "<link / abs url>"
+
+    label:
+        text: ""
+        icon: /public/logo-franek.png
+        iconHeight: 35
+
+    # profile-mode
+    profileMode:
+        enabled: false # needs to be explicitly set
+        title: ExampleSite
+        # imageUrl: '<img location>'
+        # imageTitle: my image
+        buttons:
+            - name: Posts
+              url: posts
+            - name: Tags
+              url: tags
+
+    # home-info mode
+    homeInfoParams:
+    #    Title: "Hi there \U0001F44B"
+    #    Content: Welcome to my blog
+
+    socialIcons:
+        - name: twitter
+          url: "https://twitter.com/_franek_"
+        - name: github
+          url: "https://github.com/franek"
+
+    analytics:
+        google:
+            SiteVerificationTag: "XYZabc"
+
+taxonomies:
+    tag: tags
+    
+menu:
+    main:
+        - identifier: search
+          name: Recherche
+          url: /search/
+          weight: 30
+        - identifier: tags
+          name: Tags
+          url: /tags/
+          weight: 10
+        - identifier: archives
+          name: Archives
+          url: /archive/
+          weight: 20
+
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON
+
+# For compatibility with dotclear (old blog system), redefine feed URI to /feed/atom
+mediaTypes:
+  application/customrss:
+    suffixes: 
+      - ""
+    delimiter: ""
+
+outputFormats:
+  RSS:
+    mediatype: "application/customrss"
+    baseName: "feed/atom"

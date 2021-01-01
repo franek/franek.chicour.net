@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>lampes on ::franek::</title>
+    <link>https://franek.chicour.net/tags/lampes/</link>
+    <description>Recent content in lampes on ::franek::</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 03 Dec 2011 14:18:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://franek.chicour.net/tags/lampes/feed/atom" rel="self" type="application/customrss" />
+    
+    
+    <item>
+      <title>Recyclage des lampes</title>
+      <link>https://franek.chicour.net/post/recyclage-des-lampes/</link>
+      <pubDate>Sat, 03 Dec 2011 14:18:00 +0100</pubDate>
+      
+      <guid>https://franek.chicour.net/post/recyclage-des-lampes/</guid>
+      <description>Je ne sais jamais quelles sont les lampes à recycler ou à jeter. Recyclum propose une synthèse plutôt bien faite : source : Recyclum</description>
+    </item>
+    
+  </channel>
+</rss>

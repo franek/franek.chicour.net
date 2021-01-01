@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>git on ::franek::</title>
+    <link>https://franek.chicour.net/tags/git/</link>
+    <description>Recent content in git on ::franek::</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 12 Aug 2011 14:55:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://franek.chicour.net/tags/git/feed/atom" rel="self" type="application/customrss" />
+    
+    
+    <item>
+      <title>Quelques trucs et astuces concernant git (et git svn)</title>
+      <link>https://franek.chicour.net/post/quelques-trucs-et-astuces-concernant-git-et-git-svn/</link>
+      <pubDate>Fri, 12 Aug 2011 14:55:00 +0200</pubDate>
+      
+      <guid>https://franek.chicour.net/post/quelques-trucs-et-astuces-concernant-git-et-git-svn/</guid>
+      <description>Une petite liste de trucs et astuces concernant l&amp;rsquo;utilisation de git (avec svn ou non).
+Pour définir l&amp;rsquo;éditeur par défaut utilisé par git (ici vi) :
+ $ git config --global core.editor vi Récupérer l&amp;rsquo;ensemble du dépôt subversion dans un environnement git :
+ $ git svn clone -s http://url_depot_svn/ rep-destination/ Resynchroniser le dépôt local (git) avec le dépôt subversion (récupération des tags notamment).
+ $ git svn fetch Dans le cas d&amp;rsquo;une utilisation de git avec subversion, afficher tous les tags et les branches subversion</description>
+    </item>
+    
+    <item>
+      <title>Post-it : Accéder à un dépôt git à traver un proxy</title>
+      <link>https://franek.chicour.net/post/post-it-acceder-a-un-depot-git-a-traver-un-proxy/</link>
+      <pubDate>Sat, 06 Aug 2011 17:12:00 +0200</pubDate>
+      
+      <guid>https://franek.chicour.net/post/post-it-acceder-a-un-depot-git-a-traver-un-proxy/</guid>
+      <description>Il est parfois nécessaire de pouvoir accéder à son dépôt git (push et pull) auto-hébergé derrière un proxy.
+Mon dépôt git ne support pas le smart HTTP protocol.
+Je vais vous présenter ici une technique s&amp;rsquo;appuyant sur corkscrew. Il y existe sûrement d&amp;rsquo;autres techniques (port forwarding, &amp;hellip;).
+Cette technique sous-entend que ssh est configuré sur le port 443 de votre serveur.
+Installer corkscrew :
+ $ sudo apt-get install corkscrew Ajouter dans le fichier ~/.</description>
+    </item>
+    
+    <item>
+      <title>Retour sur le premier atelier Git Attitude</title>
+      <link>https://franek.chicour.net/post/retour-sur-le-premier-atelier-git-attitude/</link>
+      <pubDate>Mon, 12 Jul 2010 21:06:00 +0200</pubDate>
+      
+      <guid>https://franek.chicour.net/post/retour-sur-le-premier-atelier-git-attitude/</guid>
+      <description>Christophe Porteneuve, ancien Président de Paris Web et directeur technique chez Ciblo, a eu l&amp;rsquo;excellente idée d&amp;rsquo;organiser le premier atelier Git Attitude. Cela s&amp;rsquo;est passé samedi dernier dans les locaux de Clever Age (Paris).
+L&amp;rsquo;objectif de cet atelier était de présenter les fonctionnalités de Git et d&amp;rsquo;aider les participants à prendre en main ce système de gestion des sources décentralisé. Le programme de la journée était dense. Malgré les 8 heures prévues, il n&amp;rsquo;a pas été possible d&amp;rsquo;étudier l&amp;rsquo;ensemble des points au programme, mais on a vu beaucoup de choses intéressantes, de très bonnes astuces et l&amp;rsquo;envie d&amp;rsquo;approfondir nos connaissances.</description>
+    </item>
+    
+  </channel>
+</rss>

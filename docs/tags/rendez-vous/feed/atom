@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>rendez-vous on ::franek::</title>
+    <link>https://franek.chicour.net/tags/rendez-vous/</link>
+    <description>Recent content in rendez-vous on ::franek::</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 04 Jul 2007 21:34:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://franek.chicour.net/tags/rendez-vous/feed/atom" rel="self" type="application/customrss" />
+    
+    
+    <item>
+      <title>outils pour fixer rendez-vous</title>
+      <link>https://franek.chicour.net/post/outils-pour-fixer-rendez-vous/</link>
+      <pubDate>Wed, 04 Jul 2007 21:34:00 +0200</pubDate>
+      
+      <guid>https://franek.chicour.net/post/outils-pour-fixer-rendez-vous/</guid>
+      <description>Pour ceux qui galèrent (comme moi) à trouver une date qui conviennent à un cercle d&amp;rsquo;amis pour organiser un évènement (piscine, pique-nique, week-end,&amp;hellip;) , je vous présente Doodle.
+Une page de démo est disponible.
+C&amp;rsquo;est super simple et super pratique&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

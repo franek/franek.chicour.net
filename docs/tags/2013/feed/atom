@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2013 on ::franek::</title>
+    <link>https://franek.chicour.net/tags/2013/</link>
+    <description>Recent content in 2013 on ::franek::</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 19 Oct 2013 11:44:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://franek.chicour.net/tags/2013/feed/atom" rel="self" type="application/customrss" />
+    
+    
+    <item>
+      <title>Paris Web 2013 : J&#39;y étais !</title>
+      <link>https://franek.chicour.net/post/paris-web-2013-j-y-etais/</link>
+      <pubDate>Sat, 19 Oct 2013 11:44:00 +0200</pubDate>
+      
+      <guid>https://franek.chicour.net/post/paris-web-2013-j-y-etais/</guid>
+      <description>Après 2 années d&amp;rsquo;absence aux conférences de Paris Web (mais pas les ateliers), j&amp;rsquo;ai à nouveau participé aux conférences Paris Web (merci à mon employeur).
+Comme d&amp;rsquo;habitude, j&amp;rsquo;ai trouvé que la journée du samedi (les ateliers) était indispensable : les intervenant prennent le temps de rentrer dans le détail des sujets et les petites salles sont propices aux échanges. Je regrette de ne pas disposer d&amp;rsquo;un don d&amp;rsquo;ubiquité.
+La qualité des conférences des journées du jeudi et vendredi était inégale.</description>
+    </item>
+    
+  </channel>
+</rss>

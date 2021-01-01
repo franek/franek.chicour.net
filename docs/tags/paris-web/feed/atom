@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>paris web on ::franek::</title>
+    <link>https://franek.chicour.net/tags/paris-web/</link>
+    <description>Recent content in paris web on ::franek::</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 19 Oct 2013 11:44:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://franek.chicour.net/tags/paris-web/feed/atom" rel="self" type="application/customrss" />
+    
+    
+    <item>
+      <title>Paris Web 2013 : J&#39;y étais !</title>
+      <link>https://franek.chicour.net/post/paris-web-2013-j-y-etais/</link>
+      <pubDate>Sat, 19 Oct 2013 11:44:00 +0200</pubDate>
+      
+      <guid>https://franek.chicour.net/post/paris-web-2013-j-y-etais/</guid>
+      <description>Après 2 années d&amp;rsquo;absence aux conférences de Paris Web (mais pas les ateliers), j&amp;rsquo;ai à nouveau participé aux conférences Paris Web (merci à mon employeur).
+Comme d&amp;rsquo;habitude, j&amp;rsquo;ai trouvé que la journée du samedi (les ateliers) était indispensable : les intervenant prennent le temps de rentrer dans le détail des sujets et les petites salles sont propices aux échanges. Je regrette de ne pas disposer d&amp;rsquo;un don d&amp;rsquo;ubiquité.
+La qualité des conférences des journées du jeudi et vendredi était inégale.</description>
+    </item>
+    
+    <item>
+      <title>Retour sur Paris Web 2010</title>
+      <link>https://franek.chicour.net/post/retour-sur-paris-web-2010/</link>
+      <pubDate>Sun, 24 Oct 2010 13:45:00 +0200</pubDate>
+      
+      <guid>https://franek.chicour.net/post/retour-sur-paris-web-2010/</guid>
+      <description>Je ne suis pas très bavard ces temps-ci, sûrement un problème de météo.
+Comme depuis 5 ans, j&amp;rsquo;ai assisté à Paris Web (édition 2010) et c&amp;rsquo;était bien !
+Je suis sensible depuis de nombreuses années à l&amp;rsquo;accessibilité, au web-design, à la qualité,.. mais je me sens plus proche d&amp;rsquo;un développeur back que d&amp;rsquo;un développeur front ou d&amp;rsquo;un web designer.
+Au quotidien, au niveau technique, je suis un mouton à 5 pattes capable de faire du CSS, du HTML, du JS mais bien plus à l&amp;rsquo;aise dans du développement back (PHP) ou l&amp;rsquo;administration de serveurs web.</description>
+    </item>
+    
+    <item>
+      <title>Paris Web 2009, c&#39;est fini</title>
+      <link>https://franek.chicour.net/post/paris-web-2009-c-est-fini/</link>
+      <pubDate>Sat, 10 Oct 2009 18:39:00 +0200</pubDate>
+      
+      <guid>https://franek.chicour.net/post/paris-web-2009-c-est-fini/</guid>
+      <description>Pour la quatrième année consécutive, j&amp;rsquo;ai participé à Paris Web, le cycle de conférence sur le Webdesign, la qualité et l&amp;rsquo;accessibilité et pour la première fois, j&amp;rsquo;ai assisté aux ateliers. Si je n&amp;rsquo;avais qu&amp;rsquo;une chose à vous conseiller pour l&amp;rsquo;année prochaine, c&amp;rsquo;est d&amp;rsquo;aller aux ateliers du samedi. Pour 10 euros, vous avez accès à 4 conférences d&amp;rsquo;excellente qualité.
+J&amp;rsquo;avoue, l&amp;rsquo;an passé, j&amp;rsquo;avais été déçu. Je l&amp;rsquo;avais écrit ici même et en relisant mon billet, je trouve que j&amp;rsquo;avais été un peu dur.</description>
+    </item>
+    
+  </channel>
+</rss>

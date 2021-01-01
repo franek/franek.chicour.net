@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>dev web on ::franek::</title>
+    <link>https://franek.chicour.net/tags/dev-web/</link>
+    <description>Recent content in dev web on ::franek::</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 25 Jan 2008 21:58:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://franek.chicour.net/tags/dev-web/feed/atom" rel="self" type="application/customrss" />
+    
+    
+    <item>
+      <title>Le rendu des navigateurs</title>
+      <link>https://franek.chicour.net/post/le-rendu-des-navigateurs/</link>
+      <pubDate>Fri, 25 Jan 2008 21:58:00 +0100</pubDate>
+      
+      <guid>https://franek.chicour.net/post/le-rendu-des-navigateurs/</guid>
+      <description>Tout développeur web qui se respecte a déjà été confronté aux différences de rendu entre navigateur (Internet Explorer étant particulièrement une plaie). Alsacréations propose un article intéressant sur les solutions pour tester le rendu d&amp;rsquo;un site sur les principaux navigateurs du marché.
+Microsoft est en train de préparer Internet Explorer 8. Mike Crosoft semble travailler dans le bon sens, par le respect (enfin) des standards. Néanmoins, la technique qui permettra de forcer le navigateur à passer en mode standard et de conserver également la rétro-compatibilité avec les anciennes versions de Internet Explorer prête à polémique.</description>
+    </item>
+    
+    <item>
+      <title>Javascript unobstrusive</title>
+      <link>https://franek.chicour.net/post/javascript-unobstrusive/</link>
+      <pubDate>Thu, 29 Nov 2007 22:34:00 +0100</pubDate>
+      
+      <guid>https://franek.chicour.net/post/javascript-unobstrusive/</guid>
+      <description>Oubliez les onclick, onkeypress, onload,&amp;hellip; dans votre code HTML. On parle désormais de Javascript Unobstrusive (javascript non intrusif). Si vous ne bossez pas encore comme ça, lisez les ressources suivantes :
+ Javascript non-intrusif, chapitre 1 : le grand nettoyage ! les 7 bonnes pratiques du javascript non intrusif  Perso., j&amp;rsquo;utilise depuis quelques mois jquery et j&amp;rsquo;en suis très content :
+ site officiel de jquery liste des plugins de jquery  </description>
+    </item>
+    
+  </channel>
+</rss>

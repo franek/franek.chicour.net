@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>keepass on ::franek::</title>
+    <link>https://franek.chicour.net/tags/keepass/</link>
+    <description>Recent content in keepass on ::franek::</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 18 Oct 2013 23:30:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://franek.chicour.net/tags/keepass/feed/atom" rel="self" type="application/customrss" />
+    
+    
+    <item>
+      <title>Intégration de KeePass avec firefox</title>
+      <link>https://franek.chicour.net/post/integration-de-keepass-avec-firefox/</link>
+      <pubDate>Fri, 18 Oct 2013 23:30:00 +0200</pubDate>
+      
+      <guid>https://franek.chicour.net/post/integration-de-keepass-avec-firefox/</guid>
+      <description>Je cherchais depuis plusieurs années (sans jamais avoir pris le temps de chercher&amp;hellip;) une solution permettant d&amp;rsquo;intégrer les mots de passe Firefox dans KeePass (un gestionnaire de mots de passe - coffre fort numérique), la sauvegarde des mots de passe dans Firefox étant un peu faible (stockage en clair).
+La solution que l&amp;rsquo;on m&amp;rsquo;a conseillée est l&amp;rsquo;utilisation de l&amp;rsquo;extension Firefox keefox. L&amp;rsquo;extension keefox remplace le gestionnaire natif de Firefox et communique directement avec la base de données KeePass (que vous aurez pris soin de sécuriser).</description>
+    </item>
+    
+  </channel>
+</rss>

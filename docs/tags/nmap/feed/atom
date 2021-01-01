@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>nmap on ::franek::</title>
+    <link>https://franek.chicour.net/tags/nmap/</link>
+    <description>Recent content in nmap on ::franek::</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 11 Nov 2013 22:25:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://franek.chicour.net/tags/nmap/feed/atom" rel="self" type="application/customrss" />
+    
+    
+    <item>
+      <title>Lister toutes les machines d&#39;un réseau</title>
+      <link>https://franek.chicour.net/post/lister-toutes-les-machines-d-un-reseau/</link>
+      <pubDate>Mon, 11 Nov 2013 22:25:00 +0100</pubDate>
+      
+      <guid>https://franek.chicour.net/post/lister-toutes-les-machines-d-un-reseau/</guid>
+      <description>Je note ici quelques commandes que j&amp;rsquo;utilise mais dont j&amp;rsquo;ai la manie d&amp;rsquo;oublier.
+Pour lister les machines présentes sur le réseau, il est possible d&amp;rsquo;utiliser nmap :
+ # nmap -sP 192.168.0.0/24 Nmap scan report for server1 (192.168.0.2) Host is up (0.0031s latency). Nmap scan report for 192.168.0.4 Host is up (0.00037s latency). Nmap scan report for 192.168.0.5 source : Nmap: le scanneur de réseau sur Nicolargo</description>
+    </item>
+    
+  </channel>
+</rss>
