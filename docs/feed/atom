@@ -8,12 +8,96 @@
             <link href="https://franek.chicour.net/feed/rss2" rel="alternate" type="application/rss+xml" title="RSS" />
             <link href="https://franek.chicour.net/index.json" rel="alternate" type="application/json" title="JSON" />
             <link href="https://franek.chicour.net/feed/atom" rel="self" type="application/atom+xml" title="atom" />
-    <updated>2021-01-02T21:13:04+01:00</updated>
+    <updated>2021-01-02T22:40:05+01:00</updated>
     
     
     
     
         <id>https://franek.chicour.net/</id>
+    
+        
+        <entry>
+            <title type="html"><![CDATA[Migration de ce blog]]></title>
+            <link href="https://franek.chicour.net/post/migration-de-ce-blog/?utm_source=atom_feed" rel="alternate" type="text/html" />
+            
+                <link href="https://franek.chicour.net/post/cherokee-et-dotclear-sont-dans-un-bateau/?utm_source=atom_feed" rel="related" type="text/html" title="Cherokee et dotclear sont dans un bâteau..." />
+            
+                <id>https://franek.chicour.net/post/migration-de-ce-blog/</id>
+            
+            
+            <published>2021-01-02T21:34:13+01:00</published>
+            <updated>2021-01-02T21:34:13+01:00</updated>
+            
+            
+            <content type="html"><![CDATA[<p>Ce blog a longtemps été propulsé par le moteur de blog <a href="http://www.dotclear.org">Dotclear</a>, un moteur de blog écrit en PHP développé par des français (Olivier Meunier au départ, <a href="https://open-time.net/">Franck Paul</a> désormais). Il est désormais propulsé par <a href="https://gohugo.io/">Hugo</a>.</p>
+<p>J&rsquo;ai beaucoup utilisé Dotclear, je l&rsquo;ai beaucoup aimé.
+A l&rsquo;époque l&rsquo;organisation du code PHP de Dotclear était bien meilleure que celle de Wordpress (j&rsquo;avoue n&rsquo;avoir pas regardé le code de Wordpress aujourd&rsquo;hui). Un effort particulier était fait sur l&rsquo;accessibilité.
+Plusieurs audits accessibilités avaient été réalisés sur le back-office et sur les principaux thèmes.</p>
+<p>La communauté (proche de celle de Paris-Web) semblait chouette.</p>
+<p>Le projet &ldquo;Dotclear&rdquo; est toujours maintenu. Des mises à jour continuent d&rsquo;arriver (Merci Franck) mais personnellement, je souhaitais passer à autre chose.</p>
+<p>Dans un esprit &ldquo;low-tech&rdquo;, je ne souhaitais plus dépendre d&rsquo;un serveur PHP ou d&rsquo;une base de données pour héberger un contenu qui ne bouge quasiment pas.</p>
+<p>Les contenus de ce site sont désormais écrits dans des fichiers textes au format Markdown. Je dois lancer une moulinette (<code>hugo --minify</code>) pour générer ce site et quelques autres commandes git pour le publier.</p>
+<p>Les pages générées sont hébergées sur Github via les <a href="https://pages.github.com/">Github Pages</a> mais je pourrais très bien faire de l&rsquo;auto-hébergement et l&rsquo;héberger sur un minuscule serveur vu le peu de visiteurs et le peu de ressources nécessaires pour juste servir une page HTML et ses médias. Cela fera l&rsquo;objet d&rsquo;une future mission&hellip;</p>
+<p>En passant à Hugo, je perds quelques fonctionnalités comme les commentaires. Si vous avez à me contacter, vous pouvez toujours utiliser le mail franek [à] chicour [point] net.</p>
+<p>Pour ceux qui souhaiteraient migrer de Dotclear à Hugo, voici les quelques étapes que j&rsquo;ai réalisées.</p>
+<p>Il est à noter que Dotclear dispose de sa propre syntaxe &ldquo;wiki2xhtml&rdquo; pour écrire ses billets. Depuis plusieurs versions, il est possible d&rsquo;écrire au format Markdown mais j&rsquo;ai un historique d&rsquo;articles qui étaient encore écrits dans ce format.</p>
+<p>Il y a quelques années, je m&rsquo;étais lancé dans l&rsquo;écriture d&rsquo;un plugin de conversion de &ldquo;wiki2xhtml&rdquo; vers Markdown mais je ne l&rsquo;ai jamais terminé (ni vraiment commencé d&rsquo;ailleurs).</p>
+<p>Pour effectuer la migration, je suis donc parti du contenu HTML exposé dans le flux RSS pour générer l&rsquo;ensemble des articles.
+Il existe plusieurs scripts Python qui font ça mais tous ceux que j&rsquo;ai testés avaient de petits problèmes (non support de certaines balises, &hellip;) et je me retrouvais avec une perte d&rsquo;informations dans certains billets. J&rsquo;ai donc écrit rapidement mon propre <a href="https://github.com/franek/dotclear2hugo">script de migration</a>. Il n&rsquo;est clairement pas parfait mais il a fonctionné pour moi.</p>
+<p>En très rapide, les étapes que j&rsquo;ai réalisées pour la migration sont :</p>
+<ol>
+<li>Configurer Dotclear afin que l&rsquo;ensemble des articles soient exposés dans le flux ATOM</li>
+</ol>
+<p><img src="/public/migration-blog-conf-dotclear.png" alt="Configuration dotclear"></p>
+<p>Les options importantes sont :</p>
+<ul>
+<li>&ldquo;Afficher 200 billets par flux de syndication&rdquo; (si vous avez plus de billets, vous devez augmenter cette valeur).</li>
+<li>Décocher &ldquo;Tronquer les flux de syndication&rdquo;</li>
+</ul>
+<ol start="2">
+<li>Installer le script de migration</li>
+</ol>
+<pre><code>$ git clone git@github.com:franek/dotclear2hugo.git
+$ cd dotclear2hugo
+$ composer install
+</code></pre><ol start="3">
+<li>Exécuter le script afin d&rsquo;exporter le contenu au format Markdown</li>
+</ol>
+<pre><code>php bin/console dotclear2hugo -f https://blog.domain.com/feed/atom
+</code></pre><ol start="4">
+<li>
+<p>Installer <code>gohugo</code> et déplacer le répertoire <code>content/post</code> dans le répertoire <code>content</code> de l&rsquo;installation de gohugo</p>
+</li>
+<li>
+<p>Récupérer l&rsquo;ensemble des médias de Dotclear et les copier dans le répertoire <code>static</code> de l&rsquo;installation de gohugo.</p>
+</li>
+<li>
+<p>Configurer Hugo et le déployer.</p>
+</li>
+</ol>
+<p>La peinture est fraîche, il reste encore des petites choses à faire mais le gros de la migration est fait.</p>
+<p>Vous aurez peut-être la chance d&rsquo;avoir d&rsquo;autres billets de blog cette année 👋.</p>
+]]></content>
+            
+                 
+                    
+                         
+                        
+                            
+                             
+                                <category scheme="https://franek.chicour.net/tags/dotclear" term="dotclear" label="dotclear" />
+                             
+                                <category scheme="https://franek.chicour.net/tags/blog" term="blog" label="blog" />
+                             
+                                <category scheme="https://franek.chicour.net/tags/hugo" term="hugo" label="hugo" />
+                             
+                                <category scheme="https://franek.chicour.net/tags/markdown" term="markdown" label="markdown" />
+                            
+                        
+                    
+                
+            
+        </entry>
     
         
         <entry>

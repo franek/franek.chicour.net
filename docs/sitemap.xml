@@ -4,7 +4,42 @@
   
   <url>
     <loc>https://franek.chicour.net/</loc>
-    <lastmod>2018-07-28T12:34:30+02:00</lastmod>
+    <lastmod>2021-01-02T21:34:13+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://franek.chicour.net/tags/blog/</loc>
+    <lastmod>2021-01-02T21:34:13+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://franek.chicour.net/tags/dotclear/</loc>
+    <lastmod>2021-01-02T21:34:13+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://franek.chicour.net/tags/hugo/</loc>
+    <lastmod>2021-01-02T21:34:13+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://franek.chicour.net/tags/markdown/</loc>
+    <lastmod>2021-01-02T21:34:13+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://franek.chicour.net/post/migration-de-ce-blog/</loc>
+    <lastmod>2021-01-02T21:34:13+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://franek.chicour.net/post/</loc>
+    <lastmod>2021-01-02T21:34:13+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://franek.chicour.net/tags/</loc>
+    <lastmod>2021-01-02T21:34:13+01:00</lastmod>
   </url>
   
   <url>
@@ -20,16 +55,6 @@
   <url>
     <loc>https://franek.chicour.net/tags/biporteur/</loc>
     <lastmod>2017-05-08T21:02:08+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://franek.chicour.net/post/</loc>
-    <lastmod>2018-07-28T12:34:30+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://franek.chicour.net/tags/</loc>
-    <lastmod>2018-07-28T12:34:30+02:00</lastmod>
   </url>
   
   <url>
@@ -1079,11 +1104,6 @@
   
   <url>
     <loc>https://franek.chicour.net/post/cherokee-et-dotclear-sont-dans-un-bateau/</loc>
-    <lastmod>2011-10-16T21:34:54+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://franek.chicour.net/tags/dotclear/</loc>
     <lastmod>2011-10-16T21:34:54+02:00</lastmod>
   </url>
   
