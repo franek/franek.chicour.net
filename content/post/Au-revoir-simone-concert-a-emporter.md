@@ -1,7 +1,7 @@
 ---
 date: 2007-05-21T21:39:00+02:00
 title: "Au revoir simone, concert à emporter..."
-author: "franek"
+author: ["franek"]
 aliases: [/post/2007/05/21/Au-revoir-simone-concert-a-emporter]
 tags: ["musique", "au revoir simone"]
 lastmod: 2007-05-21T21:39:00+02:00

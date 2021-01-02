@@ -1,7 +1,7 @@
 ---
 date: 2008-11-06T22:30:00+01:00
 title: "Etymologie de O.K."
-author: "franek"
+author: ["franek"]
 aliases: [/post/2008/11/06/Etymologie-de-O.K.]
 tags: ["en vrac", "O.K.", "étymologie"]
 lastmod: 2008-11-06T22:31:29+01:00

@@ -1,7 +1,7 @@
 ---
 date: 2008-10-19T18:36:00+02:00
 title: "C'est la crise..."
-author: "franek"
+author: ["franek"]
 aliases: [/post/2008/10/19/C-est-la-crise]
 tags: ["musique", "chanson française", "Lille", "treize à table"]
 lastmod: 2008-10-20T23:06:05+02:00

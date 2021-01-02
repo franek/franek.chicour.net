@@ -1,7 +1,7 @@
 ---
 date: 2017-04-07T22:26:00+02:00
 title: "Bilan d'un an à biporteur"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2017/04/07/Bilan-d-un-an-a-biporteur]
 tags: ["bakfiets", "biporteur", "vélo"]
 lastmod: 2017-05-08T21:02:08+02:00

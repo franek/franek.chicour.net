@@ -1,7 +1,7 @@
 ---
 date: 2008-01-12T21:53:00+01:00
 title: "site web de Lille3000 - tout ce que vous ne devez pas faire"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2008/01/12/site-web-de-Lille3000-tout-ce-que-vous-ne-devez-pas-faire-sur-un-site]
 tags: ["autour de Lille", "accessibilité", "Lille"]
 lastmod: 2008-01-12T21:57:36+01:00

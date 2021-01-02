@@ -1,7 +1,7 @@
 ---
 date: 2011-04-15T11:58:00+02:00
 title: "Installer xhprof et xhprof gui sur Zend Server"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2011/04/15/Installer-xhprof-et-xhprof-gui-sur-Zend-Server]
 tags: ["développement web", "php", "profiling", "xdebug", "xhprof", "Zend Server"]
 lastmod: 2012-11-27T21:13:27+01:00

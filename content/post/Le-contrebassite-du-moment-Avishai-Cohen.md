@@ -1,7 +1,7 @@
 ---
 date: 2008-11-11T22:16:00+01:00
 title: "Le contrebassite du moment : Avishai Cohen"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2008/11/11/Le-contrebassite-du-moment-%3A-Avishai-Cohen]
 tags: ["musique", "avishai cohen", "contrebassite", "jazz"]
 lastmod: 2008-11-11T22:17:39+01:00

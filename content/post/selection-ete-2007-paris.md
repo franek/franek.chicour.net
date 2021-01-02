@@ -1,7 +1,7 @@
 ---
 date: 2007-07-04T23:54:00+02:00
 title: "sélection été 2007 - paris"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2007/06/25/selection-ete-2007]
 tags: ["actualité/societé", "cinéma", "festival", "Paris"]
 lastmod: 2008-11-19T00:50:15+01:00

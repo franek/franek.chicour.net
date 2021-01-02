@@ -1,7 +1,7 @@
 ---
 date: 2008-09-11T19:03:00+02:00
 title: "Ne participez plus aux pots de départ/d'arrivée... ;-)"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2008/09/11/N-acceptez-plus-les-pots-de-depart/d-arrivee]
 tags: ["actualité/societé"]
 lastmod: 2008-09-11T19:03:00+02:00

@@ -1,7 +1,7 @@
 ---
 date: 2009-07-25T14:52:00+02:00
 title: "Nous n'irons pas à la plage..."
-author: "franek"
+author: ["franek"]
 aliases: [/post/2009/07/25/Nous-n-irons-pas-a-la-plage...]
 tags: ["autour de Paris", "2009", "Paris", "Plage", "été"]
 lastmod: 2009-07-25T19:28:16+02:00

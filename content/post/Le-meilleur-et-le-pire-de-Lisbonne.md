@@ -1,7 +1,7 @@
 ---
 date: 2012-04-07T15:21:00+02:00
 title: "Le meilleur (et le pire) de Lisbonne"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2012/04/07/Le-meilleur-%28et-le-pire%29-de-Lisbonne]
 tags: ["tourisme", "château de saint Georges", "Lisbonne", "Portugal", "Quinoa", "road-trip-europe-sud", "Tour de Bélèm"]
 lastmod: 2013-03-11T22:56:21+01:00

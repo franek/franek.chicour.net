@@ -1,7 +1,7 @@
 ---
 date: 2008-07-28T21:12:00+02:00
 title: "La tournée de Vieux Farka Touré"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2008/07/28/La-tournee-de-Vieux-Farka-Toure]
 tags: ["musique", "Ali Farka Touré", "blues", "guitare", "Mali", "Vieux Farka Touré"]
 lastmod: 2008-07-29T00:26:44+02:00

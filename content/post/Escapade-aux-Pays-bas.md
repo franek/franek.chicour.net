@@ -1,7 +1,7 @@
 ---
 date: 2008-03-25T14:37:00+01:00
 title: "Escapade aux Pays-bas"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2008/03/25/Escapade-aux-Pays-bas]
 tags: ["tourisme", "Pays-Bas"]
 lastmod: 2008-03-26T22:28:58+01:00

@@ -1,7 +1,7 @@
 ---
 date: 2009-03-03T14:20:00+01:00
 title: "Ceci est un communiqué de l'industrie du divertissement de masse (vu sur linuxfr)"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2009/03/03/Ceci-est-un-communiqu%C3%A9-de-l-industrie-du-divertissement-de-masse-%28vu-sur-linuxfr%29]
 tags: ["geek", "geek", "hadopi"]
 lastmod: 2009-03-03T14:21:43+01:00

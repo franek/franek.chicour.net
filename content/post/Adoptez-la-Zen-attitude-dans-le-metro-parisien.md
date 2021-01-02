@@ -1,7 +1,7 @@
 ---
 date: 2009-05-24T12:32:00+02:00
 title: "Adoptez la Zen attitude dans le métro parisien"
-author: "franek"
+author: ["Franek"]
 aliases: [/post/2009/05/24/Adoptez-la-Zen-attitude-dans-le-m%C3%A9tro-parisien]
 tags: ["autour de Paris", "Inde", "métro", "Paris", "yoga"]
 lastmod: 2009-05-24T12:32:00+02:00

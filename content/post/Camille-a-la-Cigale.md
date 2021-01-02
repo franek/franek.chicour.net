@@ -1,7 +1,7 @@
 ---
 date: 2008-05-24T16:47:00+02:00
 title: "Camille à la Cigale"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2008/05/31/Camille-a-la-Cigale]
 tags: ["musique", "camille", "concert", "la cigale"]
 lastmod: 2008-05-31T15:56:26+02:00

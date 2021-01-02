@@ -1,7 +1,7 @@
 ---
 date: 2008-06-01T13:39:00+02:00
 title: "Victor Démé"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2008/06/01/Victor-Deme]
 tags: ["musique", "blues", "burkina faso", "victor démé"]
 lastmod: 2008-06-01T13:39:00+02:00

@@ -1,7 +1,7 @@
 ---
 date: 2013-02-11T21:22:00+01:00
 title: "Revenu de base"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2013/02/11/Promotion-pour-le-revenu-de-base]
 tags: ["actualité/societé", "décroissance", "revenu de base", "société"]
 lastmod: 2013-02-12T08:38:14+01:00

@@ -1,7 +1,7 @@
 ---
 date: 2008-07-31T00:46:00+02:00
 title: "Joseph Bowie & Defunkt au sunset/sunside"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2008/07/31/Joseph-Bowie-Defunkt-au-sunset/sunside]
 tags: ["musique", "defunkt", "funk", "joseph bowie", "sunset-sunside"]
 lastmod: 2008-08-03T12:58:26+02:00

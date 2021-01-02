@@ -1,7 +1,7 @@
 ---
 date: 2008-01-03T12:39:00+01:00
 title: "Travailler moins pour gagner moins et vivre mieux..."
-author: "franek"
+author: ["franek"]
 aliases: [/post/2008/01/03/Travailler-moins-pour-gagner-moins-et-vivre-mieux]
 tags: ["actualité/societé", "décroissance", "développement durable"]
 lastmod: 2008-01-03T12:44:07+01:00

@@ -1,7 +1,7 @@
 ---
 date: 2007-06-07T23:34:00+02:00
 title: "curso de espagnol"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2007/06/07/curso-de-espagnol]
 tags: ["curso de espagnol"]
 lastmod: 2007-06-07T23:34:00+02:00

@@ -1,7 +1,7 @@
 ---
 date: 2009-12-29T22:20:00+01:00
 title: "Amélioration du \"post script\" de backup-manager"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2009/12/29/Am%C3%A9lioration-du-post-script-de-backup-manager]
 tags: ["geek", "backup", "backup-manager", "hook", "linux", "sauvegarde"]
 lastmod: 2010-08-17T13:36:24+02:00

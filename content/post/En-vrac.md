@@ -1,7 +1,7 @@
 ---
 date: 2009-02-02T23:13:00+01:00
 title: "En vrac"
-author: "jack"
+author: ["franek"]
 aliases: [/post/2009/02/02/En-vrac]
 tags: ["en vrac", "firefox", "hamburger", "Londres", "video"]
 lastmod: 2009-02-02T23:13:26+01:00

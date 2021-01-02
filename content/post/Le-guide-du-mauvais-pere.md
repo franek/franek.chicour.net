@@ -1,7 +1,7 @@
 ---
 date: 2013-12-22T10:09:00+01:00
 title: "Le guide du mauvais père"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2013/12/22/Le-guide-du-mauvais-p%C3%A8re]
 tags: ["dernières lectures", "bd", "guide du mauvais père", "Guy Delisle"]
 lastmod: 2014-01-06T21:52:14+01:00

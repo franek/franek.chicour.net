@@ -1,7 +1,7 @@
 ---
 date: 2012-06-02T11:54:00+02:00
 title: "Créer une basebox CentOS-6.2 pour vagrant"
-author: "jack"
+author: ["franek"]
 aliases: [/post/2012/06/02/Cr%C3%A9er-une-basebox-CentOS-6.2-pour-vagrant]
 tags: ["geek", "basebox", "CentOS", "french", "ruby", "vagrant", "veewee", "virtualbox"]
 lastmod: 2013-03-11T22:49:57+01:00

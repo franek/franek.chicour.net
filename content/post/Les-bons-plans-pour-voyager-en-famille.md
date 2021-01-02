@@ -1,7 +1,7 @@
 ---
 date: 2008-10-02T23:18:00+02:00
 title: "Les bons plans pour voyager en famille"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2008/10/02/Les-bons-plans-pour-voyager-en-famille]
 tags: ["tourisme", "pub", "tourisme"]
 lastmod: 2008-10-12T15:23:52+02:00

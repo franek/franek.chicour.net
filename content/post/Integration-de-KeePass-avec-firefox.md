@@ -1,7 +1,7 @@
 ---
 date: 2013-10-18T23:30:00+02:00
 title: "Intégration de KeePass avec firefox"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2013/10/19/Int%C3%A9gration-de-KeePass-et-firefox]
 tags: ["geek", "firefox", "keepass", "mot de passe", "sécurité"]
 lastmod: 2017-05-15T19:25:32+02:00

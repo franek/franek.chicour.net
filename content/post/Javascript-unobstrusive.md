@@ -1,7 +1,7 @@
 ---
 date: 2007-11-29T22:34:00+01:00
 title: "Javascript unobstrusive"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2007/11/29/Dev-web-%3A-Javascript-unobstrusive]
 tags: ["développement web", "dev web", "javascript"]
 lastmod: 2007-12-09T01:46:54+01:00

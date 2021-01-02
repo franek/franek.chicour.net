@@ -1,7 +1,7 @@
 ---
 date: 2008-05-10T18:29:00+02:00
 title: "Retour d'espagne"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2008/05/10/Retour-despagne]
 tags: ["tourisme", "espagne", "Madrid", "tolède"]
 lastmod: 2008-06-25T21:59:01+02:00

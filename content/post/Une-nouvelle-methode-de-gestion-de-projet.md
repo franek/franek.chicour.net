@@ -1,7 +1,7 @@
 ---
 date: 2009-03-01T18:13:00+01:00
 title: "Une nouvelle méthode de gestion de projet"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2009/03/01/Une-nouvelle-m%C3%A9thode-de-gestion-de-projet]
 tags: ["geek", "arrache", "gestion de projet", "post-it"]
 lastmod: 2009-03-01T18:13:42+01:00

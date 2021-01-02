@@ -1,7 +1,7 @@
 ---
 date: 2008-07-07T19:07:00+02:00
 title: "La chanson du dimanche à Solidays"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2008/07/07/La-chanson-du-dimanche-a-Solidays]
 tags: ["musique"]
 lastmod: 2008-07-07T19:07:00+02:00

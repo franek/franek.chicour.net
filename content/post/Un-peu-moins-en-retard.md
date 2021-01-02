@@ -1,7 +1,7 @@
 ---
 date: 2008-01-27T22:14:00+01:00
 title: "Un peu moins en retard..."
-author: "franek"
+author: ["franek"]
 aliases: [/post/2008/01/27/Un-peu-moins-en-retard]
 tags: ["cinéma"]
 lastmod: 2008-01-27T22:14:01+01:00

@@ -1,7 +1,7 @@
 ---
 date: 2007-12-09T13:47:00+01:00
 title: "Photos de barcelona"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2007/12/09/Photos-de-barcelona]
 tags: ["tourisme", "Barcelone"]
 lastmod: 2007-12-09T13:51:59+01:00

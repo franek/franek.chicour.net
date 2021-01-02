@@ -1,7 +1,7 @@
 ---
 date: 2009-01-15T23:24:00+01:00
 title: "L'identité numérique en question"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2009/01/15/L-identit%C3%A9-num%C3%A9rique-en-question]
 tags: ["actualité/societé", "facebook", "identité numérique", "web2.0"]
 lastmod: 2009-01-15T23:32:32+01:00

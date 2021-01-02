@@ -1,7 +1,7 @@
 ---
 date: 2008-01-13T23:50:00+01:00
 title: "La K7 audio n'a pas de DRM"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2008/01/13/La-K7-audio-na-pas-de-DRM]
 tags: ["musique", "K7"]
 lastmod: 2008-01-13T23:50:39+01:00

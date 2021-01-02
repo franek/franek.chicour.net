@@ -1,7 +1,7 @@
 ---
 date: 2012-04-06T21:03:00+02:00
 title: "Le meilleur (et le pire) de Porto"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2012/04/06/Le-meilleur-%28et-le-pire%29-de-Porto]
 tags: ["tourisme", "azulejos", "bar", "Porto", "Portugal", "restaurant", "road-trip-europe-sud"]
 lastmod: 2013-03-11T22:58:29+01:00

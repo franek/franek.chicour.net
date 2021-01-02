@@ -1,7 +1,7 @@
 ---
 date: 2008-05-18T13:15:00+02:00
 title: "Pétition pour l'accessibilité numérique"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2008/05/18/Petition-pour-laccessibilite-numerique]
 tags: ["actualité/societé"]
 lastmod: 2011-10-16T22:07:29+02:00

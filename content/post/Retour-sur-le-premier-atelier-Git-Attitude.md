@@ -1,7 +1,7 @@
 ---
 date: 2010-07-12T21:06:00+02:00
 title: "Retour sur le premier atelier Git Attitude"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2010/07/12/Retour-sur-le-premier-atelier-Git-Attitude]
 tags: ["geek", "git", "gitattitude", "subversion"]
 lastmod: 2011-10-23T17:00:15+02:00

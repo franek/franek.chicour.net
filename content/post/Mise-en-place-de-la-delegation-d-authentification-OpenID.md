@@ -1,7 +1,7 @@
 ---
 date: 2009-11-19T23:25:00+01:00
 title: "Mise en place de la délégation d'authentification OpenID"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2009/11/19/Mise-en-place-de-la-d%C3%A9l%C3%A9gation-d-authentification-OpenId]
 tags: ["développement web", "authentifcation", "délégation", "OpenID"]
 lastmod: 2011-10-16T21:35:39+02:00

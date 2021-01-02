@@ -1,7 +1,7 @@
 ---
 date: 2008-12-18T23:46:00+01:00
 title: "George W. Bush scélérat jusqu’au bout"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2008/12/18/George-W.-Bush-sc%C3%A9l%C3%A9rat-jusqu%E2%80%99au-bout]
 tags: ["actualité/societé", "Bush", "USA"]
 lastmod: 2008-12-18T23:46:49+01:00

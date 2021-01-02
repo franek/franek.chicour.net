@@ -1,7 +1,7 @@
 ---
 date: 2009-04-07T23:26:00+02:00
 title: "Je ne veux pas d'Hadopi"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2009/04/07/Je-ne-veux-pas-d-Hadopi]
 tags: ["actualité/societé", "hadopi", "internet"]
 lastmod: 2009-04-07T23:26:00+02:00

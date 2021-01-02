@@ -1,7 +1,7 @@
 ---
 date: 2008-01-06T00:25:00+01:00
 title: "Le cas facebook"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2008/01/06/Le-cas-facebook]
 tags: ["actualité/societé", "facebook", "réseau social"]
 lastmod: 2008-01-06T00:31:14+01:00

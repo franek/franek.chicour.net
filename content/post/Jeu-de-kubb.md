@@ -1,7 +1,7 @@
 ---
 date: 2008-04-16T22:41:00+02:00
 title: "Jeu de kubb"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2008/04/16/Jeu-de-kubb]
 tags: ["en vrac", "kubb", "pétanque"]
 lastmod: 2008-04-16T22:41:00+02:00

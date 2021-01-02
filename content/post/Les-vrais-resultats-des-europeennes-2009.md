@@ -1,7 +1,7 @@
 ---
 date: 2009-06-08T23:12:00+02:00
 title: "Les vrais résultats des européennes 2009"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2009/06/08/Les-vrais-r%C3%A9sultats-des-europ%C3%A9ennes-2009]
 tags: ["actualité/societé", "2009", "Europe", "élection"]
 lastmod: 2009-06-08T23:12:00+02:00

@@ -1,7 +1,7 @@
 ---
 date: 2008-01-21T22:47:00+01:00
 title: "Les papous à Paris"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2008/01/21/Les-papous-a-Paris]
 tags: ["actualité/societé"]
 lastmod: 2008-01-21T22:51:43+01:00

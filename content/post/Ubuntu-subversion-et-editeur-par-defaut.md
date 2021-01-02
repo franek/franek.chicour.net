@@ -1,7 +1,7 @@
 ---
 date: 2010-07-05T13:35:00+02:00
 title: "Ubuntu, subversion et éditeur par défaut"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2010/07/05/Ubuntu%2C-subversion-et-%C3%A9diteur-par-d%C3%A9faut]
 tags: ["geek", "subversion", "ubuntu"]
 lastmod: 2011-10-23T17:00:15+02:00

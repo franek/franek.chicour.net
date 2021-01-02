@@ -1,7 +1,7 @@
 ---
 date: 2008-10-02T22:51:00+02:00
 title: "Traverser l'océan atlantique sans avion"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2008/10/02/Traverser-l-ocean-atlantique-sans-avion]
 tags: ["tourisme", "argentine", "cargo"]
 lastmod: 2008-10-02T22:51:00+02:00

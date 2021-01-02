@@ -1,7 +1,7 @@
 ---
 date: 2007-05-26T14:22:00+02:00
 title: "Live Chameleon - Herbie Hancock & the Head Hunters,..."
-author: "franek"
+author: ["franek"]
 aliases: [/post/2007/05/26/Head-Hunters]
 tags: ["musique", "funk", "herbie hancock"]
 lastmod: 2007-05-26T14:22:00+02:00

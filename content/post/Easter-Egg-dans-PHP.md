@@ -1,7 +1,7 @@
 ---
 date: 2008-03-31T22:12:00+02:00
 title: "Easter Egg dans PHP"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2008/03/31/Easter-Egg-dans-PHP]
 tags: ["geek", "easter egg", "php"]
 lastmod: 2008-03-31T22:12:00+02:00

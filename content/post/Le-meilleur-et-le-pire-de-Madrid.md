@@ -1,7 +1,7 @@
 ---
 date: 2012-03-28T22:13:00+02:00
 title: "Le meilleur (et le pire) de Madrid..."
-author: "franek"
+author: ["franek"]
 aliases: [/post/2012/03/28/Le-meilleur-%28et-le-pire%29-de-Madrid...]
 tags: ["tourisme", "chocolat chaud", "churros", "Espagne", "hamburger", "Madrid", "restaurant", "road-trip-europe-sud", "tapas"]
 lastmod: 2013-03-11T23:01:03+01:00

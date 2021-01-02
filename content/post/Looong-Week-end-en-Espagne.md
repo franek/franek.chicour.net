@@ -1,7 +1,7 @@
 ---
 date: 2008-04-29T12:42:00+02:00
 title: "Looong Week-end en Espagne"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2008/04/29/Looong-Week-end-en-Espagne]
 tags: ["tourisme", "espagne", "Madrid"]
 lastmod: 2008-05-06T10:13:56+02:00

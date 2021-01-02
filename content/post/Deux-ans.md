@@ -1,7 +1,7 @@
 ---
 date: 2013-12-15T00:00:00+01:00
 title: "Deux ans"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2013/12/15/Deux-ans]
 tags: ["15décembre2011", "Camille"]
 lastmod: 2013-12-15T18:10:41+01:00

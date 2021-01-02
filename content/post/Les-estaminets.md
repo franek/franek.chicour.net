@@ -1,7 +1,7 @@
 ---
 date: 2008-10-18T16:37:00+02:00
 title: "Les estaminets"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2008/10/18/Les-estaminets]
 tags: ["autour de Lille", "estaminet", "Flandres"]
 lastmod: 2008-10-18T16:37:00+02:00

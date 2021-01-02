@@ -1,7 +1,7 @@
 ---
 date: 2010-05-16T18:50:00+02:00
 title: "Les bonnes adresses de Catalogne"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2010/05/16/Les-bonnes-adresses-de-Catalogne]
 tags: ["tourisme", "bar", "Barcelone", "Catalogne", "restaurant"]
 lastmod: 2010-05-18T18:19:55+02:00

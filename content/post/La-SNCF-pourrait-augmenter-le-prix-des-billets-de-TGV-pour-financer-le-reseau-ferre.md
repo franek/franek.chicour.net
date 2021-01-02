@@ -1,7 +1,7 @@
 ---
 date: 2008-03-25T23:11:00+01:00
 title: "\"La SNCF pourrait augmenter le prix des billets de TGV pour financer le réseau ferré\""
-author: "franek"
+author: ["franek"]
 aliases: [/post/2008/03/25/La-SNCF-pourrait-augmenter-le-prix-des-billets-de-TGV-pour-financer-le-reseau-ferre]
 tags: ["actualité/societé", "sncf"]
 lastmod: 2008-03-26T22:29:28+01:00

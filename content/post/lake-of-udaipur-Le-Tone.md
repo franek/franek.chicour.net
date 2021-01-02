@@ -1,7 +1,7 @@
 ---
 date: 2008-07-04T14:39:00+02:00
 title: "\"lake of udaipur\" - Le Tone"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2008/06/26/lake-of-udaipur-le-tone]
 tags: ["musique"]
 lastmod: 2008-07-05T10:03:58+02:00

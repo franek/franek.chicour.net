@@ -1,7 +1,7 @@
 ---
 date: 2010-01-31T18:09:00+01:00
 title: "Je soutiens la quadrature du net"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2010/01/31/Je-soutiens-la-quadrature-du-net]
 tags: ["geek", "don", "hadopi", "loppsi", "quadrature", "soutien"]
 lastmod: 2010-01-31T18:12:54+01:00

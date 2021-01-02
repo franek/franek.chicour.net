@@ -1,7 +1,7 @@
 ---
 date: 2009-04-08T21:25:00+02:00
 title: "Back from Dublin"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2009/04/08/Back-from-Dublin]
 tags: ["tourisme", "Dublin", "Irlande"]
 lastmod: 2009-04-08T21:25:00+02:00

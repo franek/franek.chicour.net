@@ -1,7 +1,7 @@
 ---
 date: 2007-07-08T19:08:00+02:00
 title: "\"Working Class Hero\" Guitar Lesson"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2007/07/08/Working-Class-Hero-Guitar-Lesson]
 tags: ["musique", "guitare", "leçon"]
 lastmod: 2012-10-25T19:25:46+02:00

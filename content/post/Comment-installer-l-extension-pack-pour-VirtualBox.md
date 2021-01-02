@@ -1,7 +1,7 @@
 ---
 date: 2012-02-11T15:13:00+01:00
 title: "Comment installer l'extension pack pour VirtualBox ?"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2012/02/11/Comment-installer-l-extension-pack-pour-VirtualBox]
 tags: ["geek", "extensionpack", "virtualbox"]
 lastmod: 2012-02-11T15:39:06+01:00

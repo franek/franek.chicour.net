@@ -1,7 +1,7 @@
 ---
 date: 2007-07-04T21:34:00+02:00
 title: "outils pour fixer rendez-vous"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2007/07/04/outils-pour-fixer-rendez-vous]
 tags: ["geek", "rendez-vous"]
 lastmod: 2007-07-04T21:34:00+02:00

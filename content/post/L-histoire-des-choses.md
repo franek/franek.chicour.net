@@ -1,7 +1,7 @@
 ---
 date: 2009-01-03T13:50:00+01:00
 title: "L'histoire des choses"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2009/01/03/L-histoire-des-choses]
 tags: ["actualité/societé", "décroissance", "écologie"]
 lastmod: 2009-01-03T13:51:08+01:00

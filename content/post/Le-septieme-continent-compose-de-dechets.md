@@ -1,7 +1,7 @@
 ---
 date: 2008-04-06T18:27:00+02:00
 title: "Le septième continent composé de déchets"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2008/04/06/Le-septieme-continent-compose-de-dechets]
 tags: ["actualité/societé", "pacifique", "écologie"]
 lastmod: 2008-04-06T18:27:00+02:00

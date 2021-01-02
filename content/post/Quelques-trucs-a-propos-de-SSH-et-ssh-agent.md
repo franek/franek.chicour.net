@@ -1,7 +1,7 @@
 ---
 date: 2013-07-22T14:23:00+02:00
 title: "Quelques trucs à propos de SSH et ssh-agent"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2013/07/22/Quelques-trucs-sur-SSH-et-SSH-AGENT]
 tags: ["geek", "ssh", "ssh-agent", "sysadmin"]
 lastmod: 2013-07-22T14:23:00+02:00

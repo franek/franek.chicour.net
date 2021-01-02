@@ -1,7 +1,7 @@
 ---
 date: 2009-01-02T17:28:00+01:00
 title: "D'où vient l'argent ?"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2009/01/02/D-o%C3%B9-vient-l-argent]
 tags: ["actualité/societé", "argent", "dette", "origine"]
 lastmod: 2009-01-02T17:35:49+01:00

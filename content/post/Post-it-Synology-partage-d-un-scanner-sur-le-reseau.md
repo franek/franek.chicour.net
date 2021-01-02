@@ -1,7 +1,7 @@
 ---
 date: 2011-09-20T14:48:00+02:00
 title: "Post-it : Synology partage d'un scanner sur le réseau"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2011/09/20/Post-it-%3A-Synology-partage-d-un-scanner-sur-le-r%C3%A9seau]
 tags: ["geek", "ds-211", "hp", "network", "PSC-1100", "réseau", "scanner", "synology", "ubuntu"]
 lastmod: 2011-09-24T13:11:16+02:00

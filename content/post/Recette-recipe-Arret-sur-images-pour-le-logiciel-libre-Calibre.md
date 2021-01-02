@@ -1,7 +1,7 @@
 ---
 date: 2013-03-30T19:16:00+01:00
 title: "Recette (/recipe) \"Arrêt sur images\" pour le logiciel libre Calibre"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2013/03/30/Recette-%28/recipe%29-Arr%C3%AAt-sur-images-pour-le-logiciel-libre-Calibre]
 tags: ["geek", "arrêt sur images", "calibre", "ebook", "liseuse", "news"]
 lastmod: 2014-01-06T21:55:26+01:00

@@ -1,7 +1,7 @@
 ---
 date: 2013-02-11T21:01:00+01:00
 title: "Exporter une page web avec l'ensemble des assets (CSS, JS, images)"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2013/02/21/Exporter-une-page-web-avec-l-ensemble-des-assets-%28CSS%2C-JS%2C-images%29]
 tags: ["geek", "export", "html", "wget"]
 lastmod: 2013-02-21T21:09:49+01:00

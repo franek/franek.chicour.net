@@ -1,7 +1,7 @@
 ---
 date: 2008-10-09T22:36:00+02:00
 title: "Vidéo sur le conflit israelo-palestinien"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2008/10/09/Video-sur-le-conflit-israelo-palestinien]
 tags: ["actualité/societé", "Israël", "Moyen-Orient", "Palestine"]
 lastmod: 2008-10-09T22:36:00+02:00

@@ -1,7 +1,7 @@
 ---
 date: 2008-02-25T23:25:00+01:00
 title: "Bien préparer la certification PHP5"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2008/02/25/Bien-preparer-la-certification-PHP5]
 tags: ["développement web", "certification", "php"]
 lastmod: 2008-02-25T23:26:57+01:00

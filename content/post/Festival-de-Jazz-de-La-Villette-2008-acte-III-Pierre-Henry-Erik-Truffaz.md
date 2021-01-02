@@ -1,7 +1,7 @@
 ---
 date: 2008-09-11T19:25:00+02:00
 title: "Festival de Jazz de La Villette 2008 - acte III - Pierre Henry&Erik Truffaz"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2008/09/11/Festival-de-Jazz-de-La-Villette-2008-acte-III]
 tags: ["musique", "erik truffaz", "festival", "festival de jazz de la villette", "jazz", "pierre henry"]
 lastmod: 2008-09-14T13:35:55+02:00

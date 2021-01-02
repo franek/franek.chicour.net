@@ -1,7 +1,7 @@
 ---
 date: 2008-11-14T23:25:00+01:00
 title: "Dernières lectures"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2008/11/14/Derni%C3%A8res-lectures]
 tags: ["dernières lectures", "livre"]
 lastmod: 2009-01-12T23:02:58+01:00

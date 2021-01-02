@@ -1,7 +1,7 @@
 ---
 date: 2007-12-01T15:11:00+01:00
 title: "Retour sur Hong Kong"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2007/12/01/Retour-sur-Hong-Kong]
 tags: ["tourisme", "hong kong"]
 lastmod: 2007-12-01T15:12:24+01:00

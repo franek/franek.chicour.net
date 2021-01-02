@@ -1,7 +1,7 @@
 ---
 date: 2008-01-27T22:23:00+01:00
 title: "Face de vynilles"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2008/01/27/Face-de-vynilles]
 tags: ["actualité/societé", "king crimson", "photos", "sleeveface"]
 lastmod: 2008-02-07T23:50:50+01:00

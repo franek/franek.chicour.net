@@ -1,7 +1,7 @@
 ---
 date: 2008-08-20T23:21:00+02:00
 title: "Les festivals de jazz de la rentrée"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2008/08/20/Les-festivals-de-jazz-de-la-rentree]
 tags: ["autour de Paris", "festival", "jazz"]
 lastmod: 2008-10-12T15:35:29+02:00

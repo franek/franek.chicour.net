@@ -1,7 +1,7 @@
 ---
 date: 2008-08-02T21:25:00+02:00
 title: "Exposition : le monde d'Oum Kalsoum"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2008/08/22/Exposition-%3A-le-monde-d-Oum-Kalsoum]
 tags: ["autour de Paris", "orient", "oum kalsoum"]
 lastmod: 2008-10-12T15:35:29+02:00

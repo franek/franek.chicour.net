@@ -1,7 +1,7 @@
 ---
 date: 2007-09-19T22:02:00+02:00
 title: "Concert Emilie Simon à la salle Pleyel"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2007/09/19/Concert-Emilie-Simon-a-la-salle-Pleyel]
 tags: ["musique", "concert", "emilie simon"]
 lastmod: 2007-09-22T17:39:40+02:00

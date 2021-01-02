@@ -1,7 +1,7 @@
 ---
 date: 2008-02-10T21:43:00+01:00
 title: "Ceci est un ça... un quoi... un ça..."
-author: "franek"
+author: ["franek"]
 aliases: [/post/2008/02/10/Ceci-est-un-ca-un-quoi-un-ca]
 tags: ["autour de Paris", "impro", "théâtre"]
 lastmod: 2008-10-12T15:34:01+02:00

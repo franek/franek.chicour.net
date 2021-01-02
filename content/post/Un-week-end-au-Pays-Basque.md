@@ -1,7 +1,7 @@
 ---
 date: 2009-11-05T13:39:00+01:00
 title: "Un week-end au Pays Basque"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2009/11/05/Un-week-end-aux-Pays-Basques]
 tags: ["tourisme", "Biarritz", "pays Basque", "tourisme"]
 lastmod: 2009-11-08T16:24:23+01:00

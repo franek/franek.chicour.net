@@ -1,7 +1,7 @@
 ---
 date: 2007-10-18T22:39:00+02:00
 title: "\"La cucaracha\" des enfants"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2007/10/18/La-cucaracha-des-enfants]
 tags: ["musique", "curso de espagnol"]
 lastmod: 2008-05-30T22:28:06+02:00

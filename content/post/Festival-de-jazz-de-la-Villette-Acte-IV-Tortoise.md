@@ -1,7 +1,7 @@
 ---
 date: 2008-09-13T12:05:00+02:00
 title: "Festival de jazz de la Villette - Acte IV - Tortoise"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2008/09/13/Festival-de-jazz-de-la-Villette-Acte-IV]
 tags: ["musique", "festival de jazz de la villette", "post-rock", "Tortoise"]
 lastmod: 2008-09-13T12:05:00+02:00

@@ -1,7 +1,7 @@
 ---
 date: 2008-07-06T22:59:00+02:00
 title: "L'afro-beat de Fanga"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2008/07/06/Fanga]
 tags: ["musique", "afro-beat", "fanga", "solidays"]
 lastmod: 2008-07-06T22:59:00+02:00

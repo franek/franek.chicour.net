@@ -1,7 +1,7 @@
 ---
 date: 2008-05-07T18:38:00+02:00
 title: "Expo \"Les soldats de l'éternité\""
-author: "franek"
+author: ["franek"]
 aliases: [/post/2008/05/07/Expo-Les-soldats-de-leternite]
 tags: ["autour de Paris", "Chine", "José Frèches"]
 lastmod: 2008-10-12T15:29:55+02:00

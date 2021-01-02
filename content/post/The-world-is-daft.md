@@ -1,7 +1,7 @@
 ---
 date: 2008-04-03T22:56:00+02:00
 title: "The world is daft"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2008/04/03/The-world-is-daft]
 tags: ["musique", "daft punk"]
 lastmod: 2008-04-03T22:56:00+02:00

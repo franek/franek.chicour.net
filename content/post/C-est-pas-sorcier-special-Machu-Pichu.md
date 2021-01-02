@@ -1,7 +1,7 @@
 ---
 date: 2010-01-10T13:09:00+01:00
 title: "C'est pas sorcier special Machu Pichu"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2010/01/10/C-est-pas-sorcier-special-Machu-Pichu]
 tags: ["tourisme", "Andes", "C est pas sorcier", "France3", "Machu Pichu", "Pérou"]
 lastmod: 2010-01-10T13:12:01+01:00

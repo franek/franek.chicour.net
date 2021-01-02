@@ -1,7 +1,7 @@
 ---
 date: 2009-11-09T09:25:00+01:00
 title: "Segmentation fault avec la Zend Platform et le composant Zend_Cache du Zend Framework"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2009/11/09/Segmentation-fault-avec-la-Zend-Platform-et-le-composant-Zend-Cache-du-Zend-Framework]
 tags: ["développement web", "apache", "Segmentation Fault", "Zend Cache", "Zend Framework", "Zend Platform"]
 lastmod: 2009-11-09T09:25:00+01:00

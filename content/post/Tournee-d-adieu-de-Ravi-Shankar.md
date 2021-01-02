@@ -1,7 +1,7 @@
 ---
 date: 2008-06-01T22:07:00+02:00
 title: "Tournée d'adieu de Ravi Shankar"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2008/06/01/Tournee-dadieu-de-Ravi-Shankar]
 tags: ["musique", "Inde", "ravi shankar", "sitar"]
 lastmod: 2008-06-01T22:07:00+02:00

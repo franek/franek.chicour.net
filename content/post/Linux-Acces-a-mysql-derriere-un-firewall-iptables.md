@@ -1,7 +1,7 @@
 ---
 date: 2011-03-04T22:58:00+01:00
 title: "Linux : Accès à mysql derrière un firewall (iptables)"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2011/03/04/Linux-%3A-Acc%C3%A8s-%C3%A0-mysql-derri%C3%A8re-un-firewall-%28iptables%29]
 tags: ["geek", "iptables", "mysql"]
 lastmod: 2011-03-04T23:04:19+01:00

@@ -1,7 +1,7 @@
 ---
 date: 2008-09-14T22:53:00+02:00
 title: "Festival de Jazz de La Villette 2008 - acte V et VI"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2008/09/14/Festival-de-Jazz-de-La-Villette-2008-acte-V-et-VI]
 tags: ["musique", "festival", "festival de jazz de la villette", "jazz", "sex mob", "the bad plus"]
 lastmod: 2008-09-15T22:17:32+02:00

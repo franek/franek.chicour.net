@@ -1,7 +1,7 @@
 ---
 date: 2013-11-11T22:25:00+01:00
 title: "Lister toutes les machines d'un réseau"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2013/11/11/Lister-toutes-les-machines-d-un-r%C3%A9seau]
 tags: ["geek", "list", "network", "nmap", "réseau"]
 lastmod: 2013-11-19T13:31:18+01:00

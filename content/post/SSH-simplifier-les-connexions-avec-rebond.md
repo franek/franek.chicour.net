@@ -1,7 +1,7 @@
 ---
 date: 2009-12-04T17:36:00+01:00
 title: "SSH : simplifier les connexions avec rebond"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2009/10/16/SSH-%3A-simplifier-les-connexions-avec-rebond]
 tags: ["développement web", "ProxyCommand", "rebond", "SSH", "tunnel"]
 lastmod: 2011-10-16T15:12:35+02:00

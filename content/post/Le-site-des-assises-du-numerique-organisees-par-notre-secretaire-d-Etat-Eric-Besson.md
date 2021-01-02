@@ -1,7 +1,7 @@
 ---
 date: 2008-04-24T00:09:00+02:00
 title: "Le site des assises du numérique organisées par notre secrétaire d'Etat Eric Besson"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2008/04/24/Le-site-des-assises-du-numerique-organisees-par-notre-secretaire-dEtat-Eric-Besson]
 tags: ["actualité/societé", "accessibilité"]
 lastmod: 2011-10-16T22:07:30+02:00

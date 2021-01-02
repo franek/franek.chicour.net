@@ -1,7 +1,7 @@
 ---
 date: 2009-04-27T19:08:00+02:00
 title: "Passer à ubuntu 9.04 sans graver un cd-rom"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2009/04/27/Passer-%C3%A0-ubuntu-9.04-sans-g%C3%A2cher-un-cd-rom]
 tags: ["geek", "9.04", "jaunty jalope", "ubuntu", "upgrade"]
 lastmod: 2009-04-27T20:03:13+02:00

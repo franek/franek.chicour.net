@@ -1,7 +1,7 @@
 ---
 date: 2009-10-13T23:13:00+02:00
 title: "Les concerts du moment"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2009/10/13/Les-concerts-du-moment]
 tags: ["musique", "concert", "General Elektriks", "Mathieu Boogaerts", "Robert Fripp"]
 lastmod: 2009-10-14T22:20:54+02:00

@@ -1,7 +1,7 @@
 ---
 date: 2009-05-05T23:37:00+02:00
 title: "Retour de Dordogne"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2009/05/05/Retour-de-Dordogne]
 tags: ["tourisme", "Brantôme", "Grotte de Villars", "Périgord", "Saint Jean de Côle"]
 lastmod: 2009-05-05T23:37:00+02:00

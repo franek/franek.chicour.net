@@ -1,7 +1,7 @@
 ---
 date: 2011-04-29T15:26:00+02:00
 title: "KeepAlive On et SSL avec Internet Explorer"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2011/04/29/KeepAlive-On-et-SSL-avec-Internet-Explorer]
 tags: ["développement web", "apache", "keepalive", "ssl", "webperf"]
 lastmod: 2011-10-23T17:00:15+02:00

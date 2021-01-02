@@ -1,7 +1,7 @@
 ---
 date: 2007-11-06T23:01:00+01:00
 title: "Economie et écologie"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2007/11/06/Economie-et-ecologie]
 tags: ["actualité/societé", "lecture", "écologie"]
 lastmod: 2007-11-06T23:01:34+01:00

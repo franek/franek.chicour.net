@@ -1,7 +1,7 @@
 ---
 date: 2011-10-10T13:21:00+02:00
 title: "Jenkins : Respect des conventions de codage Javascript avec JSLint"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2011/10/10/Jenkins-%3A-Respect-des-conventions-de-codage-Javascript-avec-JSLint]
 tags: ["développement web", "intégration continue", "jenkins", "jslint", "phing", "php"]
 lastmod: 2011-10-23T17:00:15+02:00

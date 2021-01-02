@@ -1,7 +1,7 @@
 ---
 date: 2008-03-11T00:10:00+01:00
 title: "Vous savez que vous êtes de Lille quand..."
-author: "franek"
+author: ["franek"]
 aliases: [/post/2008/03/11/Vous-savez-que-vous-etes-de-Lille-quand]
 tags: ["autour de Lille", "chti"]
 lastmod: 2008-10-12T15:25:17+02:00

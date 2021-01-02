@@ -1,7 +1,7 @@
 ---
 date: 2008-12-09T22:11:00+01:00
 title: "Forum PHP AFUP 2008"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2008/12/09/Forum-PHP-AFUP-2008]
 tags: ["développement web", "afup", "forum", "php"]
 lastmod: 2008-12-10T23:42:55+01:00

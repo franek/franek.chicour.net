@@ -1,7 +1,7 @@
 ---
 date: 2008-11-04T20:57:00+01:00
 title: "La Flandre communique..."
-author: "franek"
+author: ["franek"]
 aliases: [/post/2008/11/04/La-Flandre-communique...]
 tags: ["autour de Lille", "Flandres", "pub"]
 lastmod: 2008-11-04T21:01:39+01:00

@@ -1,7 +1,7 @@
 ---
 date: 2012-04-07T15:45:00+02:00
 title: "Le meilleur (et le pire) de Séville (et Cordoue et Grenade)"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2012/04/07/Le-meilleur-%28et-le-pire%29-de-S%C3%A9ville-et-Cordoue]
 tags: ["tourisme", "Andalousie", "Cordoue", "Espagne", "Grenade", "l Alhambra", "restaurant", "Séville", "tapas"]
 lastmod: 2013-03-11T22:55:07+01:00

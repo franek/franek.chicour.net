@@ -1,7 +1,7 @@
 ---
 date: 2011-08-12T14:55:00+02:00
 title: "Quelques trucs et astuces concernant git (et git svn)"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2011/02/11/Quelques-trucs-et-astuces-concernant-git-%28et-git-svn%29]
 tags: ["geek", "astuces", "git", "git-svn"]
 lastmod: 2011-08-12T14:55:00+02:00

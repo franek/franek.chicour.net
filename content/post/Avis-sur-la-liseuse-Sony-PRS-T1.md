@@ -1,7 +1,7 @@
 ---
 date: 2012-04-29T17:04:00+02:00
 title: "Avis sur la liseuse Sony PRS-T1"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2012/04/29/Avis-sur-la-liseuse-Sony-PRS-T1]
 tags: ["geek", "avis", "ebook", "liseuse", "livre numérique", "reader", "sony PRS-T1"]
 lastmod: 2018-07-28T12:34:30+02:00

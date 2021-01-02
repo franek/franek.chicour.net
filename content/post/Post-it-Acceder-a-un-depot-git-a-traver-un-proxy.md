@@ -1,7 +1,7 @@
 ---
 date: 2011-08-06T17:12:00+02:00
 title: "Post-it : Accéder à un dépôt git à traver un proxy"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2011/08/05/Acc%C3%A9der-%C3%A0-un-d%C3%A9p%C3%B4t-git-%C3%A0-traver-un-proxy]
 tags: ["geek", "corkscrew", "git", "post-it", "proxy"]
 lastmod: 2011-10-11T12:44:24+02:00

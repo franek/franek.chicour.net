@@ -1,7 +1,7 @@
 ---
 date: 2011-02-03T19:45:00+01:00
 title: "Week-end à Londres"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2011/02/03/Week-end-%C3%A0-Londres]
 tags: ["tourisme", "brick lane", "Londres", "musée"]
 lastmod: 2011-02-05T14:32:39+01:00

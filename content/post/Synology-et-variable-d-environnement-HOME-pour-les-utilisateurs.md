@@ -1,7 +1,7 @@
 ---
 date: 2012-03-30T17:31:00+02:00
 title: "Synology et variable d'environnement $HOME pour les utilisateurs"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2012/03/30/Synology-et-variable-d-environnement-%24HOME-pour-les-utilisateurs]
 tags: ["geek", "$HOME", "synology", "unix", "variable d environnement"]
 lastmod: 2013-03-11T22:59:23+01:00

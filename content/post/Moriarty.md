@@ -1,7 +1,7 @@
 ---
 date: 2008-01-27T21:44:00+01:00
 title: "Moriarty"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2008/01/27/Moriarty]
 tags: ["musique", "moriarty", "pop"]
 lastmod: 2008-01-27T21:53:07+01:00

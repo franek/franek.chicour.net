@@ -1,7 +1,7 @@
 ---
 date: 2008-11-03T01:21:00+01:00
 title: "Lancement de streamdrag"
-author: "jack"
+author: ["franek"]
 aliases: [/post/2008/11/03/Lancement-de-streamdrag]
 tags: ["geek", "deezer", "musique"]
 lastmod: 2008-11-03T01:21:23+01:00

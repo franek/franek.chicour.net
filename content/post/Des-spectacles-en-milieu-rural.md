@@ -1,7 +1,7 @@
 ---
 date: 2008-10-28T23:49:00+01:00
 title: "Des spectacles en milieu rural"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2008/10/28/Des-spectacles-en-milieu-rural]
 tags: ["autour de Lille", "culture", "Flandres"]
 lastmod: 2009-01-05T15:45:09+01:00

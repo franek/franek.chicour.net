@@ -1,7 +1,7 @@
 ---
 date: 2008-07-13T11:04:00+02:00
 title: "La sensation nneka"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2008/07/05/nneka]
 tags: ["musique", "nneka", "nu-soul", "reggae"]
 lastmod: 2008-07-13T11:26:20+02:00

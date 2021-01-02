@@ -1,7 +1,7 @@
 ---
 date: 2010-01-31T18:36:00+01:00
 title: "Les bonnes adresses du Pérou"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2010/01/31/Les-bonnes-adresses-du-P%C3%A9rou]
 tags: ["tourisme", "Arequipa", "bar", "Cusco", "hôtel", "Lima", "Puno", "Pérou", "restaurant"]
 lastmod: 2010-01-31T22:31:44+01:00

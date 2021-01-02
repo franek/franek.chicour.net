@@ -1,7 +1,7 @@
 ---
 date: 2007-07-10T00:08:00+02:00
 title: "Defunkt au New Morning"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2007/07/10/Defunkt-au-New-Morning]
 tags: ["musique", "defunkt", "funk"]
 lastmod: 2007-07-17T22:30:28+02:00

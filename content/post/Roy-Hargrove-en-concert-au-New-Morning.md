@@ -1,7 +1,7 @@
 ---
 date: 2007-07-17T23:26:00+02:00
 title: "Roy Hargrove en concert au New Morning"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2007/07/17/Roy-Hargrove-en-concert-au-New-Morning]
 tags: ["musique", "concert", "funk", "roy hargrove"]
 lastmod: 2007-07-17T23:26:00+02:00

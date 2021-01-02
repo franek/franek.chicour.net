@@ -1,7 +1,7 @@
 ---
 date: 2011-11-27T09:48:00+01:00
 title: "Retour sur le #phptour de Lille"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2011/11/27/Retour-sur-le-phptour-de-Lille]
 tags: ["développement web", "afup", "lille", "php", "phptour"]
 lastmod: 2011-12-23T15:53:40+01:00

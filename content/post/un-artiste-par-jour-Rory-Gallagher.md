@@ -1,7 +1,7 @@
 ---
 date: 2007-05-14T23:10:00+02:00
 title: "un artiste par jour : Rory Gallagher"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2007/05/14/un-artiste-par-jour-%3A-Rory-Gallagher]
 tags: ["musique"]
 lastmod: 2007-05-14T23:10:00+02:00

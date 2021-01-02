@@ -1,7 +1,7 @@
 ---
 date: 2008-02-27T00:02:00+01:00
 title: "\"Les caisses de l'état sont vides...\""
-author: "franek"
+author: ["franek"]
 aliases: [/post/2008/02/27/Les-caisses-de-letat-sont-vides]
 tags: ["actualité/societé"]
 lastmod: 2008-02-27T00:02:35+01:00

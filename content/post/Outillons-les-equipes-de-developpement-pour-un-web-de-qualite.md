@@ -1,7 +1,7 @@
 ---
 date: 2008-11-01T00:42:00+01:00
 title: "Outillons les équipes de développement pour un web de qualité"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2008/11/01/Outillons-les-%C3%A9quipes-de-d%C3%A9veloppement-pour-un-web-de-qualit%C3%A93]
 tags: ["développement web", "outils", "web"]
 lastmod: 2008-11-19T00:42:54+01:00

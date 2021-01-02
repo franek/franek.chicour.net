@@ -1,7 +1,7 @@
 ---
 date: 2009-09-02T13:45:00+02:00
 title: "Support informatique, bonjour !"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2009/09/02/Support-informatique%2C-bonjour-%21]
 tags: ["geek", "geek"]
 lastmod: 2009-09-02T13:45:00+02:00

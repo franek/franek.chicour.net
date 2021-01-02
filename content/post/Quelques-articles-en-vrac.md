@@ -1,7 +1,7 @@
 ---
 date: 2008-10-15T00:42:00+02:00
 title: "Quelques articles en vrac"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2008/10/15/Quelques-articles-en-vrac]
 tags: ["en vrac", "aria", "immobilier", "yahoo"]
 lastmod: 2008-10-15T00:42:00+02:00

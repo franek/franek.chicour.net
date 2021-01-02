@@ -1,7 +1,7 @@
 ---
 date: 2007-11-18T22:32:00+01:00
 title: "Préparer son séjour à Barcelone"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2007/11/18/Preparer-son-sejour-a-Barcelone]
 tags: ["tourisme", "Barcelone", "espagnol"]
 lastmod: 2007-11-21T23:53:38+01:00

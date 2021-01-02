@@ -1,7 +1,7 @@
 ---
 date: 2008-04-01T23:35:00+02:00
 title: "Soutien aux tortues"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2008/04/01/Soutien-aux-tortues]
 tags: ["tourisme", "Mayotte", "tortue"]
 lastmod: 2008-04-01T23:35:00+02:00

@@ -1,7 +1,7 @@
 ---
 date: 2008-12-20T13:25:00+01:00
 title: "Paris Web 2008 - panorama des bonnes pratiques Web"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2008/12/20/Paris-Web-2008-panorama-des-bonnes-pratiques-Web]
 tags: ["actualité/societé", "accessibilité", "paris web 2008"]
 lastmod: 2011-10-16T22:08:58+02:00

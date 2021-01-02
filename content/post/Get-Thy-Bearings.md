@@ -1,7 +1,7 @@
 ---
 date: 2017-04-01T20:40:00+02:00
 title: "Get Thy Bearings"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2017/04/01/Get-Thy-Bearings]
 tags: ["musique", "Cover", "Donovan", "King Crimson"]
 lastmod: 2017-05-08T20:35:02+02:00

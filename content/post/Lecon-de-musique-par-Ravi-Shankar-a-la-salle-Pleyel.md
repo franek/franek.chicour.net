@@ -1,7 +1,7 @@
 ---
 date: 2008-09-03T00:21:00+02:00
 title: "Leçon de musique par Ravi Shankar à la salle Pleyel"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2008/09/03/Lecon-de-musique-par-Ravi-Shankar-a-la-salle-Pleyel]
 tags: ["musique", "Inde", "ravi shankar", "salle pleyel"]
 lastmod: 2008-09-03T18:09:21+02:00

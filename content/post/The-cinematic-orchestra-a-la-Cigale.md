@@ -1,7 +1,7 @@
 ---
 date: 2007-10-10T23:59:00+02:00
 title: "\"The cinematic orchestra\" à la Cigale"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2007/10/10/The-cinematic-orchestra-a-la-Cigale]
 tags: ["musique", "concert", "the cinematic orchestra"]
 lastmod: 2008-05-30T22:29:58+02:00

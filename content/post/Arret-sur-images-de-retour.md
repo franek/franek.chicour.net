@@ -1,7 +1,7 @@
 ---
 date: 2007-09-19T22:10:00+02:00
 title: "Arrêt sur images de retour"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2007/09/19/Arret-sur-images-de-retour]
 tags: ["actualité/societé", "arrêt sur images"]
 lastmod: 2007-09-19T22:10:00+02:00

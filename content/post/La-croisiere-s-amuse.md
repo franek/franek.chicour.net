@@ -1,7 +1,7 @@
 ---
 date: 2008-09-10T00:15:00+02:00
 title: "La croisière s'amuse..."
-author: "franek"
+author: ["franek"]
 aliases: [/post/2008/09/10/La-croisiere-s-amuse]
 tags: ["musique", "la croisière s amuse", "love boat", "orange zèbre"]
 lastmod: 2008-09-10T00:15:00+02:00

@@ -1,7 +1,7 @@
 ---
 date: 2008-12-08T23:25:00+01:00
 title: "Article à destination de notre cher Président"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2008/12/08/Article-%C3%A0-destination-de-notre-cher-Pr%C3%A9sident]
 tags: ["actualité/societé", "Nicolas Sarkozy"]
 lastmod: 2011-10-16T15:09:40+02:00

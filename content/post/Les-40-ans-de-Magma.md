@@ -1,7 +1,7 @@
 ---
 date: 2008-11-06T22:59:00+01:00
 title: "Les 40 ans de Magma"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2008/11/06/Les-40-ans-de-Magma]
 tags: ["musique", "magma", "rock progressif"]
 lastmod: 2008-11-06T23:05:49+01:00

@@ -1,7 +1,7 @@
 ---
 date: 2008-06-17T12:32:00+02:00
 title: "Esbjörn Svensson nous a quitté..."
-author: "franek"
+author: ["franek"]
 aliases: [/post/2008/06/17/Esbjorn-Svensson-est-mort]
 tags: ["musique", "Esbjörn Svensson", "jazz", "pianiste"]
 lastmod: 2008-06-17T18:50:41+02:00

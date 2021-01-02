@@ -1,7 +1,7 @@
 ---
 date: 2007-07-29T20:51:00+02:00
 title: "E.S.T au parc floral"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2007/07/29/EST-au-parc-floral]
 tags: ["musique", "E.S.T", "jazz"]
 lastmod: 2007-07-29T20:51:00+02:00

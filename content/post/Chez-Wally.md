@@ -1,7 +1,7 @@
 ---
 date: 2007-12-23T19:41:00+01:00
 title: "Chez Wally"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2007/12/23/Chez-Wally]
 tags: ["autour de Lille", "estaminet", "Flandres"]
 lastmod: 2008-10-12T15:30:24+02:00

@@ -1,7 +1,7 @@
 ---
 date: 2012-01-04T20:59:00+01:00
 title: "Post-it : crontab et %"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2012/01/04/Post-it-%3A-crontab-et]
 tags: ["geek", "astuce", "crontab", "linux", "post-it", "sysadmin", "échappement"]
 lastmod: 2012-01-04T21:06:02+01:00

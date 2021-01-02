@@ -1,7 +1,7 @@
 ---
 date: 2007-08-22T21:49:00+02:00
 title: "Leçons de guitare"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2007/08/22/Lecons-de-guitare]
 tags: ["musique", "guitare", "musique"]
 lastmod: 2012-10-25T19:25:46+02:00

@@ -1,7 +1,7 @@
 ---
 date: 2008-09-10T00:05:00+02:00
 title: "Retour de Rome..."
-author: "franek"
+author: ["franek"]
 aliases: [/post/2008/09/10/Retour-de-Rome]
 tags: ["tourisme", "Rome"]
 lastmod: 2008-09-10T00:05:00+02:00

@@ -1,7 +1,7 @@
 ---
 date: 2008-01-03T00:26:00+01:00
 title: "\"Getting Things Done\""
-author: "franek"
+author: ["franek"]
 aliases: [/post/2008/01/03/Getting-Things-Done]
 tags: ["GTD", "méthode"]
 lastmod: 2008-01-03T00:27:28+01:00

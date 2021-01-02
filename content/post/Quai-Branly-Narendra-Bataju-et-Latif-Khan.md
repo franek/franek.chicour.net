@@ -1,7 +1,7 @@
 ---
 date: 2008-01-12T21:05:00+01:00
 title: "Quai Branly - Narendra Bataju et Latif Khan"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2008/01/12/Quai-Branly-Narendra-Bataju-et-Latif-Khan]
 tags: ["musique", "Inde", "Narendra Bataju", "quai Branly"]
 lastmod: 2008-01-12T21:21:08+01:00

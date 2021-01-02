@@ -1,7 +1,7 @@
 ---
 date: 2010-02-01T20:07:00+01:00
 title: "Cocktail Péruvien : le Pisco Sour"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2010/02/01/Cocktail-P%C3%A9ruvien-%3A-le-Pisco-Sour]
 tags: ["tourisme", "cocktail", "Pisco", "Pisco sour", "Pérou"]
 lastmod: 2010-02-24T21:39:04+01:00

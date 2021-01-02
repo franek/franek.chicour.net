@@ -1,7 +1,7 @@
 ---
 date: 2013-10-19T11:44:00+02:00
 title: "Paris Web 2013 : J'y étais !"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2013/10/19/Paris-Web-2013-%3A-J-y-%C3%A9tais]
 tags: ["développement web", "2013", "accessibilité", "conférence", "paris", "paris web", "qualité", "web"]
 lastmod: 2013-10-19T23:16:16+02:00

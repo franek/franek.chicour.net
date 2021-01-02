@@ -1,7 +1,7 @@
 ---
 date: 2010-03-30T18:32:00+02:00
 title: "Utiliser plusieurs versions de PHP et switcher facilement d'une version à l'autre sous Ubuntu"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2010/03/30/Utiliser-plusieurs-versions-de-PHP-et-switcher-facilement-d-une-version-a-l-autre-sous-Ubuntu]
 tags: ["développement web", "installation", "Lamp", "oracle", "php", "ubuntu", "Zend Server"]
 lastmod: 2010-04-09T16:34:16+02:00

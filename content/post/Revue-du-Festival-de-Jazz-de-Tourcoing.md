@@ -1,7 +1,7 @@
 ---
 date: 2007-10-28T22:14:00+01:00
 title: "Revue du Festival de Jazz de Tourcoing"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2007/10/28/Revue-du-Festival-de-Jazz-de-Tourcoing]
 tags: ["musique"]
 lastmod: 2007-10-28T22:14:27+01:00

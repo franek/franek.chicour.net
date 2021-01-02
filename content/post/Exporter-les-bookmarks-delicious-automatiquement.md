@@ -1,7 +1,7 @@
 ---
 date: 2011-12-31T11:50:00+01:00
 title: "Exporter les bookmarks delicious automatiquement"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2011/12/31/Exporter-les-bookmarks-delicious-automatiquement]
 tags: ["geek", "backup", "crontab", "delicious", "export", "python"]
 lastmod: 2012-01-04T21:07:00+01:00

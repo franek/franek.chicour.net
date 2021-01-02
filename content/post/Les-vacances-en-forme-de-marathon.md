@@ -1,7 +1,7 @@
 ---
 date: 2010-09-26T13:12:00+02:00
 title: "Les vacances en forme de marathon"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2010/09/26/Les-vacances-en-forme-de-marathon]
 tags: ["tourisme", "Bayonne", "Bordeaux", "Cap Ferret", "dune du Pilat", "marathon", "Médoc", "Saint-Emilion"]
 lastmod: 2010-09-26T13:12:00+02:00

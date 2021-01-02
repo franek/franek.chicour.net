@@ -1,7 +1,7 @@
 ---
 date: 2007-05-21T21:07:00+02:00
 title: "Herman düne, concert à emporter..."
-author: "franek"
+author: ["franek"]
 aliases: [/post/2007/05/21/Herman-dune-concert-a-emporter]
 tags: ["musique", "herman düne"]
 lastmod: 2007-05-21T21:07:00+02:00

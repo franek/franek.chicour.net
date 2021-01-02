@@ -1,7 +1,7 @@
 ---
 date: 2010-08-29T10:26:00+02:00
 title: "Une autre vision du bâteau mouche à Paris"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2010/08/29/Une-autre-vision-du-b%C3%A2teau-mouche-%C3%A0-Paris]
 tags: ["autour de Paris", "bateau-mouche", "canauxrama", "la Seine", "Paris"]
 lastmod: 2010-08-29T11:50:51+02:00

@@ -1,7 +1,7 @@
 ---
 date: 2009-07-03T21:00:00+02:00
 title: "Planning des concerts parisiens de l'été"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2009/07/03/Planning-des-concerts-parisiens-de-l-%C3%A9t%C3%A9]
 tags: ["autour de Paris", "concert", "Paris", "été"]
 lastmod: 2009-07-03T21:00:00+02:00

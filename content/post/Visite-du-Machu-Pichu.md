@@ -1,7 +1,7 @@
 ---
 date: 2008-05-08T13:29:00+02:00
 title: "Visite du Machu Pichu"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2008/05/08/Visite-du-Machu-Pichu]
 tags: ["tourisme", "Machu Pichu", "Pérou"]
 lastmod: 2008-05-08T13:29:00+02:00

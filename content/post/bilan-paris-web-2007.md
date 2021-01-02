@@ -1,7 +1,7 @@
 ---
 date: 2007-11-17T17:08:00+01:00
 title: "bilan paris web 2007"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2007/11/17/bilan-paris-web-2007]
 tags: ["développement web", "accessibilité", "web"]
 lastmod: 2007-12-09T01:45:36+01:00

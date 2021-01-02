@@ -1,7 +1,7 @@
 ---
 date: 2008-04-05T23:31:00+02:00
 title: "Alice Russell à la Cigale"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2008/04/05/Alice-Russell-a-la-Cigale]
 tags: ["musique", "alice russell", "funk", "quantic soul orchestra"]
 lastmod: 2008-04-06T08:40:45+02:00

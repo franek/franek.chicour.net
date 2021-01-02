@@ -1,7 +1,7 @@
 ---
 date: 2010-12-31T17:32:00+01:00
 title: "Se rendre en Suède en train"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2010/12/31/Se-rendre-en-Su%C3%A8de-en-train]
 tags: ["tourisme", "aventure", "interrail", "Suède", "train", "trajet"]
 lastmod: 2010-12-31T18:05:20+01:00

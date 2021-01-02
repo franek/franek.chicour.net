@@ -1,7 +1,7 @@
 ---
 date: 2008-09-08T22:05:00+02:00
 title: "Festival de Jazz de La Villette 2008 - acte I et II"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2008/09/08/Festival-de-Jazz-de-La-Villette-2008-acte-I-et-II]
 tags: ["musique", "Archie Shepp", "Charles Lloyd", "Inde", "jazz", "la villette", "Zakir Hussain"]
 lastmod: 2008-09-08T22:05:00+02:00

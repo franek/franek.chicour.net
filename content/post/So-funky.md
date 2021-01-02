@@ -1,7 +1,7 @@
 ---
 date: 2009-04-19T23:38:00+02:00
 title: "So funky..."
-author: "franek"
+author: ["franek"]
 aliases: [/post/2009/04/19/So-funky...]
 tags: ["autour de Paris", "funk", "seventies", "sixties", "vêtements"]
 lastmod: 2009-04-19T23:38:00+02:00

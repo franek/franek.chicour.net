@@ -1,7 +1,7 @@
 ---
 date: 2010-10-24T13:45:00+02:00
 title: "Retour sur Paris Web 2010"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2010/10/24/Retour-sur-Paris-Web-2010]
 tags: ["développement web", "accessibilité", "design", "paris web"]
 lastmod: 2011-10-23T17:00:15+02:00

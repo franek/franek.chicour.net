@@ -1,7 +1,7 @@
 ---
 date: 2011-05-29T11:29:00+02:00
 title: "Post It : Week-end en Auvergne"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2011/05/29/Post-It-%3A-Week-end-en-Auvergne]
 tags: ["tourisme", "Auvergne", "La Bourboule", "Mont-Dore", "Puy-de-Dôme", "Puy-de-Sancy", "Volcan"]
 lastmod: 2011-05-30T18:33:10+02:00

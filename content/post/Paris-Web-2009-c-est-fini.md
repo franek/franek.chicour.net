@@ -1,7 +1,7 @@
 ---
 date: 2009-10-10T18:39:00+02:00
 title: "Paris Web 2009, c'est fini"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2009/10/10/Paris-Web-2009%2C-c-est-fini]
 tags: ["développement web", "accessibilité", "Paris", "paris web", "web"]
 lastmod: 2009-10-24T12:30:44+02:00

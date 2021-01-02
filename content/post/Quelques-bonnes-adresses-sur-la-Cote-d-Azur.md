@@ -1,7 +1,7 @@
 ---
 date: 2012-02-08T11:02:00+01:00
 title: "Quelques bonnes adresses sur la Côte d'Azur"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2012/02/08/Quelques-bonnes-adresses-sur-la-C%C3%B4te-d-Azur]
 tags: ["tourisme", "antibes", "cannes", "musée", "vallauris"]
 lastmod: 2012-02-08T11:10:44+01:00

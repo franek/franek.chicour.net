@@ -1,7 +1,7 @@
 ---
 date: 2010-02-26T14:46:00+01:00
 title: "Zend Server 5 et Oracle"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2010/02/26/Zend-Server-5-et-Oracle]
 tags: ["développement web", "encodage", "oracle", "php", "Zend", "Zend Platform", "Zend Server"]
 lastmod: 2011-10-16T15:11:23+02:00

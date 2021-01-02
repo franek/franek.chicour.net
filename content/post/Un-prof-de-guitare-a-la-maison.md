@@ -1,7 +1,7 @@
 ---
 date: 2007-05-26T16:17:00+02:00
 title: "Un prof de guitare à la maison..."
-author: "franek"
+author: ["franek"]
 aliases: [/post/2007/05/26/Quelques-ressources-pour-apprendre-la-guitare]
 tags: ["musique", "guitare", "leçon"]
 lastmod: 2012-10-25T19:25:46+02:00

@@ -1,7 +1,7 @@
 ---
 date: 2007-10-28T22:18:00+01:00
 title: "Passage du temps, collection de François Pinault"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2007/10/28/Passage-du-temps-collection-de-Francois-Pinault]
 tags: ["autour de Lille", "tri postal"]
 lastmod: 2007-10-28T22:18:45+01:00

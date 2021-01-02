@@ -1,7 +1,7 @@
 ---
 date: 2007-11-15T21:32:00+01:00
 title: "\"L'ordinateur des aveugles\""
-author: "franek"
+author: ["franek"]
 aliases: [/post/2007/11/15/Lordinateur-des-aveugles]
 tags: ["geek", "accessibilité"]
 lastmod: 2011-10-16T22:10:14+02:00

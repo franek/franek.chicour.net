@@ -1,7 +1,7 @@
 ---
 date: 2007-11-29T22:14:00+01:00
 title: "Ecologie dans les nouvelles technologies"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2007/11/29/Ecologie-dans-les-nouvelles-technologies]
 tags: ["actualité/societé", "écologie"]
 lastmod: 2007-11-29T22:14:47+01:00

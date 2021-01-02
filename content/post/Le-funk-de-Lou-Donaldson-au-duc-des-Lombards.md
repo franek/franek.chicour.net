@@ -1,7 +1,7 @@
 ---
 date: 2008-07-16T01:02:00+02:00
 title: "Le funk de Lou Donaldson au duc des Lombards"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2008/07/16/Lou-Donaldson-au-duc-des-Lombards]
 tags: ["musique", "blue break beat", "funk", "lou donaldson"]
 lastmod: 2008-07-16T01:02:00+02:00

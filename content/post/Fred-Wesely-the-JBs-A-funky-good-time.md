@@ -1,7 +1,7 @@
 ---
 date: 2007-05-13T23:47:00+00:00
 title: "Fred Wesely & the JBs : A funky good time..."
-author: "franek"
+author: ["franek"]
 aliases: [/post/2007/05/13/Fred-Wesely-the-JBs-%3A-A-funky-good-time]
 tags: ["musique"]
 lastmod: 2007-05-13T23:47:00+00:00

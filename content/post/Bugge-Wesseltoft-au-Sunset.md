@@ -1,7 +1,7 @@
 ---
 date: 2007-12-20T00:24:00+01:00
 title: "Bugge Wesseltoft au Sunset"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2007/12/20/Bugge-Wesseltoft-au-Sunset]
 tags: ["musique", "Bugge Wesseltoft", "jazz"]
 lastmod: 2008-05-30T22:24:53+02:00

@@ -1,7 +1,7 @@
 ---
 date: 2007-05-28T22:37:00+02:00
 title: "Easy Money de King Crimson"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2007/05/28/Easy-Money-de-King-Crimson]
 tags: ["musique", "king crimson", "youtube"]
 lastmod: 2007-06-29T22:08:19+02:00

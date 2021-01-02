@@ -1,7 +1,7 @@
 ---
 date: 2009-02-02T23:29:00+01:00
 title: "Ce matin, un lapin..."
-author: "jack"
+author: ["franek"]
 aliases: [/post/2009/02/02/Ce-matin%2C-un-lapin...]
 tags: ["actualité/societé", "construction", "maison", "écologie"]
 lastmod: 2012-10-25T19:25:13+02:00

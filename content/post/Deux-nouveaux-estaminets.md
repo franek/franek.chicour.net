@@ -1,7 +1,7 @@
 ---
 date: 2009-04-27T21:10:00+02:00
 title: "Deux nouveaux estaminets"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2009/04/27/Deux-nouveaux-estaminets]
 tags: ["autour de Lille", "chez la vieille", "estaminet", "Flandres", "la chaise de la sorcière", "Lille"]
 lastmod: 2009-04-27T21:10:00+02:00

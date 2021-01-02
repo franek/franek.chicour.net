@@ -1,7 +1,7 @@
 ---
 date: 2010-05-28T18:48:00+02:00
 title: "Cherokee et dotclear sont dans un bâteau..."
-author: "franek"
+author: ["franek"]
 aliases: [/post/2010/05/28/Cherokee-et-dotclear-sont-dans-un-b%C3%A2teau...]
 tags: ["développement web", "cherokee", "dotclear", "installation"]
 lastmod: 2011-10-16T21:34:54+02:00

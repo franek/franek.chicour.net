@@ -1,7 +1,7 @@
 ---
 date: 2011-04-22T12:13:00+02:00
 title: "Retour sur la soirée #webperf du 21 avril 2011"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2011/04/22/Retour-sur-la-soir%C3%A9e-webperf-du-21-avril-2011]
 tags: ["développement web", "atelier", "performance", "web", "webperf", "webperf user group"]
 lastmod: 2011-10-23T17:00:15+02:00

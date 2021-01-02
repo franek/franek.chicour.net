@@ -1,7 +1,7 @@
 ---
 date: 2009-07-19T21:42:00+02:00
 title: "Voile aux Pays-Bas"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2009/07/19/Voile-aux-Pays-Bas]
 tags: ["tourisme", "Bruinisse", "Goes", "Pays-Bas", "Veere", "Zeeland", "Zierikzee"]
 lastmod: 2009-07-19T21:42:00+02:00

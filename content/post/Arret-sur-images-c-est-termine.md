@@ -1,7 +1,7 @@
 ---
 date: 2007-06-20T00:02:00+02:00
 title: "Arrêt sur images, c'est terminé"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2007/06/20/Arret-sur-images-cest-termine]
 tags: ["actualité/societé", "arrêt sur images"]
 lastmod: 2007-06-25T22:54:06+02:00

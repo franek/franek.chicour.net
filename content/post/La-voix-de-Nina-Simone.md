@@ -1,7 +1,7 @@
 ---
 date: 2008-08-09T12:04:00+02:00
 title: "La voix de Nina Simone"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2008/08/09/La-voix-de-Nina-Simone]
 tags: ["musique", "abd al malik", "nina simone", "sinnerman"]
 lastmod: 2008-08-09T12:04:00+02:00

@@ -1,7 +1,7 @@
 ---
 date: 2014-04-26T13:30:00+02:00
 title: "DELL Vostro 3500 - \"critical temperature reached, shutting down\" - Ubuntu"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2014/04/26/DELL-Vostro-3500-critical-temperature-reached%2C-shutting-down-Ubuntu]
 tags: ["geek", "dell", "i8k", "linux", "temperature", "ubuntu", "ventilateur", "Vostro 3500"]
 lastmod: 2014-04-26T13:30:00+02:00

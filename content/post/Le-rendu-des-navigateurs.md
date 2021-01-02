@@ -1,7 +1,7 @@
 ---
 date: 2008-01-25T21:58:00+01:00
 title: "Le rendu des navigateurs"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2008/01/25/Le-rendu-des-navigateurs]
 tags: ["développement web", "dev web"]
 lastmod: 2008-01-27T20:34:56+01:00

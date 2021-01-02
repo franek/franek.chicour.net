@@ -1,7 +1,7 @@
 ---
 date: 2009-03-26T22:52:00+01:00
 title: "Récupérer les Tag mp3 à partir d'une empreinte musicale"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2009/03/26/R%C3%A9cup%C3%A9rer-les-Tag-mp3-%C3%A0-partir-d-une-empreinte-musicale]
 tags: ["musique", "geek", "mp3", "musicbrainz", "musique", "tag"]
 lastmod: 2009-03-26T23:02:23+01:00

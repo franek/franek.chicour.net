@@ -1,7 +1,7 @@
 ---
 date: 2010-01-11T18:56:00+01:00
 title: "Itinéraire péruvien"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2010/01/11/Itin%C3%A9raire-p%C3%A9ruvien]
 tags: ["tourisme", "itinéraire", "Machu Pichu", "Pérou"]
 lastmod: 2010-01-11T18:59:47+01:00

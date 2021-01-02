@@ -1,7 +1,7 @@
 ---
 date: 2012-08-25T11:10:00+02:00
 title: "Vos prochaines lectures ?"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2012/08/25/vos-prochaines-lectures]
 tags: ["dernières lectures", "BD", "DOL", "Philippe Squarzonni", "saison brune", "société", "écologie"]
 lastmod: 2013-01-28T21:15:19+01:00

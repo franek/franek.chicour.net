@@ -1,7 +1,7 @@
 ---
 date: 2008-06-24T22:54:00+02:00
 title: "Où est charlie ?"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2008/06/24/Ou-est-charlie]
 tags: ["tourisme", "jeu"]
 lastmod: 2008-10-12T15:23:52+02:00

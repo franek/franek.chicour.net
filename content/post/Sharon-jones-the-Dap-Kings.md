@@ -1,7 +1,7 @@
 ---
 date: 2007-05-01T19:16:00+02:00
 title: "Sharon jones & the Dap Kings"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2007/05/01/Sharon-jones-the-Dap-Kings]
 tags: ["musique", "funk", "sharon jones"]
 lastmod: 2012-07-23T20:44:31+02:00

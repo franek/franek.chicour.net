@@ -1,7 +1,7 @@
 ---
 date: 2011-03-03T22:20:00+01:00
 title: "APC et Zend Server"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2011/03/03/APC-et-Zend-Server]
 tags: ["développement web", "Apc", "php", "Zend", "Zend Server"]
 lastmod: 2011-10-23T17:00:15+02:00

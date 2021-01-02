@@ -1,7 +1,7 @@
 ---
 date: 2009-03-16T22:58:00+01:00
 title: "Lille 3000, une Europe en XXL"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2009/03/16/Lille-3000%2C-une-Europe-en-XXL]
 tags: ["autour de Lille", "culture", "Lille", "lille2004", "lille3000"]
 lastmod: 2009-03-16T23:02:31+01:00

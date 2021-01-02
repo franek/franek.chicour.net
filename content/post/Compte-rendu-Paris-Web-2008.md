@@ -1,7 +1,7 @@
 ---
 date: 2008-11-15T00:23:00+01:00
 title: "Compte-rendu Paris Web 2008"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2008/11/15/Paris-Web-2008]
 tags: ["développement web", "accessibilité", "paris web 2008", "qualité", "web"]
 lastmod: 2008-11-23T22:25:15+01:00

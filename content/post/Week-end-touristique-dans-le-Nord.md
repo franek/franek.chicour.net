@@ -1,7 +1,7 @@
 ---
 date: 2008-07-14T18:54:00+02:00
 title: "Week-end touristique dans le Nord"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2008/07/14/Week-end-touristique-dans-le-Nord]
 tags: ["autour de Lille", "Flandres", "hainaut-cambrésis", "nord"]
 lastmod: 2008-10-12T15:30:24+02:00

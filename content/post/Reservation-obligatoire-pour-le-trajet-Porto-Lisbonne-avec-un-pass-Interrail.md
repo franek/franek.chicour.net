@@ -1,7 +1,7 @@
 ---
 date: 2012-03-25T17:04:00+02:00
 title: "Réservation obligatoire pour le trajet Porto-Lisbonne avec un pass Interrail"
-author: "franek"
+author: ["franek"]
 aliases: [/post/2012/03/25/R%C3%A9servation-obligatoire-pour-le-trajet-Porto-Lisbonne-avec-un-pass-Interrail]
 tags: ["tourisme", "Aveiro", "interrail", "Lisbonne", "Porto", "Portugal", "train", "voyage"]
 lastmod: 2012-03-25T17:04:00+02:00

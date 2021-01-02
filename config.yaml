@@ -2,7 +2,6 @@ baseURL: "https://franek.chicour.net"
 title: "::franek::"
 paginate: 15
 theme:
-  - hugo-atom-feed 
   - hugo-PaperMod
 publishDir: "docs"
 
@@ -108,6 +107,7 @@ outputs:
         - HTML
         - RSS
         - JSON
+        - ATOM
 
 # For compatibility with dotclear (old blog system), redefine feed URI to /feed/atom
 mediaTypes:
@@ -124,3 +124,6 @@ outputFormats:
   RSS:
     mediatype: "application/rss+xml"
     baseName: "feed/rss2"
+  ATOM:
+    mediatype: "application/atom+xml"
+    baseName: "feed/atom"
