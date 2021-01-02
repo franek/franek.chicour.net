@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>export on ::franek::</title>
+    <link>https://franek.chicour.net/tags/export/</link>
+    <description>Recent content in export on ::franek::</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 11 Feb 2013 21:01:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://franek.chicour.net/tags/export/feed/rss2" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Exporter une page web avec l&#39;ensemble des assets (CSS, JS, images)</title>
+      <link>https://franek.chicour.net/post/exporter-une-page-web-avec-l-ensemble-des-assets-css-js-images/</link>
+      <pubDate>Mon, 11 Feb 2013 21:01:00 +0100</pubDate>
+      
+      <guid>https://franek.chicour.net/post/exporter-une-page-web-avec-l-ensemble-des-assets-css-js-images/</guid>
+      <description>Aide mémoire&amp;hellip;
+Si vous cherchez à exporter une seule page web avec l&amp;rsquo;ensemble des assets (CSS, JS, images), le script suivant devrait répondre à votre besoin :
+ $ wget -p --html-extension -k &amp;lt;url&amp;gt;  -p, &amp;ndash;page-requisites : obtenir toutes les images, etc. nécessaires à l&amp;rsquo;affichage de la page HTML. -k, &amp;ndash;convert-links : fait pointer les liens dans le HTML/CSS téléchargé vers des fichiers locaux. &amp;ndash;html-extension : pour ajouter l&amp;rsquo;extenion .</description>
+    </item>
+    
+    <item>
+      <title>Exporter les bookmarks delicious automatiquement</title>
+      <link>https://franek.chicour.net/post/exporter-les-bookmarks-delicious-automatiquement/</link>
+      <pubDate>Sat, 31 Dec 2011 11:50:00 +0100</pubDate>
+      
+      <guid>https://franek.chicour.net/post/exporter-les-bookmarks-delicious-automatiquement/</guid>
+      <description>Un petit script python (mon premier) de fin d&amp;rsquo;année&amp;hellip;
+Si comme moi, vous souhaitez conserver les données que vous publiez dans le cloud, voici un petit script permettant d&amp;rsquo;exporter l&amp;rsquo;ensemble des bookmarks publiés sur delicious.
+Pour exporter automatiquement l&amp;rsquo;ensemble de vos bookmarks présents sur delicious, vous pouvez utiliser l&amp;rsquo;API mise à disposition par delicious.
+En utilisant quelque chose comme ça :
+ curl -k --user username:password -o backup.xml -O &#39;https://api.del.icio.us/v1/posts/all&#39; source</description>
+    </item>
+    
+  </channel>
+</rss>

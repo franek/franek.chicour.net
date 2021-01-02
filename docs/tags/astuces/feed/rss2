@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>astuces on ::franek::</title>
+    <link>https://franek.chicour.net/tags/astuces/</link>
+    <description>Recent content in astuces on ::franek::</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 12 Aug 2011 14:55:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://franek.chicour.net/tags/astuces/feed/rss2" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Quelques trucs et astuces concernant git (et git svn)</title>
+      <link>https://franek.chicour.net/post/quelques-trucs-et-astuces-concernant-git-et-git-svn/</link>
+      <pubDate>Fri, 12 Aug 2011 14:55:00 +0200</pubDate>
+      
+      <guid>https://franek.chicour.net/post/quelques-trucs-et-astuces-concernant-git-et-git-svn/</guid>
+      <description>Une petite liste de trucs et astuces concernant l&amp;rsquo;utilisation de git (avec svn ou non).
+Pour définir l&amp;rsquo;éditeur par défaut utilisé par git (ici vi) :
+ $ git config --global core.editor vi Récupérer l&amp;rsquo;ensemble du dépôt subversion dans un environnement git :
+ $ git svn clone -s http://url_depot_svn/ rep-destination/ Resynchroniser le dépôt local (git) avec le dépôt subversion (récupération des tags notamment).
+ $ git svn fetch Dans le cas d&amp;rsquo;une utilisation de git avec subversion, afficher tous les tags et les branches subversion</description>
+    </item>
+    
+  </channel>
+</rss>

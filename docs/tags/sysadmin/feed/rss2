@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sysadmin on ::franek::</title>
+    <link>https://franek.chicour.net/tags/sysadmin/</link>
+    <description>Recent content in sysadmin on ::franek::</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 22 Jul 2013 14:23:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://franek.chicour.net/tags/sysadmin/feed/rss2" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Quelques trucs à propos de SSH et ssh-agent</title>
+      <link>https://franek.chicour.net/post/quelques-trucs-a-propos-de-ssh-et-ssh-agent/</link>
+      <pubDate>Mon, 22 Jul 2013 14:23:00 +0200</pubDate>
+      
+      <guid>https://franek.chicour.net/post/quelques-trucs-a-propos-de-ssh-et-ssh-agent/</guid>
+      <description>Je note ici quelques trucs que j&amp;rsquo;utilise et dont j&amp;rsquo;ai la manie d&amp;rsquo;oublier&amp;hellip;
+Pour propager les clés SSH entre serveur (via ssh-agent), une option intéressante est ForwardAgent.
+Cela peut être utilisé dans le fichier de configuration ~/.ssh/config
+ Host example.com ForwardAgent yes ou dans putty (si vous êtes sous Windows, malheureux&amp;hellip;) : Property &amp;gt; Connection &amp;gt; SSH &amp;gt; Auth &amp;gt; Allow Agent Forwarding
+Pour lister l&amp;rsquo;ensemble des clés SSH qui sont présentes dans l&amp;rsquo;agent SSH (ssh-agent), vous pouvez utiliser l&amp;rsquo;option -l de ssh-add</description>
+    </item>
+    
+    <item>
+      <title>Post-it : crontab et %</title>
+      <link>https://franek.chicour.net/post/post-it-crontab-et/</link>
+      <pubDate>Wed, 04 Jan 2012 20:59:00 +0100</pubDate>
+      
+      <guid>https://franek.chicour.net/post/post-it-crontab-et/</guid>
+      <description>Une petite astuce concernant crontab que je ne connaissais pas (on apprend tous les jours).
+Les caractères % doivent être échappés dans crontab.
+Le crontab suivant :
+ 00 19 * * * /chemin/vers/mon/script.sh &amp;gt;/chemin/vers/output-`date +%Y%m%d`.log ne fonctionnait pas.
+J&amp;rsquo;obtenais une erreur du type :
+ /bin/sh: Syntax error: EOF in backquote substitution Après quelques recherches, je suis tombé sur un fil de stackoverflow qui correspondait à mon problème.
+Dans crontab, il est nécessaires d&amp;rsquo;échapper avec un backslash le caractère %.</description>
+    </item>
+    
+  </channel>
+</rss>

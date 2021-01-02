@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>maison on ::franek::</title>
+    <link>https://franek.chicour.net/tags/maison/</link>
+    <description>Recent content in maison on ::franek::</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 02 Feb 2009 23:29:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://franek.chicour.net/tags/maison/feed/rss2" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ce matin, un lapin...</title>
+      <link>https://franek.chicour.net/post/ce-matin-un-lapin/</link>
+      <pubDate>Mon, 02 Feb 2009 23:29:00 +0100</pubDate>
+      
+      <guid>https://franek.chicour.net/post/ce-matin-un-lapin/</guid>
+      <description>Un peu de pub pour le blog de nos amis H&amp;amp;F qui se sont lancés dans la construction d&amp;rsquo;une maison bioclimatique. Ils ont décidé d&amp;rsquo;utiliser la méthode GREB, qui consiste à construire une double ossature légère en bois, formant un couloir pour y installer les ballots de paille et permettant de les enrober d’un mortier allégé à la sciure de bois et coulé.
+Tout est très bien expliqué sur la page de leur projet.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>phptour on ::franek::</title>
+    <link>https://franek.chicour.net/tags/phptour/</link>
+    <description>Recent content in phptour on ::franek::</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 27 Nov 2011 09:48:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://franek.chicour.net/tags/phptour/feed/rss2" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Retour sur le #phptour de Lille</title>
+      <link>https://franek.chicour.net/post/retour-sur-le-phptour-de-lille/</link>
+      <pubDate>Sun, 27 Nov 2011 09:48:00 +0100</pubDate>
+      
+      <guid>https://franek.chicour.net/post/retour-sur-le-phptour-de-lille/</guid>
+      <description>J&amp;rsquo;ai participé au #phptour, un nouvel événement itinérant autour de la technologie PHP proposé par l&amp;rsquo;AFUP. Cette année, cet événement avait lieu à Lille. Pour l&amp;rsquo;année prochaine, on évoque Nantes, Lyon ou Bordeaux. Le Forum PHP est quant à lui décalé et aura désormais lieu en juin.
+Voici quelques notes prises concernant les conférences auxquelles j&amp;rsquo;ai assistées.
+Présentation de PHP5.4 par Julien Pauli (en remplacement de David Soria Parra qui ne pouvait être présent) Julien a fait un rapide état des lieux autour de la future version de PHP :</description>
+    </item>
+    
+  </channel>
+</rss>

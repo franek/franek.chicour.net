@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>paris web 2008 on ::franek::</title>
+    <link>https://franek.chicour.net/tags/paris-web-2008/</link>
+    <description>Recent content in paris web 2008 on ::franek::</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 20 Dec 2008 13:25:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://franek.chicour.net/tags/paris-web-2008/feed/rss2" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Paris Web 2008 - panorama des bonnes pratiques Web</title>
+      <link>https://franek.chicour.net/post/paris-web-2008-panorama-des-bonnes-pratiques-web/</link>
+      <pubDate>Sat, 20 Dec 2008 13:25:00 +0100</pubDate>
+      
+      <guid>https://franek.chicour.net/post/paris-web-2008-panorama-des-bonnes-pratiques-web/</guid>
+      <description>J&amp;rsquo;ai assisté à Paris Web 2008 (je vous ai dit que c&amp;rsquo;était très bien ?) mais je n&amp;rsquo;ai pas pu participer à toutes les conférences (notamment les conférences décideurs). Les vidéos viennent d&amp;rsquo;être publiées.
+Je commence par celle de François Nonnenmacher sur les bonnes pratiques Web. Je la recommande vivement à toute personne en charge de projets webs.
+ **[François Nonnenmacher - Panorama des bonnes pratiques Web](http://www.dailymotion.com/video/x7oqy4_franois-nonnenmacher-panorama-des-b_tech)** *envoyé par [parisweb](http://www.dailymotion.com/parisweb)* </description>
+    </item>
+    
+    <item>
+      <title>Compte-rendu Paris Web 2008</title>
+      <link>https://franek.chicour.net/post/compte-rendu-paris-web-2008/</link>
+      <pubDate>Sat, 15 Nov 2008 00:23:00 +0100</pubDate>
+      
+      <guid>https://franek.chicour.net/post/compte-rendu-paris-web-2008/</guid>
+      <description>J&amp;rsquo;étais à Paris Web 2008, conférence sur le webdesign, la qualité et l&amp;rsquo;accessibilité, ces deux derniers jours. Je n&amp;rsquo;ai malheureusement pas pu assister à l&amp;rsquo;apéro du vendredi soir et aux ateliers techniques qui avaient l&amp;rsquo;air excellents.
+J&amp;rsquo;ai un avis mitigé sur l&amp;rsquo;événement. J&amp;rsquo;assiste à Paris Web depuis la première édition.
+En 2006, c&amp;rsquo;était génial. Après la création de OpenWeb, on sortait enfin les standards, les bonnes pratiques et l&amp;rsquo;accessibilité en dehors des sites webs pour l&amp;rsquo;amener au plus près des développeurs.</description>
+    </item>
+    
+  </channel>
+</rss>

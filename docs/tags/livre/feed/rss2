@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>livre on ::franek::</title>
+    <link>https://franek.chicour.net/tags/livre/</link>
+    <description>Recent content in livre on ::franek::</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 14 Nov 2008 23:25:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://franek.chicour.net/tags/livre/feed/rss2" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dernières lectures</title>
+      <link>https://franek.chicour.net/post/dernieres-lectures/</link>
+      <pubDate>Fri, 14 Nov 2008 23:25:00 +0100</pubDate>
+      
+      <guid>https://franek.chicour.net/post/dernieres-lectures/</guid>
+      <description>Je lis très peu en ce moment, néanmoins mes quatre dernières lectures ont été de qualité.
+Liste par ordre de préférence (ou presque) :
+&amp;ldquo;Le jour où Nina Simone a cessé de chanter&amp;rdquo; de Darina Al Joundi et Mohamed Kacimi Un livre dont le titre contient le nom d&amp;rsquo;une des plus belles voix de ces dernières années ne peut être que de très bonne qualité. Les horreurs de la guerre au Liban du point de vue d&amp;rsquo;une femme.</description>
+    </item>
+    
+  </channel>
+</rss>

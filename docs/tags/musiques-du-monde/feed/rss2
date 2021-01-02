@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>musiques du monde on ::franek::</title>
+    <link>https://franek.chicour.net/tags/musiques-du-monde/</link>
+    <description>Recent content in musiques du monde on ::franek::</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 26 May 2007 11:12:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://franek.chicour.net/tags/musiques-du-monde/feed/rss2" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>un label qui est bon à écouter...</title>
+      <link>https://franek.chicour.net/post/un-label-qui-est-bon-a-ecouter/</link>
+      <pubDate>Sat, 26 May 2007 11:12:00 +0200</pubDate>
+      
+      <guid>https://franek.chicour.net/post/un-label-qui-est-bon-a-ecouter/</guid>
+      <description>Toumani Diabété, Ali Farka Touré, Buena Vista Social Club : http://www.worldcircuit.co.uk</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,7 +1,9 @@
 baseURL: "https://franek.chicour.net"
 title: "::franek::"
 paginate: 15
-theme: hugo-PaperMod
+theme:
+  - hugo-atom-feed 
+  - hugo-PaperMod
 publishDir: "docs"
 
 permalinks:
@@ -98,7 +100,7 @@ menu:
           weight: 30
         - identifier: RSS
           name: RSS
-          url: /feed/atom
+          url: /feed/rss2
           weight: 40
 
 outputs:
@@ -113,8 +115,12 @@ mediaTypes:
     suffixes: 
       - ""
     delimiter: ""
+  application/atom+xml:
+    suffixes: 
+      - ""
+    delimiter: ""
 
 outputFormats:
   RSS:
     mediatype: "application/rss+xml"
-    baseName: "feed/atom"
+    baseName: "feed/rss2"

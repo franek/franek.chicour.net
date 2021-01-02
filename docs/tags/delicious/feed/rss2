@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>delicious on ::franek::</title>
+    <link>https://franek.chicour.net/tags/delicious/</link>
+    <description>Recent content in delicious on ::franek::</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 31 Dec 2011 11:50:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://franek.chicour.net/tags/delicious/feed/rss2" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Exporter les bookmarks delicious automatiquement</title>
+      <link>https://franek.chicour.net/post/exporter-les-bookmarks-delicious-automatiquement/</link>
+      <pubDate>Sat, 31 Dec 2011 11:50:00 +0100</pubDate>
+      
+      <guid>https://franek.chicour.net/post/exporter-les-bookmarks-delicious-automatiquement/</guid>
+      <description>Un petit script python (mon premier) de fin d&amp;rsquo;année&amp;hellip;
+Si comme moi, vous souhaitez conserver les données que vous publiez dans le cloud, voici un petit script permettant d&amp;rsquo;exporter l&amp;rsquo;ensemble des bookmarks publiés sur delicious.
+Pour exporter automatiquement l&amp;rsquo;ensemble de vos bookmarks présents sur delicious, vous pouvez utiliser l&amp;rsquo;API mise à disposition par delicious.
+En utilisant quelque chose comme ça :
+ curl -k --user username:password -o backup.xml -O &#39;https://api.del.icio.us/v1/posts/all&#39; source</description>
+    </item>
+    
+  </channel>
+</rss>

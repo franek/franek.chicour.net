@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>General Elektriks on ::franek::</title>
+    <link>https://franek.chicour.net/tags/general-elektriks/</link>
+    <description>Recent content in General Elektriks on ::franek::</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 13 Oct 2009 23:13:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://franek.chicour.net/tags/general-elektriks/feed/rss2" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Les concerts du moment</title>
+      <link>https://franek.chicour.net/post/les-concerts-du-moment/</link>
+      <pubDate>Tue, 13 Oct 2009 23:13:00 +0200</pubDate>
+      
+      <guid>https://franek.chicour.net/post/les-concerts-du-moment/</guid>
+      <description>Les derniers jours ont été riches en concerts variés :
+ Mathieu Boogaerts à la Java en duo avec le bassiste Zaf Zapha pour 9€. Mathieu Boogaerts propose pendant 6 semaines chaque mercredi soir un concert à La Java. Mercredi dernier, en première partie, nous avions Franck Monnet. La première partie change chaque semaine. La Java est une salle agréable, tout en longueur. Pour ce prix (et un concert d&amp;rsquo;une heure trente), c&amp;rsquo;est vraiment l&amp;rsquo;occasion de découvrir l&amp;rsquo;univers de ce chanteur.</description>
+    </item>
+    
+  </channel>
+</rss>

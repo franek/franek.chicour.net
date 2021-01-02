@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zend on ::franek::</title>
+    <link>https://franek.chicour.net/tags/zend/</link>
+    <description>Recent content in Zend on ::franek::</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 03 Mar 2011 22:20:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://franek.chicour.net/tags/zend/feed/rss2" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>APC et Zend Server</title>
+      <link>https://franek.chicour.net/post/apc-et-zend-server/</link>
+      <pubDate>Thu, 03 Mar 2011 22:20:00 +0100</pubDate>
+      
+      <guid>https://franek.chicour.net/post/apc-et-zend-server/</guid>
+      <description>Une des limitations du cache de Zend Server (ShMem ou Disk) est de ne pas proposer d&amp;rsquo;outils de monitoring des éléments mis en cache. Apc propose cela par défaut via l&amp;rsquo;installation du script apc.php.
+Zend Server propose, par défaut, une émulation de APC via le Zend DataCache. Cependant, cette émulation ne propose pas toute l&amp;rsquo;API de APC. Le script apc.php ne fonctionne donc pas. Je n&amp;rsquo;ai pas trop cherché mais, a priori, cela vient du non support complet des méthodes suivantes apc_compile_file(), apc_sma_info(), apc_cache_info() (voir forum chez phpfrance).</description>
+    </item>
+    
+    <item>
+      <title>Zend Server 5 et Oracle</title>
+      <link>https://franek.chicour.net/post/zend-server-5-et-oracle/</link>
+      <pubDate>Fri, 26 Feb 2010 14:46:00 +0100</pubDate>
+      
+      <guid>https://franek.chicour.net/post/zend-server-5-et-oracle/</guid>
+      <description>Zend Server vient de sortir en version 5. Zend Server est le remplaçant de la Zend Platform.
+Par défaut, Zend Server est fourni avec le client Oracle Instant Client Lite qui ne prend pas en charge les bases de données Oracle avec des encodages un peu exotique (WE8ISO8859P15, par exemple) :
+ ZS is shipped with the OCI library Lite version which only supports OCI and OCCI for US locales only.</description>
+    </item>
+    
+  </channel>
+</rss>

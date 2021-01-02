@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ds-211 on ::franek::</title>
+    <link>https://franek.chicour.net/tags/ds-211/</link>
+    <description>Recent content in ds-211 on ::franek::</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 20 Sep 2011 14:48:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://franek.chicour.net/tags/ds-211/feed/rss2" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Post-it : Synology partage d&#39;un scanner sur le réseau</title>
+      <link>https://franek.chicour.net/post/post-it-synology-partage-d-un-scanner-sur-le-reseau/</link>
+      <pubDate>Tue, 20 Sep 2011 14:48:00 +0200</pubDate>
+      
+      <guid>https://franek.chicour.net/post/post-it-synology-partage-d-un-scanner-sur-le-reseau/</guid>
+      <description>En branchant son imprimante 2-en-1 (dans mon cas HP PSC-1100 All-in-one) sur un synology (dans mon cas, DS-211+), Il est possible de facilement partager son imprimante sur le réseau.
+Le partage du scanner est un peu moins documenté (à moins que votre imprimante all-in-one supporte le protocole MFP). Pour une liste d&amp;rsquo;imprimantes compatibles avec le Synology, vous pouvez référer à la liste disponible sur le site du constructeur.
+Dans notre cas, nous allons devoir bidouiller (&amp;ldquo;Hackability is fun !</description>
+    </item>
+    
+  </channel>
+</rss>
