@@ -3,7 +3,7 @@ title: "::franek::"
 paginate: 15
 theme:
   - hugo-PaperMod
-publishDir: "docs"
+publishDir: "public"
 defaultContentLanguage: fr
 
 permalinks:
