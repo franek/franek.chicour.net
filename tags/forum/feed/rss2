@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>forum on ::franek::</title>
+    <link>https://franek.chicour.net/tags/forum/</link>
+    <description>Recent content in forum on ::franek::</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 09 Dec 2008 22:11:00 +0100</lastBuildDate><atom:link href="https://franek.chicour.net/tags/forum/feed/rss2" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Forum PHP AFUP 2008</title>
+      <link>https://franek.chicour.net/post/forum-php-afup-2008/</link>
+      <pubDate>Tue, 09 Dec 2008 22:11:00 +0100</pubDate>
+      
+      <guid>https://franek.chicour.net/post/forum-php-afup-2008/</guid>
+      <description>Un petit tour ces 2 derniers jours au forum PHP édition 2008, le pendant pour les développeurs PHP de Paris Web pour le design, l&amp;rsquo;accessibilité,&amp;hellip; Ces 2 conférences sont assez complémentaires, je trouve. Comme d&amp;rsquo;habitude, nous avons été bien reçus. Le site de l&amp;rsquo;ASIEM a clairement moins de classe que la salle de conférence d&amp;rsquo;IBM pour Paris Web mais cela donne un côté plus chaleureux. Le seul point négatif au niveau logistique était la taille de la seconde salle qui n&amp;rsquo;a pas pu accueillir toutes les personnes qui le souhaitaient.</description>
+    </item>
+    
+  </channel>
+</rss>

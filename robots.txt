@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://franek.chicour.net/sitemap.xml

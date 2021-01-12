@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>deezer on ::franek::</title>
+    <link>https://franek.chicour.net/tags/deezer/</link>
+    <description>Recent content in deezer on ::franek::</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 03 Nov 2008 01:21:00 +0100</lastBuildDate><atom:link href="https://franek.chicour.net/tags/deezer/feed/rss2" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lancement de streamdrag</title>
+      <link>https://franek.chicour.net/post/lancement-de-streamdrag/</link>
+      <pubDate>Mon, 03 Nov 2008 01:21:00 +0100</pubDate>
+      
+      <guid>https://franek.chicour.net/post/lancement-de-streamdrag/</guid>
+      <description>Vu sur Presse-Citron, une équipe allemande vient de lancer un autre service de streaming audio :
+ &amp;hellip; Streamdrag, un nouveau site lancé par une start-up allemande, propose un peu la même approche, à savoir écouter ses artistes favoris exclusivement en streaming via un moteur de recherche, et bâtir ses propres playlists à partir de ceux-ci.
+ A tester sur Streamdrag.</description>
+    </item>
+    
+  </channel>
+</rss>

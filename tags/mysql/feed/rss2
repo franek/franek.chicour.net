@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mysql on ::franek::</title>
+    <link>https://franek.chicour.net/tags/mysql/</link>
+    <description>Recent content in mysql on ::franek::</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 04 Mar 2011 22:58:00 +0100</lastBuildDate><atom:link href="https://franek.chicour.net/tags/mysql/feed/rss2" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Linux : Accès à mysql derrière un firewall (iptables)</title>
+      <link>https://franek.chicour.net/post/linux-acces-a-mysql-derriere-un-firewall-iptables/</link>
+      <pubDate>Fri, 04 Mar 2011 22:58:00 +0100</pubDate>
+      
+      <guid>https://franek.chicour.net/post/linux-acces-a-mysql-derriere-un-firewall-iptables/</guid>
+      <description>Je souhaite pouvoir accéder à une base mysql hébergée sur un serveur distant depuis un pc local. Ce serveur distant est protégé par un firewall (iptables).
+Comment configurer mysql et iptables afin de pouvoir accéder à cette base mysql depuis mon poste local ?
+Dans la suite de ce billet,
+ 10.10.10.10 correspond à l&amp;rsquo;adresse IP du pc local 12.12.12.12 coresspond à l&amp;rsquo;adresse IP du serveur distant  Par défaut, sous debian, mysql n&amp;rsquo;écoute que sur l&amp;rsquo;interface locale (localhost).</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>basebox on ::franek::</title>
+    <link>https://franek.chicour.net/tags/basebox/</link>
+    <description>Recent content in basebox on ::franek::</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 02 Jun 2012 11:54:00 +0200</lastBuildDate><atom:link href="https://franek.chicour.net/tags/basebox/feed/rss2" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Créer une basebox CentOS-6.2 pour vagrant</title>
+      <link>https://franek.chicour.net/post/creer-une-basebox-centos-6-2-pour-vagrant/</link>
+      <pubDate>Sat, 02 Jun 2012 11:54:00 +0200</pubDate>
+      
+      <guid>https://franek.chicour.net/post/creer-une-basebox-centos-6-2-pour-vagrant/</guid>
+      <description>Vagrant est un logiciel écrit en Ruby permettant de simplifier la gestion des machines virtuelles dans un environnement de développement. Il va permettre de décrire (via un système de provisionning : puppet, chef, script sh) les composants nécessaires à un projet (php, mysql, &amp;hellip;).
+Si vous souhaitez en savoir plus sur vagrant, je vous invite à consulter cette présentation.
+Vagrant fournit, par défaut, des box sous Ubuntu (Lucid et Precise).</description>
+    </item>
+    
+  </channel>
+</rss>

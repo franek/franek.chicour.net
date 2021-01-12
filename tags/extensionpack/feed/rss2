@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>extensionpack on ::franek::</title>
+    <link>https://franek.chicour.net/tags/extensionpack/</link>
+    <description>Recent content in extensionpack on ::franek::</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 11 Feb 2012 15:13:00 +0100</lastBuildDate><atom:link href="https://franek.chicour.net/tags/extensionpack/feed/rss2" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Comment installer l&#39;extension pack pour VirtualBox ?</title>
+      <link>https://franek.chicour.net/post/comment-installer-l-extension-pack-pour-virtualbox/</link>
+      <pubDate>Sat, 11 Feb 2012 15:13:00 +0100</pubDate>
+      
+      <guid>https://franek.chicour.net/post/comment-installer-l-extension-pack-pour-virtualbox/</guid>
+      <description>J&amp;rsquo;oublie toujours comment installer l&amp;rsquo;extension pack pour VirtualBox. Je le note donc ici :
+1. Télécharger l&amp;rsquo;extension pack :
+ $ wget http://download.virtualbox.org/virtualbox/4.1.8/Oracle_VM_VirtualBox_Extension_Pack-4.1.8.vbox-extpack 2. Installer :
+ $ VBoxManage extpack install --replace Oracle_VM_VirtualBox_Extension_Pack-4.1.8.vbox-extpack Il sera nécessaire de renseigner le mot de passe de l&amp;rsquo;utilisateur connecté pour valider l&amp;rsquo;installation.
+source : documentation de virtualbox</description>
+    </item>
+    
+  </channel>
+</rss>

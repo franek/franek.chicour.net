@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>musicbrainz on ::franek::</title>
+    <link>https://franek.chicour.net/tags/musicbrainz/</link>
+    <description>Recent content in musicbrainz on ::franek::</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 26 Mar 2009 22:52:00 +0100</lastBuildDate><atom:link href="https://franek.chicour.net/tags/musicbrainz/feed/rss2" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Récupérer les Tag mp3 à partir d&#39;une empreinte musicale</title>
+      <link>https://franek.chicour.net/post/recuperer-les-tag-mp3-a-partir-d-une-empreinte-musicale/</link>
+      <pubDate>Thu, 26 Mar 2009 22:52:00 +0100</pubDate>
+      
+      <guid>https://franek.chicour.net/post/recuperer-les-tag-mp3-a-partir-d-une-empreinte-musicale/</guid>
+      <description>J&amp;rsquo;ai quelques fichiers mp3 que j&amp;rsquo;ai encodé à l&amp;rsquo;époque où je ne disposais pas d&amp;rsquo;internet. Du coup, ils sont mal taggés (Unknown Artist, artiste inconnu, track 1,&amp;hellip;). Je souhaite les retagger facilement et rapidement.
+Musicbrainz est fait pour vous. Musicbrainz est un service qui propose une base de données des empreintes de fichiers musicaux. En gros, à partir de la taille du fichier, du temps de la chanson, du nombre de morceaux dans l&amp;rsquo;album, &amp;hellip; et plein d&amp;rsquo;autres paramètres&amp;hellip; Il va être capable de retrouver toutes les informations utiles (nom de l&amp;rsquo;artiste, nom de l&amp;rsquo;album, titre de la chanson,&amp;hellip;).</description>
+    </item>
+    
+  </channel>
+</rss>

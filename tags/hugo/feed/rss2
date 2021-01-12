@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hugo on ::franek::</title>
+    <link>https://franek.chicour.net/tags/hugo/</link>
+    <description>Recent content in hugo on ::franek::</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 02 Jan 2021 21:34:13 +0100</lastBuildDate><atom:link href="https://franek.chicour.net/tags/hugo/feed/rss2" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Migration de ce blog</title>
+      <link>https://franek.chicour.net/post/migration-de-ce-blog/</link>
+      <pubDate>Sat, 02 Jan 2021 21:34:13 +0100</pubDate>
+      
+      <guid>https://franek.chicour.net/post/migration-de-ce-blog/</guid>
+      <description>Ce blog a longtemps été propulsé par le moteur de blog Dotclear, un moteur de blog écrit en PHP développé par des français (Olivier Meunier au départ, Franck Paul désormais). Il est désormais propulsé par Hugo.
+J&amp;rsquo;ai beaucoup utilisé Dotclear, je l&amp;rsquo;ai beaucoup aimé. A l&amp;rsquo;époque l&amp;rsquo;organisation du code PHP de Dotclear était bien meilleure que celle de Wordpress (j&amp;rsquo;avoue n&amp;rsquo;avoir pas regardé le code de Wordpress aujourd&amp;rsquo;hui). Un effort particulier était fait sur l&amp;rsquo;accessibilité.</description>
+    </item>
+    
+  </channel>
+</rss>

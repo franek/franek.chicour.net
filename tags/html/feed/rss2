@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>html on ::franek::</title>
+    <link>https://franek.chicour.net/tags/html/</link>
+    <description>Recent content in html on ::franek::</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 11 Feb 2013 21:01:00 +0100</lastBuildDate><atom:link href="https://franek.chicour.net/tags/html/feed/rss2" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Exporter une page web avec l&#39;ensemble des assets (CSS, JS, images)</title>
+      <link>https://franek.chicour.net/post/exporter-une-page-web-avec-l-ensemble-des-assets-css-js-images/</link>
+      <pubDate>Mon, 11 Feb 2013 21:01:00 +0100</pubDate>
+      
+      <guid>https://franek.chicour.net/post/exporter-une-page-web-avec-l-ensemble-des-assets-css-js-images/</guid>
+      <description>Aide mémoire&amp;hellip;
+Si vous cherchez à exporter une seule page web avec l&amp;rsquo;ensemble des assets (CSS, JS, images), le script suivant devrait répondre à votre besoin :
+ $ wget -p --html-extension -k &amp;lt;url&amp;gt;  -p, &amp;ndash;page-requisites : obtenir toutes les images, etc. nécessaires à l&amp;rsquo;affichage de la page HTML. -k, &amp;ndash;convert-links : fait pointer les liens dans le HTML/CSS téléchargé vers des fichiers locaux. &amp;ndash;html-extension : pour ajouter l&amp;rsquo;extenion .</description>
+    </item>
+    
+  </channel>
+</rss>

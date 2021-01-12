@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>easter egg on ::franek::</title>
+    <link>https://franek.chicour.net/tags/easter-egg/</link>
+    <description>Recent content in easter egg on ::franek::</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 31 Mar 2008 22:12:00 +0200</lastBuildDate><atom:link href="https://franek.chicour.net/tags/easter-egg/feed/rss2" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Easter Egg dans PHP</title>
+      <link>https://franek.chicour.net/post/easter-egg-dans-php/</link>
+      <pubDate>Mon, 31 Mar 2008 22:12:00 +0200</pubDate>
+      
+      <guid>https://franek.chicour.net/post/easter-egg-dans-php/</guid>
+      <description>Le CERTA (Centre d&amp;rsquo;Expertise Gouvernemental de Réponse et de Traitement des Attaques informatiques) m&amp;rsquo;a fait découvrir un Easter Egg dans PHP que je ne connaissais pas. Lorsque expose_php est à on dans le fichier de configuration php.ini, l&amp;rsquo;ajout dans l&amp;rsquo;URL de &amp;ldquo;?=PHPB8B5F2A0-3C92-11d3-A3A9-4C7B08C10000&amp;rdquo; enverra le Easter Egg (message adressé aux développeurs)
+Essayer d&amp;rsquo;appeler l&amp;rsquo;URL chez php.net : http://www.php.net/index.php?=PHPB8B5F2A0-3C92-11d3-A3A9-4C7B08C10000
+Sur le serveur qui héberge ce site, le paramètre expose_php est à off. L&amp;rsquo;URL http://franek.</description>
+    </item>
+    
+  </channel>
+</rss>

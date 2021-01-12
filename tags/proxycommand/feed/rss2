@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ProxyCommand on ::franek::</title>
+    <link>https://franek.chicour.net/tags/proxycommand/</link>
+    <description>Recent content in ProxyCommand on ::franek::</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 04 Dec 2009 17:36:00 +0100</lastBuildDate><atom:link href="https://franek.chicour.net/tags/proxycommand/feed/rss2" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SSH : simplifier les connexions avec rebond</title>
+      <link>https://franek.chicour.net/post/ssh-simplifier-les-connexions-avec-rebond/</link>
+      <pubDate>Fri, 04 Dec 2009 17:36:00 +0100</pubDate>
+      
+      <guid>https://franek.chicour.net/post/ssh-simplifier-les-connexions-avec-rebond/</guid>
+      <description>Encore un billet de geek pour les geeks : la connexion SSH avec rebond. C&amp;rsquo;est un post qui trainait dans mes billets en attente. Je le publie afin de conserver une trace.
+Exemple : vous souhaitez accéder à un serveur2 qui n&amp;rsquo;est accessible qu&amp;rsquo;à partir de serveur1 en une seule commande SSH depuis un de vos serveur (nous l&amp;rsquo;appellerons micha).
+Solution : modifier la configuration ssh de micha.
+Dans le fichier .</description>
+    </item>
+    
+  </channel>
+</rss>

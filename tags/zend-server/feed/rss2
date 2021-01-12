@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zend Server on ::franek::</title>
+    <link>https://franek.chicour.net/tags/zend-server/</link>
+    <description>Recent content in Zend Server on ::franek::</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 15 Apr 2011 11:58:00 +0200</lastBuildDate><atom:link href="https://franek.chicour.net/tags/zend-server/feed/rss2" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Installer xhprof et xhprof gui sur Zend Server</title>
+      <link>https://franek.chicour.net/post/installer-xhprof-et-xhprof-gui-sur-zend-server/</link>
+      <pubDate>Fri, 15 Apr 2011 11:58:00 +0200</pubDate>
+      
+      <guid>https://franek.chicour.net/post/installer-xhprof-et-xhprof-gui-sur-zend-server/</guid>
+      <description>Xhprof est un profiler de code PHP. C&amp;rsquo;est un concurrent de Xdebug développé par Facebook.
+Il a le gros avantage de permettre de visualiser l&amp;rsquo;évolution de la mémoire. A ma connaissance, Xdebug ne le permet pas.
+Il ne nécessite pas l&amp;rsquo;utilisation d&amp;rsquo;un logiciel tiers (type KCachegrind, non disponible sous Windows&amp;hellip;argh&amp;hellip;) et peut être installé sur un serveur de production sans, normalement, trop dégrader les performances.
+Je vais ici vous décrire son installation sur Zend Server CE et l&amp;rsquo;installation de xhprof gui</description>
+    </item>
+    
+    <item>
+      <title>APC et Zend Server</title>
+      <link>https://franek.chicour.net/post/apc-et-zend-server/</link>
+      <pubDate>Thu, 03 Mar 2011 22:20:00 +0100</pubDate>
+      
+      <guid>https://franek.chicour.net/post/apc-et-zend-server/</guid>
+      <description>Une des limitations du cache de Zend Server (ShMem ou Disk) est de ne pas proposer d&amp;rsquo;outils de monitoring des éléments mis en cache. Apc propose cela par défaut via l&amp;rsquo;installation du script apc.php.
+Zend Server propose, par défaut, une émulation de APC via le Zend DataCache. Cependant, cette émulation ne propose pas toute l&amp;rsquo;API de APC. Le script apc.php ne fonctionne donc pas. Je n&amp;rsquo;ai pas trop cherché mais, a priori, cela vient du non support complet des méthodes suivantes apc_compile_file(), apc_sma_info(), apc_cache_info() (voir forum chez phpfrance).</description>
+    </item>
+    
+    <item>
+      <title>Utiliser plusieurs versions de PHP et switcher facilement d&#39;une version à l&#39;autre sous Ubuntu</title>
+      <link>https://franek.chicour.net/post/utiliser-plusieurs-versions-de-php-et-switcher-facilement-d-une-version-a-l-autre-sous-ubuntu/</link>
+      <pubDate>Tue, 30 Mar 2010 18:32:00 +0200</pubDate>
+      
+      <guid>https://franek.chicour.net/post/utiliser-plusieurs-versions-de-php-et-switcher-facilement-d-une-version-a-l-autre-sous-ubuntu/</guid>
+      <description>EDIT du 09/04/2010 : En fait, cette technique est obsolète. Je viens de découvrir PHPFarm qui semble faire plus ou moins ce que je souhaite faire. A tester donc.
+--
+Sur mon environnement de développement, je souhaite pouvoir switcher facilement d&amp;rsquo;une version de PHP à l&amp;rsquo;autre. Mes pré-requis sont de disposer de versions compilées de PHP (avec les extensions APC et Xdebug) ainsi que d&amp;rsquo;une version de PHP packagée avec Zend Server.</description>
+    </item>
+    
+    <item>
+      <title>Zend Server 5 et Oracle</title>
+      <link>https://franek.chicour.net/post/zend-server-5-et-oracle/</link>
+      <pubDate>Fri, 26 Feb 2010 14:46:00 +0100</pubDate>
+      
+      <guid>https://franek.chicour.net/post/zend-server-5-et-oracle/</guid>
+      <description>Zend Server vient de sortir en version 5. Zend Server est le remplaçant de la Zend Platform.
+Par défaut, Zend Server est fourni avec le client Oracle Instant Client Lite qui ne prend pas en charge les bases de données Oracle avec des encodages un peu exotique (WE8ISO8859P15, par exemple) :
+ ZS is shipped with the OCI library Lite version which only supports OCI and OCCI for US locales only.</description>
+    </item>
+    
+  </channel>
+</rss>

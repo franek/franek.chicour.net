@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sauvegarde on ::franek::</title>
+    <link>https://franek.chicour.net/tags/sauvegarde/</link>
+    <description>Recent content in sauvegarde on ::franek::</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 29 Dec 2009 22:20:00 +0100</lastBuildDate><atom:link href="https://franek.chicour.net/tags/sauvegarde/feed/rss2" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Amélioration du &#34;post script&#34; de backup-manager</title>
+      <link>https://franek.chicour.net/post/amelioration-du-post-script-de-backup-manager/</link>
+      <pubDate>Tue, 29 Dec 2009 22:20:00 +0100</pubDate>
+      
+      <guid>https://franek.chicour.net/post/amelioration-du-post-script-de-backup-manager/</guid>
+      <description>backup-manager est un script très pratique permettant de faire la sauvegarde d&amp;rsquo;un serveur dédié. Ce script est utilisé pour effectuer la sauvegarde de la dédibox qui héberge ce site et ces satellites. Par défaut, ce script ne propose pas de contrôle des fichiers déposés sur le serveur de sauvegarde ou d&amp;rsquo;envoi d&amp;rsquo;un email lors de la fin de l&amp;rsquo;exécution de la sauvegarde.
+Il est possible d&amp;rsquo;ajouter des fonctionnalités à ce script via des hooks exécutés avant ou après la sauvegarde.</description>
+    </item>
+    
+  </channel>
+</rss>

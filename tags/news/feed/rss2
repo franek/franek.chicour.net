@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>news on ::franek::</title>
+    <link>https://franek.chicour.net/tags/news/</link>
+    <description>Recent content in news on ::franek::</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 30 Mar 2013 19:16:00 +0100</lastBuildDate><atom:link href="https://franek.chicour.net/tags/news/feed/rss2" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Recette (/recipe) &#34;Arrêt sur images&#34; pour le logiciel libre Calibre</title>
+      <link>https://franek.chicour.net/post/recette-recipe-arret-sur-images-pour-le-logiciel-libre-calibre/</link>
+      <pubDate>Sat, 30 Mar 2013 19:16:00 +0100</pubDate>
+      
+      <guid>https://franek.chicour.net/post/recette-recipe-arret-sur-images-pour-le-logiciel-libre-calibre/</guid>
+      <description>Je suis abonné Arrêt sur images, un site de news français réalisant un décryptage de l&amp;rsquo;actualité des médias et également possesseur d&amp;rsquo;une liseuse (e-book), Sony PRS-T1. Cette liseuse me permet de lire les contenus de différents sites hors ligne.
+Pour synchroniser les contenus de différentes sites (Instapaper, Le Monde, Médiapart, &amp;hellip;.), j&amp;rsquo;utilise un logiciel libre Calibre. Calibre propose un système d&amp;rsquo;extension (Recette / recipe) permettant d&amp;rsquo;étendre le logiciel et d&amp;rsquo;ajouter la synchronisation de sites n&amp;rsquo;étant actuellement pas gérés.</description>
+    </item>
+    
+  </channel>
+</rss>
