@@ -8,7 +8,7 @@
             <link href="https://franek.chicour.net/feed/rss2" rel="alternate" type="application/rss+xml" title="RSS" />
             <link href="https://franek.chicour.net/index.json" rel="alternate" type="application/json" title="JSON" />
             <link href="https://franek.chicour.net/feed/atom" rel="self" type="application/atom+xml" title="atom" />
-    <updated>2023-10-31T22:51:40+00:00</updated>
+    <updated>2023-10-31T23:11:30+00:00</updated>
     
     
     
@@ -502,7 +502,7 @@ set config(3)   {{- 2}  70 128  70 128}
             <updated>2013-12-15T18:10:41+01:00</updated>
             
             
-            <content type="html"><![CDATA[<div style="margin:auto;width:200px;"><iframe allowtransparency="true" frameborder="0" height="380" src="https://embed.spotify.com/?uri=spotify:user:franek:playlist:6ESGt33pIaLjYk4VGSt5FV" width="300"></iframe></div>
+            <content type="html"><![CDATA[<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/6ESGt33pIaLjYk4VGSt5FV?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 ]]></content>
             
                  
