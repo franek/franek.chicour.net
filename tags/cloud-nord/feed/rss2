@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cloud Nord on ::franek::</title>
+    <link>https://franek.chicour.net/tags/cloud-nord/</link>
+    <description>Recent content in Cloud Nord on ::franek::</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 31 Oct 2023 21:34:13 +0100</lastBuildDate><atom:link href="https://franek.chicour.net/tags/cloud-nord/feed/rss2" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cloud Nord 2023</title>
+      <link>https://franek.chicour.net/post/cloud-nord-2023/</link>
+      <pubDate>Tue, 31 Oct 2023 21:34:13 +0100</pubDate>
+      
+      <guid>https://franek.chicour.net/post/cloud-nord-2023/</guid>
+      <description>Cloud Nord est une journée de conférence dédiée aux Clouds et outils associés (culture devops).
+Ce cycle de conférences a lieu tous les ans à Lille sur le site d’Euratechnologie, un incubateur de start-ups. C’est une conférence organisée par des bénévoles et soutenu par de nombreux partenaires (Les Tilleuls, OPEN, Ippon Technologie, …).
+4 tracks ont lieu au même moment. N’ayant pas le don d’ubiquité, je n’ai pu participer qu&amp;rsquo;à une partie infime des conférences.</description>
+    </item>
+    
+  </channel>
+</rss>
