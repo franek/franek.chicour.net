@@ -55,4 +55,5 @@ Si vous souhaitez en savoir plus sur l'évènement, d'autres personnes ont été
 * L'inarrêtabble [Zwindler](https://blog.zwindler.fr/2024/03/19/kubecon-eu-2024-mardi-colocated/)
 * [Rémi Verchère](https://www.vrchr.fr/posts/2024/2024-03-24-kubecon-eu/)
 * [cockpit.io](https://blog.cockpitio.com/events/kubecon-eu-paris-2024/)
+* [SFEIR](https://www.sfeir.dev/cloud/retour-sur-la-kubecon-2024/)
 * ...
