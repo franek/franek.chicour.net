@@ -8,12 +8,108 @@
             <link href="https://franek.chicour.net/feed/rss2" rel="alternate" type="application/rss+xml" title="RSS" />
             <link href="https://franek.chicour.net/index.json" rel="alternate" type="application/json" title="JSON" />
             <link href="https://franek.chicour.net/feed/atom" rel="self" type="application/atom+xml" title="atom" />
-    <updated>2023-11-01T14:48:49+00:00</updated>
+    <updated>2024-04-01T19:48:11+00:00</updated>
     
     
     
     
         <id>https://franek.chicour.net/</id>
+    
+        
+        <entry>
+            <title type="html"><![CDATA[Retour sur la KubeCon et CLoudNativeCon Europe 2024]]></title>
+            <link href="https://franek.chicour.net/post/2024-kubecon-europe/?utm_source=atom_feed" rel="alternate" type="text/html" />
+            
+                <link href="https://franek.chicour.net/post/cloud-nord-2023/?utm_source=atom_feed" rel="related" type="text/html" title="Cloud Nord 2023" />
+                <link href="https://franek.chicour.net/post/paris-web-2013-j-y-etais/?utm_source=atom_feed" rel="related" type="text/html" title="Paris Web 2013 : J&#39;y étais !" />
+            
+                <id>https://franek.chicour.net/post/2024-kubecon-europe/</id>
+            
+            
+            <published>2024-03-31T11:34:13+01:00</published>
+            <updated>2024-03-31T11:34:13+01:00</updated>
+            
+            
+            <content type="html"><![CDATA[<p>Grâce à mon gentil <a href="https://www.arte.tv/">employeur</a>, j&rsquo;ai participé pour la première fois à la <a href="https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/">KubeCon + CloudNativeCon + other CNCF Events Europe</a>. Cette édition avait lieu à Paris à Porte de Versailles.</p>
+<p>Cette conférence est dédiée à l&rsquo;écosystème Kubernetes et aux projets incubés auprès de la <a href="https://www.cncf.io/">CNCF</a> (Cloud Native and Computing Foundation). On retrouve au sein de la CNCF des projets comme bien entendu Kubernetes mais également Prometheus, OpenTelemetry, OpenFeature, Backstage, Keda, Helm, &hellip; (et <a href="https://landscape.cncf.io/">bien d&rsquo;autres</a>)</p>
+<p>Cette édition était découpée en 4 jours :</p>
+<ul>
+<li>une première journée dédiée aux projets de la CNCF &ldquo;colocated events&rdquo;: il y avait beaucoup moins de monde, c&rsquo;était principalement une journée dédiée aux <em>mainteneurs</em> des projets incubées par la CNCF. C&rsquo;était un bon moyen de découvrir les lieux et comprendre comment l&rsquo;évènement aller fonctionner.</li>
+<li>trois grosses journées qui sont vraiment le coeur de l&rsquo;évènement avec des keynotes de 2h, un étage dédié avec les stands de tous les gros acteurs et des conférences thématiques.</li>
+</ul>
+<p>Cette année, les organisateurs ont annoncé qu&rsquo;il y avait <strong>12 000 personnes</strong>. Par le passé, j&rsquo;ai beaucoup participé aux conférences &ldquo;<a href="https://event.afup.org/forum-php-2023/">Forum PHP</a>&rdquo; ou &ldquo;<a href="https://www.paris-web.fr/">Paris Web</a>&rdquo; que je trouvais déjà assez importantes en nombre de visiteurs. Cet évènement ne joue clairement pas dans la même catégorie. Retrouver les copains après chaque conférence est extrêmement difficile.</p>
+<p>La Kubecon Europe tourne entre les différents pays européens (Valence en Espagne l&rsquo;an passé, Amsterdam aux Pays-Bas l&rsquo;année précédente). L&rsquo;évènement est donc beaucoup plus cosmopolitain. Toutes les conférences sont en anglais et dans les couloirs, on croise énorméments d&rsquo;Américains, d&rsquo;Espagnols, d&rsquo;Allemands, d&rsquo;Anglais, &hellip; Les Français sont au final assez peu représentés (20% peut-être ?).</p>
+<p>Durant les 3 jours principaux, il y a parfois une dizaine de tracks en parallèle.  Je n&rsquo;ai toujours pas le don d&rsquo;ubiquité et c&rsquo;est parfois extrêmement difficile de faire le bon choix. Dans d&rsquo;autres cas, en raison du monde, c&rsquo;est frustrant de ne pas pouvoir assister à la conférence que l&rsquo;on souhaite absolument voir.</p>
+<p>Un des intérêts majeurs de l&rsquo;évènement est à mon sens de valider les solutions techniques du moment. Actuellement, mes sujets du moment tournent autour de Kubernetes, OpenTelemetry, Prometheus, OpenFeature, Backstage, Keda, &hellip; Ces technos étaient assez bien representées, elles semblent être validées par la communauté et c&rsquo;est plutôt rassurant.</p>
+<p>Certaines équipes ne souhaitent pas comprendre comment fonctionne Kubernetes, ils veulent simplement déployer leurs applications. Une de mes missions est d&rsquo;abstraire cette complexité en donnant accès à des abstractions. Spotify expliquait bien tout cela <a href="https://www.youtube.com/watch?v=Iw5Tox2H87A">lors d&rsquo;une très belle conférence</a>.</p>
+<p><img src="/public/kubecon-2024/spotify.jpg" alt=""></p>
+<p>Je ne ferai pas de compte-rendu de toutes les conférences que j&rsquo;ai pu voir. Les <a href="https://www.youtube.com/@cncf/playlists">replays</a> sont déjà disponibles.</p>
+<p>Quelques outils ou remarques qui ont attirés mon attention :</p>
+<ul>
+<li>
+<p>Bientôt la SNCF fera tourner des clusters Kubernetes dans leur train grâce à <a href="https://k3s.io/">k3s</a> <img src="/public/kubecon-2024/sncf.jpg" alt=""></p>
+</li>
+<li>
+<p><a href="http://opensource.adobe.com/k8s-shredder/">k8s-shredder</a> développé par Adobe qui implémente la notion de &ldquo;Parked&rdquo; node</p>
+</li>
+<li>
+<p>WebAssembly semble vraiment une techno à suivre et nous pourrons bientôt faire tourner du WebAssembly dans nos clusters Kubernetes grâce par exemple à <a href="https://www.spinkube.dev/">SpinKube</a></p>
+</li>
+<li>
+<p>En terme de sécurité des clusters k8s, <a href="https://kyverno.io/">Kyverno</a> et <a href="https://falco.org/">Falco</a> sont des outils à suivre/expérimenter. Kyverno va permettre d&rsquo;appliquer des politiques de sécurité sur le cluster. Falco va permettre de détecter des problèmes de sécurité.</p>
+</li>
+<li>
+<p>Une solution de Load Balancer de haut-niveau &ldquo;A cloud native Kubernetes Global Balancer&rdquo; est en train de voir le jour grâce à <a href="https://www.k8gb.io/docs/">k8gb</a> qui peut interagir avec nombreuses solutions DNS (Route53, Cloudflare, Azure, &hellip;.)</p>
+</li>
+<li>
+<p><a href="https://www.apiclarity.io/">APIClarity</a>, un outil développé par CISCO, qui  permet de génerer une spec OpenAPI à partir du trafic détecté au niveau du cluster.</p>
+</li>
+<li>
+<p><a href="https://openfga.dev/">OpenFGA</a>, pour rendre agnostique la gestion des autorisations et des permissions au niveau du cluster</p>
+</li>
+<li>
+<p><a href="https://karmada.io/">Karmada</a>, un projet à suivre pour faire du multi-clusters/multi-clouds</p>
+</li>
+<li>
+<p><a href="https://github.com/slimtoolkit/slim">Slim</a>, pour réduire la taille d&rsquo;une image Docker</p>
+</li>
+<li>
+<p>Le hashtag #IA était bien entendu présent. <a href="https://www.kubeflow.org/">Kubeflow</a> semble être la solution qui sort du lot pour faire touner des traitements d&rsquo;intelligence artificielle.</p>
+</li>
+<li>
+<p>En solution alternative à Backstage, <a href="https://www.opslevel.com/">OpsLevel</a> semble chouette. J&rsquo;ai également découvert que des sociétés proposaient du BackStage managé: <a href="https://roadie.io/">Roadie</a></p>
+</li>
+<li>
+<p>&hellip; (et plein d&rsquo;autres choses qu&rsquo;il est difficile de résumer dans cet article)</p>
+</li>
+</ul>
+<p>Pour conclure, j&rsquo;ai passé un super moment. Ce fut aussi l&rsquo;occasion de sortir de mon quotidien et de voir d&rsquo;autres choses. Je recommande ;)</p>
+<p>Si vous souhaitez en savoir plus sur l&rsquo;évènement, d&rsquo;autres personnes ont été beaucoup plus prolixes que moi :</p>
+<ul>
+<li>L&rsquo;inarrêtabble <a href="https://blog.zwindler.fr/2024/03/19/kubecon-eu-2024-mardi-colocated/">Zwindler</a></li>
+<li><a href="https://www.vrchr.fr/posts/2024/2024-03-24-kubecon-eu/">Rémi Verchère</a></li>
+<li><a href="https://blog.cockpitio.com/events/kubecon-eu-paris-2024/">cockpit.io</a></li>
+<li>&hellip;</li>
+</ul>
+]]></content>
+            
+                 
+                    
+                         
+                        
+                            
+                             
+                                <category scheme="https://franek.chicour.net/tags/kubernetes" term="kubernetes" label="Kubernetes" />
+                             
+                                <category scheme="https://franek.chicour.net/tags/cncf" term="cncf" label="CNCF" />
+                             
+                                <category scheme="https://franek.chicour.net/tags/conf%C3%A9rence" term="conf%C3%A9rence" label="conférence" />
+                            
+                        
+                    
+                
+            
+        </entry>
     
         
         <entry>

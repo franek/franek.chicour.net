@@ -4,7 +4,37 @@
   
   <url>
     <loc>https://franek.chicour.net/</loc>
-    <lastmod>2023-10-31T21:34:13+01:00</lastmod>
+    <lastmod>2024-03-31T11:34:13+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://franek.chicour.net/tags/cncf/</loc>
+    <lastmod>2024-03-31T11:34:13+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://franek.chicour.net/tags/conf%C3%A9rence/</loc>
+    <lastmod>2024-03-31T11:34:13+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://franek.chicour.net/tags/kubernetes/</loc>
+    <lastmod>2024-03-31T11:34:13+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://franek.chicour.net/post/</loc>
+    <lastmod>2024-03-31T11:34:13+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://franek.chicour.net/post/2024-kubecon-europe/</loc>
+    <lastmod>2024-03-31T11:34:13+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://franek.chicour.net/tags/</loc>
+    <lastmod>2024-03-31T11:34:13+01:00</lastmod>
   </url>
   
   <url>
@@ -18,22 +48,7 @@
   </url>
   
   <url>
-    <loc>https://franek.chicour.net/tags/conf%C3%A9rence/</loc>
-    <lastmod>2023-10-31T21:34:13+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://franek.chicour.net/tags/lille/</loc>
-    <lastmod>2023-10-31T21:34:13+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://franek.chicour.net/post/</loc>
-    <lastmod>2023-10-31T21:34:13+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://franek.chicour.net/tags/</loc>
     <lastmod>2023-10-31T21:34:13+01:00</lastmod>
   </url>
   
