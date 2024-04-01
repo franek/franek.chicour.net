@@ -8,7 +8,7 @@
             <link href="https://franek.chicour.net/feed/rss2" rel="alternate" type="application/rss+xml" title="RSS" />
             <link href="https://franek.chicour.net/index.json" rel="alternate" type="application/json" title="JSON" />
             <link href="https://franek.chicour.net/feed/atom" rel="self" type="application/atom+xml" title="atom" />
-    <updated>2024-04-01T19:48:11+00:00</updated>
+    <updated>2024-04-01T20:03:33+00:00</updated>
     
     
     
@@ -89,6 +89,7 @@
 <li>L&rsquo;inarrêtabble <a href="https://blog.zwindler.fr/2024/03/19/kubecon-eu-2024-mardi-colocated/">Zwindler</a></li>
 <li><a href="https://www.vrchr.fr/posts/2024/2024-03-24-kubecon-eu/">Rémi Verchère</a></li>
 <li><a href="https://blog.cockpitio.com/events/kubecon-eu-paris-2024/">cockpit.io</a></li>
+<li><a href="https://www.sfeir.dev/cloud/retour-sur-la-kubecon-2024/">SFEIR</a></li>
 <li>&hellip;</li>
 </ul>
 ]]></content>
