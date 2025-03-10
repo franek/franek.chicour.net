@@ -1,6 +1,5 @@
 baseURL: "https://franek.chicour.net"
 title: "::franek::"
-paginate: 15
 theme:
   - hugo-PaperMod
 publishDir: "public"
@@ -33,7 +32,7 @@ params:
     author: Franek
     # author: ["Me", "You"] # multiple authors
 
-    images: "<link or path of image for opengraph, twitter-cards>"
+    #images: "<link or path of image for opengraph, twitter-cards>"
 
     ShowReadingTime: false
     ShowShareButtons: false
