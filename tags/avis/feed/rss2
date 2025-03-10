@@ -1,21 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>avis on ::franek::</title>
+    <title>Avis on ::franek::</title>
     <link>https://franek.chicour.net/tags/avis/</link>
-    <description>Recent content in avis on ::franek::</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 29 Apr 2012 17:04:00 +0200</lastBuildDate><atom:link href="https://franek.chicour.net/tags/avis/feed/rss2" rel="self" type="application/rss+xml" />
+    <description>Recent content in Avis on ::franek::</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <lastBuildDate>Sat, 28 Jul 2018 12:34:30 +0200</lastBuildDate>
+    <atom:link href="https://franek.chicour.net/tags/avis/feed/rss2" rel="self" type="application/rss+xml" />
     <item>
       <title>Avis sur la liseuse Sony PRS-T1</title>
       <link>https://franek.chicour.net/post/avis-sur-la-liseuse-sony-prs-t1/</link>
       <pubDate>Sun, 29 Apr 2012 17:04:00 +0200</pubDate>
-      
       <guid>https://franek.chicour.net/post/avis-sur-la-liseuse-sony-prs-t1/</guid>
-      <description>J&amp;rsquo;ai récemment fait l&amp;rsquo;acquisition d&amp;rsquo;une liseuse SONY PRS-T1 (ou e-book). C&amp;rsquo;est ma première acquisition de ce type de produit, je découvre donc le monde du livre numérique.
-Je souhaitais :
- réduire mon temps passé face à mon ordinateur à simplement lire des articles ou autre blog un produit ouvert (possibilité de récupérer mes livres pour les lire sur d&amp;rsquo;autres supports) un produit extensible (possibilité d&amp;rsquo;éventuellement ajouter des fonctionnalités en modifiant le logiciel interne) un produit léger et facile d&amp;rsquo;utilisation un produit compatible avec mon système d&amp;rsquo;exploitation principal (Linux / Ubuntu)  J&amp;rsquo;ai longuement hésité dans le choix de ma liseuse.</description>
+      <description>&lt;p&gt;&lt;img alt=&#34;Liseuse SONY PRS-T1&#34; loading=&#34;lazy&#34; src=&#34;https://franek.chicour.net/public/2012/avril/.PRS-T1_Cropped_m.jpg&#34; title=&#34;Liseuse SONY PRS-T1, avr. 2012&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;J&amp;rsquo;ai récemment fait l&amp;rsquo;acquisition d&amp;rsquo;une liseuse &lt;a href=&#34;http://www.sony.fr/product/rd-reader-ebook/prst1bc.cew&#34;&gt;SONY PRS-T1&lt;/a&gt; (ou e-book). C&amp;rsquo;est ma première acquisition de ce type de produit, je découvre donc le monde du livre numérique.&lt;/p&gt;&#xA;&lt;p&gt;Je souhaitais :&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;réduire mon temps passé face à mon ordinateur à simplement lire des articles ou autre blog&lt;/li&gt;&#xA;&lt;li&gt;un produit ouvert (possibilité de récupérer mes livres pour les lire sur d&amp;rsquo;autres supports)&lt;/li&gt;&#xA;&lt;li&gt;un produit extensible (possibilité d&amp;rsquo;éventuellement ajouter des fonctionnalités en modifiant le logiciel interne)&lt;/li&gt;&#xA;&lt;li&gt;un produit léger et facile d&amp;rsquo;utilisation&lt;/li&gt;&#xA;&lt;li&gt;un produit compatible avec mon système d&amp;rsquo;exploitation principal (Linux / Ubuntu)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;J&amp;rsquo;ai longuement hésité dans le choix de ma liseuse. Le &lt;a href=&#34;http://n.survol.fr/&#34;&gt;blog d&amp;rsquo;Eric D.&lt;/a&gt;, qui travaille dans le domaine, m&amp;rsquo;a beaucoup aidé :&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

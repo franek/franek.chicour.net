@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>pétanque on ::franek::</title>
+    <title>Pétanque on ::franek::</title>
     <link>https://franek.chicour.net/tags/p%C3%A9tanque/</link>
-    <description>Recent content in pétanque on ::franek::</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 16 Apr 2008 22:41:00 +0200</lastBuildDate><atom:link href="https://franek.chicour.net/tags/p%C3%A9tanque/feed/rss2" rel="self" type="application/rss+xml" />
+    <description>Recent content in Pétanque on ::franek::</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <lastBuildDate>Wed, 16 Apr 2008 22:41:00 +0200</lastBuildDate>
+    <atom:link href="https://franek.chicour.net/tags/p%C3%A9tanque/feed/rss2" rel="self" type="application/rss+xml" />
     <item>
       <title>Jeu de kubb</title>
       <link>https://franek.chicour.net/post/jeu-de-kubb/</link>
       <pubDate>Wed, 16 Apr 2008 22:41:00 +0200</pubDate>
-      
       <guid>https://franek.chicour.net/post/jeu-de-kubb/</guid>
-      <description>A faire découvrir aux enfants, à jouer entre amis de 9 à 99 ans, le kubb, jeu d&amp;rsquo;origine nordique. Un mélange entre la pétanque et le bowling, Fichtrement rigolo sur les plages d&amp;rsquo;Hardelot (sic).</description>
+      <description>&lt;p&gt;A faire découvrir aux enfants, à jouer entre amis de 9 à 99 ans, le &lt;a href=&#34;http://fr.wikipedia.org/wiki/Kubb&#34;&gt;kubb&lt;/a&gt;, jeu d&amp;rsquo;origine nordique. Un mélange entre la pétanque et le bowling, Fichtrement rigolo sur les plages d&amp;rsquo;Hardelot (sic).&lt;/p&gt;&#xA;&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://upload.wikimedia.org/wikipedia/fr/thumb/2/29/Mini-KUBBSET.jpg/365px-Mini-KUBBSET.jpg&#34;&gt;&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

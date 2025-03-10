@@ -1,50 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>post-it on ::franek::</title>
+    <title>Post-It on ::franek::</title>
     <link>https://franek.chicour.net/tags/post-it/</link>
-    <description>Recent content in post-it on ::franek::</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 04 Jan 2012 20:59:00 +0100</lastBuildDate><atom:link href="https://franek.chicour.net/tags/post-it/feed/rss2" rel="self" type="application/rss+xml" />
+    <description>Recent content in Post-It on ::franek::</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <lastBuildDate>Wed, 04 Jan 2012 21:06:02 +0100</lastBuildDate>
+    <atom:link href="https://franek.chicour.net/tags/post-it/feed/rss2" rel="self" type="application/rss+xml" />
     <item>
       <title>Post-it : crontab et %</title>
       <link>https://franek.chicour.net/post/post-it-crontab-et/</link>
       <pubDate>Wed, 04 Jan 2012 20:59:00 +0100</pubDate>
-      
       <guid>https://franek.chicour.net/post/post-it-crontab-et/</guid>
-      <description>Une petite astuce concernant crontab que je ne connaissais pas (on apprend tous les jours).
-Les caractères % doivent être échappés dans crontab.
-Le crontab suivant :
- 00 19 * * * /chemin/vers/mon/script.sh &amp;gt;/chemin/vers/output-`date +%Y%m%d`.log ne fonctionnait pas.
-J&amp;rsquo;obtenais une erreur du type :
- /bin/sh: Syntax error: EOF in backquote substitution Après quelques recherches, je suis tombé sur un fil de stackoverflow qui correspondait à mon problème.
-Dans crontab, il est nécessaires d&amp;rsquo;échapper avec un backslash le caractère %.</description>
+      <description>&lt;p&gt;Une petite astuce concernant crontab que je ne connaissais pas (on apprend tous les jours).&lt;/p&gt;&#xA;&lt;p&gt;Les caractères % doivent être échappés dans crontab.&lt;/p&gt;&#xA;&lt;p&gt;Le crontab suivant :&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;&#xA;00 19 * * * /chemin/vers/mon/script.sh &amp;gt;/chemin/vers/output-`date +%Y%m%d`.log&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;ne fonctionnait pas.&lt;/p&gt;&#xA;&lt;p&gt;J&amp;rsquo;obtenais une erreur du type :&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;&#xA;/bin/sh: Syntax error: EOF in backquote substitution&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Après quelques recherches, je suis tombé sur un &lt;a href=&#34;http://stackoverflow.com/questions/7068759/crontab-syntax-error&#34;&gt;fil de stackoverflow&lt;/a&gt; qui correspondait à mon problème.&lt;/p&gt;&#xA;&lt;p&gt;Dans crontab, il est nécessaires d&amp;rsquo;échapper avec un backslash le caractère %. Le contab suivant fonctionne :&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Post-it : Accéder à un dépôt git à traver un proxy</title>
       <link>https://franek.chicour.net/post/post-it-acceder-a-un-depot-git-a-traver-un-proxy/</link>
       <pubDate>Sat, 06 Aug 2011 17:12:00 +0200</pubDate>
-      
       <guid>https://franek.chicour.net/post/post-it-acceder-a-un-depot-git-a-traver-un-proxy/</guid>
-      <description>Il est parfois nécessaire de pouvoir accéder à son dépôt git (push et pull) auto-hébergé derrière un proxy.
-Mon dépôt git ne support pas le smart HTTP protocol.
-Je vais vous présenter ici une technique s&amp;rsquo;appuyant sur corkscrew. Il y existe sûrement d&amp;rsquo;autres techniques (port forwarding, &amp;hellip;).
-Cette technique sous-entend que ssh est configuré sur le port 443 de votre serveur.
-Installer corkscrew :
- $ sudo apt-get install corkscrew Ajouter dans le fichier ~/.</description>
+      <description>&lt;p&gt;Il est parfois nécessaire de pouvoir accéder à son dépôt git (push et pull) auto-hébergé derrière un proxy.&lt;/p&gt;&#xA;&lt;p&gt;Mon dépôt git ne support pas le &lt;a href=&#34;https://github.com/blog/642-smart-http-support&#34;&gt;smart HTTP protocol&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Je vais vous présenter ici une technique s&amp;rsquo;appuyant sur corkscrew. Il y existe sûrement d&amp;rsquo;autres techniques (port forwarding, &amp;hellip;).&lt;/p&gt;&#xA;&lt;p&gt;Cette technique sous-entend que ssh est configuré sur le port 443 de votre serveur.&lt;/p&gt;&#xA;&lt;p&gt;Installer corkscrew :&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;&#xA;$ sudo apt-get install corkscrew&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Ajouter dans le fichier ~/.ssh/config :&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Une nouvelle méthode de gestion de projet</title>
       <link>https://franek.chicour.net/post/une-nouvelle-methode-de-gestion-de-projet/</link>
       <pubDate>Sun, 01 Mar 2009 18:13:00 +0100</pubDate>
-      
       <guid>https://franek.chicour.net/post/une-nouvelle-methode-de-gestion-de-projet/</guid>
-      <description>Vous connaissez sûrement tous mais c&amp;rsquo;est tellement utilisé&amp;hellip;
-Je ne sais pas si c&amp;rsquo;est applicable partout mais en tout cas, dans le développement logiciel, on la retrouve encore beaucoup&amp;hellip;
-La Rache : Qu&amp;rsquo;est-ce-que &amp;ldquo;La Rache&amp;rdquo; ?</description>
+      <description>&lt;p&gt;Vous connaissez sûrement tous mais c&amp;rsquo;est tellement utilisé&amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;Je ne sais pas si c&amp;rsquo;est applicable partout mais en tout cas, dans le développement logiciel, on la retrouve encore beaucoup&amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;La Rache : &lt;img loading=&#34;lazy&#34; src=&#34;http://www.cafenware.com/la-rache/zfiles//process.jpg&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Qu&amp;rsquo;est-ce-que &lt;a href=&#34;http://www.cafenware.com/la-rache/index.php?z=2&#34;&gt;&amp;ldquo;La Rache&amp;rdquo;&lt;/a&gt; ?&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

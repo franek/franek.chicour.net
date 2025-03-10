@@ -1,23 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>the cinematic orchestra on ::franek::</title>
+    <title>The Cinematic Orchestra on ::franek::</title>
     <link>https://franek.chicour.net/tags/the-cinematic-orchestra/</link>
-    <description>Recent content in the cinematic orchestra on ::franek::</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 10 Oct 2007 23:59:00 +0200</lastBuildDate><atom:link href="https://franek.chicour.net/tags/the-cinematic-orchestra/feed/rss2" rel="self" type="application/rss+xml" />
+    <description>Recent content in The Cinematic Orchestra on ::franek::</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <lastBuildDate>Fri, 30 May 2008 22:29:58 +0200</lastBuildDate>
+    <atom:link href="https://franek.chicour.net/tags/the-cinematic-orchestra/feed/rss2" rel="self" type="application/rss+xml" />
     <item>
       <title>&#34;The cinematic orchestra&#34; à la Cigale</title>
       <link>https://franek.chicour.net/post/the-cinematic-orchestra-a-la-cigale/</link>
       <pubDate>Wed, 10 Oct 2007 23:59:00 +0200</pubDate>
-      
       <guid>https://franek.chicour.net/post/the-cinematic-orchestra-a-la-cigale/</guid>
-      <description>Je m&amp;rsquo;attendais à une pâle copie des différents albums du groupe. Tout le contraire&amp;hellip;
-6 musiciens(batteur, machines, guitariste, contre-bassiste, piano/flûte traversière, saxophone) + 1 chanteuse sur scène. Globalement très bon concert, juste un peu court, balance des instruments pas exceptionnelle et malheureusement des fumeurs qui ne respectent pas l&amp;rsquo;interdiction de fumer dans les lieux publics&amp;hellip;
-A recommander&amp;hellip;
-Ecouter un titre :
-[![free music](http://www.deezer.com/embedded/footer.jpg &#34;free music&#34;)](http://www.deezer.com/fr/the-cinematic-orchestra.html)Pour en savoir plus :  Le myspace du groupe Le site du groupe La page wikipedia du groupe  </description>
+      <description>&lt;p&gt;Je m&amp;rsquo;attendais à une pâle copie des différents albums du groupe. Tout le contraire&amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;6 musiciens(batteur, machines, guitariste, contre-bassiste, piano/flûte traversière, saxophone) + 1 chanteuse sur scène. Globalement très bon concert, juste un peu court, balance des instruments pas exceptionnelle et malheureusement des fumeurs qui ne respectent pas l&amp;rsquo;interdiction de fumer dans les lieux publics&amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;A recommander&amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;Ecouter un titre :&lt;/p&gt;&#xA;&lt;div style=&#34;width:180px;height:25px;&#34;&gt;&lt;object height=&#34;25&#34; width=&#34;180&#34;&gt;&lt;param name=&#34;movie&#34; value=&#34;http://www.deezer.com/embedded/small-widget.swf?idSong=82964&amp;colorBackground=0x525252&amp;colorButtons=0xDDDDDD&amp;textColor1=0xFFFFFF&amp;autoplay=0&#34;&gt;&lt;/param&gt;&lt;embed height=&#34;25&#34; src=&#34;http://www.deezer.com/embedded/small-widget.swf?idSong=82964&amp;colorBackground=0x525252&amp;colorButtons=0xDDDDDD&amp;textColor1=0xFFFFFF&amp;autoplay=0&#34; type=&#34;application/x-shockwave-flash&#34; width=&#34;180&#34;&gt;&lt;/embed&gt;&lt;/object&gt;[![free music](http://www.deezer.com/embedded/footer.jpg &#34;free music&#34;)](http://www.deezer.com/fr/the-cinematic-orchestra.html)&lt;/div&gt;Pour en savoir plus :&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Le &lt;a href=&#34;http://www.myspace.com/thecinematicorchestras&#34;&gt;myspace du groupe&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Le &lt;a href=&#34;http://www.cinematicorchestra.com/&#34;&gt;site du groupe&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;La &lt;a href=&#34;http://fr.wikipedia.org/wiki/The_Cinematic_Orchestra&#34;&gt;page wikipedia du groupe&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
-    
   </channel>
 </rss>

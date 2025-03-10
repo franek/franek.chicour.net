@@ -1,31 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>dev web on ::franek::</title>
+    <title>Dev Web on ::franek::</title>
     <link>https://franek.chicour.net/tags/dev-web/</link>
-    <description>Recent content in dev web on ::franek::</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 25 Jan 2008 21:58:00 +0100</lastBuildDate><atom:link href="https://franek.chicour.net/tags/dev-web/feed/rss2" rel="self" type="application/rss+xml" />
+    <description>Recent content in Dev Web on ::franek::</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <lastBuildDate>Sun, 27 Jan 2008 20:34:56 +0100</lastBuildDate>
+    <atom:link href="https://franek.chicour.net/tags/dev-web/feed/rss2" rel="self" type="application/rss+xml" />
     <item>
       <title>Le rendu des navigateurs</title>
       <link>https://franek.chicour.net/post/le-rendu-des-navigateurs/</link>
       <pubDate>Fri, 25 Jan 2008 21:58:00 +0100</pubDate>
-      
       <guid>https://franek.chicour.net/post/le-rendu-des-navigateurs/</guid>
-      <description>Tout développeur web qui se respecte a déjà été confronté aux différences de rendu entre navigateur (Internet Explorer étant particulièrement une plaie). Alsacréations propose un article intéressant sur les solutions pour tester le rendu d&amp;rsquo;un site sur les principaux navigateurs du marché.
-Microsoft est en train de préparer Internet Explorer 8. Mike Crosoft semble travailler dans le bon sens, par le respect (enfin) des standards. Néanmoins, la technique qui permettra de forcer le navigateur à passer en mode standard et de conserver également la rétro-compatibilité avec les anciennes versions de Internet Explorer prête à polémique.</description>
+      <description>&lt;p&gt;Tout développeur web qui se respecte a déjà été confronté aux différences de rendu entre navigateur (Internet Explorer étant particulièrement une plaie). &lt;a href=&#34;htp://www.alsacreations.com&#34;&gt;Alsacréations&lt;/a&gt; propose un article intéressant sur les solutions pour &lt;a href=&#34;http://blog.alsacreations.com/2008/01/17/409-installer-differents-navigateurs-pour-tester-vos-pages&#34;&gt;tester le rendu d&amp;rsquo;un site sur les principaux navigateurs du marché&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Microsoft est en train de préparer Internet Explorer 8. Mike Crosoft semble travailler dans le bon sens, par le respect (enfin) des standards. Néanmoins, la technique qui permettra de forcer le navigateur à passer en mode standard et de conserver également la rétro-compatibilité avec les anciennes versions de Internet Explorer prête à polémique. &lt;a href=&#34;http://standblog.org/blog/post/2008/01/25/Compatibilite-et-IE8-%3A-le-point&#34;&gt;Tristan Nitot en parle bien mieux que moi&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Javascript unobstrusive</title>
       <link>https://franek.chicour.net/post/javascript-unobstrusive/</link>
       <pubDate>Thu, 29 Nov 2007 22:34:00 +0100</pubDate>
-      
       <guid>https://franek.chicour.net/post/javascript-unobstrusive/</guid>
-      <description>Oubliez les onclick, onkeypress, onload,&amp;hellip; dans votre code HTML. On parle désormais de Javascript Unobstrusive (javascript non intrusif). Si vous ne bossez pas encore comme ça, lisez les ressources suivantes :
- Javascript non-intrusif, chapitre 1 : le grand nettoyage ! les 7 bonnes pratiques du javascript non intrusif  Perso., j&amp;rsquo;utilise depuis quelques mois jquery et j&amp;rsquo;en suis très content :
- site officiel de jquery liste des plugins de jquery  </description>
+      <description>&lt;p&gt;Oubliez les onclick, onkeypress, onload,&amp;hellip; dans votre code HTML. On parle désormais de Javascript Unobstrusive (javascript non intrusif). Si vous ne bossez pas encore comme ça, lisez les ressources suivantes :&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://www.pompage.net/pompe/javascript-non-intruisif-chapitre-1/&#34;&gt;Javascript non-intrusif, chapitre 1 : le grand nettoyage !&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://icant.co.uk/articles/seven-rules-of-unobtrusive-javascript/&#34;&gt;les 7 bonnes pratiques du javascript non intrusif&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Perso., j&amp;rsquo;utilise depuis quelques mois &lt;a href=&#34;http://jquery.com&#34;&gt;jquery&lt;/a&gt; et j&amp;rsquo;en suis très content :&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://franek.chicour.net/post/2007/11/29/&#34; title=&#34;en&#34;&gt;site officiel de jquery&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://www.kollermedia.at/archive/2007/11/21/the-ultimate-jquery-plugin-list/&#34;&gt;liste des plugins de jquery&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
-    
   </channel>
 </rss>

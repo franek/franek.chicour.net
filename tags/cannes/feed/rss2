@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>cannes on ::franek::</title>
+    <title>Cannes on ::franek::</title>
     <link>https://franek.chicour.net/tags/cannes/</link>
-    <description>Recent content in cannes on ::franek::</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 08 Feb 2012 11:02:00 +0100</lastBuildDate><atom:link href="https://franek.chicour.net/tags/cannes/feed/rss2" rel="self" type="application/rss+xml" />
+    <description>Recent content in Cannes on ::franek::</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <lastBuildDate>Wed, 08 Feb 2012 11:10:44 +0100</lastBuildDate>
+    <atom:link href="https://franek.chicour.net/tags/cannes/feed/rss2" rel="self" type="application/rss+xml" />
     <item>
       <title>Quelques bonnes adresses sur la Côte d&#39;Azur</title>
       <link>https://franek.chicour.net/post/quelques-bonnes-adresses-sur-la-cote-d-azur/</link>
       <pubDate>Wed, 08 Feb 2012 11:02:00 +0100</pubDate>
-      
       <guid>https://franek.chicour.net/post/quelques-bonnes-adresses-sur-la-cote-d-azur/</guid>
-      <description>Après un passage par la côte d&amp;rsquo;Azur, quelques endroits qui valent le détour :
- Ville de Grasse avec l&amp;rsquo;usine de la parfumerie Fragonard et le musée international de la parfumerie. Musée de la Castre qui se situe en haut de la colline du Suquet à Cannes. Le musée propose une belle collection d&amp;rsquo;arts primitifs. Il est également possible de monter en haut de la tour du guet avec un beau panorama sur la baie de Cannes.</description>
+      <description>&lt;p&gt;Après un passage par la côte d&amp;rsquo;Azur, quelques endroits qui valent le détour :&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://www.ville-grasse.fr/&#34;&gt;Ville de Grasse&lt;/a&gt; avec l&amp;rsquo;usine de la parfumerie &lt;a href=&#34;http://www.fragonard.com/&#34;&gt;Fragonard&lt;/a&gt; et le &lt;a href=&#34;http://www.museesdegrasse.com/approfondissez_vos_connaissances/la_documentation/musee_international_de_la_parfumerie&#34;&gt;musée international de la parfumerie&lt;/a&gt;.&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://fr.wikipedia.org/wiki/Mus%C3%A9e_de_la_Castre&#34;&gt;Musée de la Castre&lt;/a&gt; qui se situe en haut de la colline du Suquet à Cannes. Le musée propose une belle collection d&amp;rsquo;arts primitifs. Il est également possible de monter en haut de la tour du guet avec un beau panorama sur la baie de Cannes.&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://www.vallauris-golfe-juan.fr/-Le-Musee-Magnelli-Musee-de-la-.html&#34;&gt;Le Musée Magnelli, Musée de la Céramique&lt;/a&gt; à Vallauris&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
-    
   </channel>
 </rss>

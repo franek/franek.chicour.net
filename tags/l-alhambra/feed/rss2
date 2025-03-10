@@ -1,22 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>l Alhambra on ::franek::</title>
+    <title>L Alhambra on ::franek::</title>
     <link>https://franek.chicour.net/tags/l-alhambra/</link>
-    <description>Recent content in l Alhambra on ::franek::</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 07 Apr 2012 15:45:00 +0200</lastBuildDate><atom:link href="https://franek.chicour.net/tags/l-alhambra/feed/rss2" rel="self" type="application/rss+xml" />
+    <description>Recent content in L Alhambra on ::franek::</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <lastBuildDate>Mon, 11 Mar 2013 22:55:07 +0100</lastBuildDate>
+    <atom:link href="https://franek.chicour.net/tags/l-alhambra/feed/rss2" rel="self" type="application/rss+xml" />
     <item>
       <title>Le meilleur (et le pire) de Séville (et Cordoue et Grenade)</title>
       <link>https://franek.chicour.net/post/le-meilleur-et-le-pire-de-seville-et-cordoue-et-grenade/</link>
       <pubDate>Sat, 07 Apr 2012 15:45:00 +0200</pubDate>
-      
       <guid>https://franek.chicour.net/post/le-meilleur-et-le-pire-de-seville-et-cordoue-et-grenade/</guid>
-      <description>&amp;hellip; que j&amp;rsquo;ai testé.
-Ce billet fait partie de la série le meilleur du road trip en Europe du Sud.
-Après Madrid, Porto et Lisbonne, nous voici à Séville en Andalousie.
- Le meilleur restaurant  Notre hôtel était un peu excentré et, en rentrant de Cordoue, nous avons cherché à nous restaurer dans le quartier où nous résidions. Après quelques recherches sur Internet, nous sommes tombés sur le restaurant Binomio.</description>
+      <description>&lt;p&gt;&amp;hellip; que j&amp;rsquo;ai testé.&lt;/p&gt;&#xA;&lt;p&gt;Ce billet fait partie de la série le meilleur du road trip en Europe du Sud.&lt;/p&gt;&#xA;&lt;p&gt;Après &lt;a href=&#34;https://franek.chicour.net/post/2012/03/28/Le-meilleur-%28et-le-pire%29-de-Madrid...&#34;&gt;Madrid&lt;/a&gt;, &lt;a href=&#34;https://franek.chicour.net/post/2012/04/06/Le-meilleur-%28et-le-pire%29-de-Porto&#34;&gt;Porto&lt;/a&gt; et &lt;a href=&#34;https://franek.chicour.net/post/2012/04/07/Le-meilleur-%28et-le-pire%29-de-Lisbonne&#34;&gt;Lisbonne&lt;/a&gt;, nous voici à Séville en Andalousie.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Le meilleur restaurant&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Notre hôtel était un peu excentré et, en rentrant de Cordoue, nous avons cherché à nous restaurer dans le quartier où nous résidions. Après quelques recherches sur Internet, nous sommes tombés sur le &lt;a href=&#34;http://www.binomiosevilla.com/&#34;&gt;restaurant Binomio&lt;/a&gt;. C&amp;rsquo;est un peu cher, totalement excentré mais nous avons été très bien accueillis et avons très bien mangé. Nous avons commencé par des Sardinas maceradas (la spécialité du chef, excellent) et un Salmorejo (soupe épaisse et froide à la tomate), j&amp;rsquo;ai continué avec un lechón confitado (un cochon de lait confit avec un oeuf poché) et nous avons conclu ce repas avec un &lt;a href=&#34;http://es.wikipedia.org/wiki/Tocino_de_cielo&#34;&gt;tocino de cielo&lt;/a&gt; (une sorte de flan aux œufs, spécialité de Séville).&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

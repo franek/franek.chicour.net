@@ -1,105 +1,75 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>php on ::franek::</title>
+    <title>Php on ::franek::</title>
     <link>https://franek.chicour.net/tags/php/</link>
-    <description>Recent content in php on ::franek::</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 27 Nov 2011 09:48:00 +0100</lastBuildDate><atom:link href="https://franek.chicour.net/tags/php/feed/rss2" rel="self" type="application/rss+xml" />
+    <description>Recent content in Php on ::franek::</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <lastBuildDate>Tue, 27 Nov 2012 21:13:27 +0100</lastBuildDate>
+    <atom:link href="https://franek.chicour.net/tags/php/feed/rss2" rel="self" type="application/rss+xml" />
     <item>
       <title>Retour sur le #phptour de Lille</title>
       <link>https://franek.chicour.net/post/retour-sur-le-phptour-de-lille/</link>
       <pubDate>Sun, 27 Nov 2011 09:48:00 +0100</pubDate>
-      
       <guid>https://franek.chicour.net/post/retour-sur-le-phptour-de-lille/</guid>
-      <description>J&amp;rsquo;ai participé au #phptour, un nouvel événement itinérant autour de la technologie PHP proposé par l&#39;AFUP. Cette année, cet événement avait lieu à Lille. Pour l&amp;rsquo;année prochaine, on évoque Nantes, Lyon ou Bordeaux. Le Forum PHP est quant à lui décalé et aura désormais lieu en juin.
-Voici quelques notes prises concernant les conférences auxquelles j&amp;rsquo;ai assistées.
-Présentation de PHP5.4 par Julien Pauli (en remplacement de David Soria Parra qui ne pouvait être présent) Julien a fait un rapide état des lieux autour de la future version de PHP :</description>
+      <description>&lt;p&gt;J&amp;rsquo;ai participé au &lt;a href=&#34;http://afup.org/pages/phptourlille2011/&#34;&gt;#phptour&lt;/a&gt;, un nouvel événement itinérant autour de la technologie PHP proposé par l&amp;rsquo;&lt;a href=&#34;http://afup.org&#34;&gt;AFUP&lt;/a&gt;. Cette année, cet événement avait lieu à Lille. Pour l&amp;rsquo;année prochaine, on évoque Nantes, Lyon ou Bordeaux. Le Forum PHP est quant à lui décalé et aura désormais lieu en juin.&lt;/p&gt;&#xA;&lt;p&gt;Voici quelques notes prises concernant les conférences auxquelles j&amp;rsquo;ai assistées.&lt;/p&gt;&#xA;&lt;h2 id=&#34;présentation-de-php54-par-julien-pauli-en-remplacement-de-david-soria-parra-qui-ne-pouvait-être-présent&#34;&gt;Présentation de PHP5.4 par Julien Pauli (en remplacement de David Soria Parra qui ne pouvait être présent)&lt;/h2&gt;&#xA;&lt;p&gt;Julien a fait un rapide état des lieux autour de la future version de PHP :&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Jenkins : Respect des conventions de codage Javascript avec JSLint</title>
       <link>https://franek.chicour.net/post/jenkins-respect-des-conventions-de-codage-javascript-avec-jslint/</link>
       <pubDate>Mon, 10 Oct 2011 13:21:00 +0200</pubDate>
-      
       <guid>https://franek.chicour.net/post/jenkins-respect-des-conventions-de-codage-javascript-avec-jslint/</guid>
-      <description>Imaginons que vous disposez d&amp;rsquo;une plate-forme d&amp;rsquo;intégration continue (idéalement Jenkins ou Hudson) pour vos projets PHP (si ce n&amp;rsquo;est pas le cas, je vous invite à lire les excellents billets de Pascal Martin :Intégration continue avec Jenkins : installation et configuration de base et Intégration continue d&amp;rsquo;un projet PHP avec Jenkins).
-Imaginons que vous n&amp;rsquo;utilisez pas Ant comme outil d&amp;rsquo;automatisation (de build) mais plutôt Phing parce que vous maîtrisez cet outil.</description>
+      <description>&lt;p&gt;Imaginons que vous disposez d&amp;rsquo;une plate-forme d&amp;rsquo;intégration continue (idéalement Jenkins ou Hudson) pour vos projets PHP (si ce n&amp;rsquo;est pas le cas, je vous invite à lire les excellents billets de Pascal Martin :&lt;a href=&#34;http://blog.pascal-martin.fr/post/integration-continue-jenkins-installation-configuration&#34;&gt; Intégration continue avec Jenkins : installation et configuration de base&lt;/a&gt; et &lt;a href=&#34;http://blog.pascal-martin.fr/post/integration-continue-jenkins-projet-php&#34;&gt;Intégration continue d&amp;rsquo;un projet PHP avec Jenkins&lt;/a&gt;).&lt;/p&gt;&#xA;&lt;p&gt;Imaginons que vous n&amp;rsquo;utilisez pas Ant comme outil d&amp;rsquo;automatisation (de build) mais plutôt Phing parce que vous maîtrisez cet outil.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Installer xhprof et xhprof gui sur Zend Server</title>
       <link>https://franek.chicour.net/post/installer-xhprof-et-xhprof-gui-sur-zend-server/</link>
       <pubDate>Fri, 15 Apr 2011 11:58:00 +0200</pubDate>
-      
       <guid>https://franek.chicour.net/post/installer-xhprof-et-xhprof-gui-sur-zend-server/</guid>
-      <description>Xhprof est un profiler de code PHP. C&amp;rsquo;est un concurrent de Xdebug développé par Facebook.
-Il a le gros avantage de permettre de visualiser l&amp;rsquo;évolution de la mémoire. A ma connaissance, Xdebug ne le permet pas.
-Il ne nécessite pas l&amp;rsquo;utilisation d&amp;rsquo;un logiciel tiers (type KCachegrind, non disponible sous Windows&amp;hellip;argh&amp;hellip;) et peut être installé sur un serveur de production sans, normalement, trop dégrader les performances.
-Je vais ici vous décrire son installation sur Zend Server CE et l&amp;rsquo;installation de xhprof gui</description>
+      <description>&lt;p&gt;&lt;a href=&#34;http://mirror.facebook.net/facebook/xhprof/doc.html&#34; title=&#34;xhprof&#34;&gt;Xhprof&lt;/a&gt; est un profiler de code PHP. C&amp;rsquo;est un concurrent de Xdebug développé par Facebook.&lt;/p&gt;&#xA;&lt;p&gt;Il a le gros avantage de permettre de visualiser l&amp;rsquo;évolution de la mémoire. A ma connaissance, Xdebug ne le permet pas.&lt;/p&gt;&#xA;&lt;p&gt;Il ne nécessite pas l&amp;rsquo;utilisation d&amp;rsquo;un logiciel tiers (type KCachegrind, non disponible sous Windows&amp;hellip;argh&amp;hellip;) et peut être installé sur un serveur de production sans, normalement, trop dégrader les performances.&lt;/p&gt;&#xA;&lt;p&gt;Je vais ici vous décrire son installation sur Zend Server CE et l&amp;rsquo;installation de &lt;em&gt;xhprof gui&lt;/em&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>APC et Zend Server</title>
       <link>https://franek.chicour.net/post/apc-et-zend-server/</link>
       <pubDate>Thu, 03 Mar 2011 22:20:00 +0100</pubDate>
-      
       <guid>https://franek.chicour.net/post/apc-et-zend-server/</guid>
-      <description>Une des limitations du cache de Zend Server (ShMem ou Disk) est de ne pas proposer d&amp;rsquo;outils de monitoring des éléments mis en cache. Apc propose cela par défaut via l&amp;rsquo;installation du script apc.php.
-Zend Server propose, par défaut, une émulation de APC via le Zend DataCache. Cependant, cette émulation ne propose pas toute l&amp;rsquo;API de APC. Le script apc.php ne fonctionne donc pas. Je n&amp;rsquo;ai pas trop cherché mais, a priori, cela vient du non support complet des méthodes suivantes apc_compile_file(), apc_sma_info(), apc_cache_info() (voir forum chez phpfrance).</description>
+      <description>&lt;p&gt;Une des limitations du cache de Zend Server (ShMem ou Disk) est de ne pas proposer d&amp;rsquo;outils de monitoring des éléments mis en cache. Apc propose cela par défaut via l&amp;rsquo;installation du script apc.php.&lt;/p&gt;&#xA;&lt;p&gt;Zend Server propose, par défaut, une &lt;a href=&#34;http://forums.zend.com/viewtopic.php?f=8&amp;amp;t=5436#p18722&#34;&gt;émulation de APC via le Zend DataCache&lt;/a&gt;. Cependant, cette émulation ne propose pas toute l&amp;rsquo;API de APC. Le script apc.php ne fonctionne donc pas. Je n&amp;rsquo;ai pas trop cherché mais, a priori, cela vient du non support complet des méthodes suivantes apc_compile_file(), apc_sma_info(), apc_cache_info() (voir &lt;a href=&#34;http://forum.phpfrance.com/php-avance/probleme-zend-server-apc-apc-cache-info-t255768.html&#34;&gt;forum chez phpfrance&lt;/a&gt;).&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Utiliser plusieurs versions de PHP et switcher facilement d&#39;une version à l&#39;autre sous Ubuntu</title>
       <link>https://franek.chicour.net/post/utiliser-plusieurs-versions-de-php-et-switcher-facilement-d-une-version-a-l-autre-sous-ubuntu/</link>
       <pubDate>Tue, 30 Mar 2010 18:32:00 +0200</pubDate>
-      
       <guid>https://franek.chicour.net/post/utiliser-plusieurs-versions-de-php-et-switcher-facilement-d-une-version-a-l-autre-sous-ubuntu/</guid>
-      <description>EDIT du 09/04/2010 : En fait, cette technique est obsolète. Je viens de découvrir PHPFarm qui semble faire plus ou moins ce que je souhaite faire. A tester donc.
---
-Sur mon environnement de développement, je souhaite pouvoir switcher facilement d&amp;rsquo;une version de PHP à l&amp;rsquo;autre. Mes pré-requis sont de disposer de versions compilées de PHP (avec les extensions APC et Xdebug) ainsi que d&amp;rsquo;une version de PHP packagée avec Zend Server.</description>
+      <description>&lt;p&gt;&lt;strong&gt;EDIT du 09/04/2010&lt;/strong&gt; : En fait, cette technique est obsolète. Je viens de découvrir &lt;a href=&#34;http://cweiske.de/tagebuch/Introducing%20phpfarm.htm&#34;&gt;PHPFarm&lt;/a&gt; qui semble faire plus ou moins ce que je souhaite faire. A tester donc.&lt;/p&gt;&#xA;&lt;p&gt;--&lt;/p&gt;&#xA;&lt;p&gt;Sur mon environnement de développement, je souhaite pouvoir switcher facilement d&amp;rsquo;une version de PHP à l&amp;rsquo;autre. Mes pré-requis sont de disposer de versions compilées de PHP (avec les extensions APC et Xdebug) ainsi que d&amp;rsquo;une version de PHP packagée avec Zend Server.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Zend Server 5 et Oracle</title>
       <link>https://franek.chicour.net/post/zend-server-5-et-oracle/</link>
       <pubDate>Fri, 26 Feb 2010 14:46:00 +0100</pubDate>
-      
       <guid>https://franek.chicour.net/post/zend-server-5-et-oracle/</guid>
-      <description>Zend Server vient de sortir en version 5. Zend Server est le remplaçant de la Zend Platform.
-Par défaut, Zend Server est fourni avec le client Oracle Instant Client Lite qui ne prend pas en charge les bases de données Oracle avec des encodages un peu exotique (WE8ISO8859P15, par exemple) :
- ZS is shipped with the OCI library Lite version which only supports OCI and OCCI for US locales only.</description>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.zend.com/fr/products/server/&#34;&gt;Zend Server&lt;/a&gt; vient de sortir en version 5. Zend Server est le remplaçant de la Zend Platform.&lt;/p&gt;&#xA;&lt;p&gt;Par défaut, Zend Server est fourni avec le client Oracle Instant Client Lite qui ne prend pas en charge les bases de données Oracle avec des encodages un peu exotique (WE8ISO8859P15, par exemple) :&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;ZS is shipped with the OCI library Lite version which only supports OCI and OCCI for US locales only. You may download the full version from Oracle&amp;rsquo;s site and replace the current libraries shipped with ZendServer with those, they are API and ABI compatible so you should have no issues.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Forum PHP AFUP 2008</title>
       <link>https://franek.chicour.net/post/forum-php-afup-2008/</link>
       <pubDate>Tue, 09 Dec 2008 22:11:00 +0100</pubDate>
-      
       <guid>https://franek.chicour.net/post/forum-php-afup-2008/</guid>
-      <description>Un petit tour ces 2 derniers jours au forum PHP édition 2008, le pendant pour les développeurs PHP de Paris Web pour le design, l&amp;rsquo;accessibilité,&amp;hellip; Ces 2 conférences sont assez complémentaires, je trouve. Comme d&amp;rsquo;habitude, nous avons été bien reçus. Le site de l&amp;rsquo;ASIEM a clairement moins de classe que la salle de conférence d&amp;rsquo;IBM pour Paris Web mais cela donne un côté plus chaleureux. Le seul point négatif au niveau logistique était la taille de la seconde salle qui n&amp;rsquo;a pas pu accueillir toutes les personnes qui le souhaitaient.</description>
+      <description>&lt;p&gt;&lt;img alt=&#34;Logo forum PHP 2008&#34; loading=&#34;lazy&#34; src=&#34;https://franek.chicour.net/public/forum-php-2008.png&#34; title=&#34;Logo forum PHP 2008, déc. 2008&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Un petit tour ces 2 derniers jours au &lt;a href=&#34;http://www.afup.org/pages/forumphp2008/&#34;&gt;forum PHP édition 2008&lt;/a&gt;, le pendant pour les développeurs PHP de &lt;a href=&#34;http://www.paris-web.fr/2008/&#34;&gt;Paris Web&lt;/a&gt; pour le design, l&amp;rsquo;accessibilité,&amp;hellip; Ces 2 conférences sont assez complémentaires, je trouve. Comme d&amp;rsquo;habitude, nous avons été bien reçus. Le site de l&amp;rsquo;ASIEM a clairement moins de classe que la salle de conférence d&amp;rsquo;IBM pour Paris Web mais cela donne un côté plus chaleureux. Le seul point négatif au niveau logistique était la taille de la seconde salle qui n&amp;rsquo;a pas pu accueillir toutes les personnes qui le souhaitaient.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Easter Egg dans PHP</title>
       <link>https://franek.chicour.net/post/easter-egg-dans-php/</link>
       <pubDate>Mon, 31 Mar 2008 22:12:00 +0200</pubDate>
-      
       <guid>https://franek.chicour.net/post/easter-egg-dans-php/</guid>
-      <description>Le CERTA (Centre d&amp;rsquo;Expertise Gouvernemental de Réponse et de Traitement des Attaques informatiques) m&amp;rsquo;a fait découvrir un Easter Egg dans PHP que je ne connaissais pas. Lorsque expose_php est à on dans le fichier de configuration php.ini, l&amp;rsquo;ajout dans l&amp;rsquo;URL de &amp;ldquo;?=PHPB8B5F2A0-3C92-11d3-A3A9-4C7B08C10000&amp;rdquo; enverra le Easter Egg (message adressé aux développeurs)
-Essayer d&amp;rsquo;appeler l&amp;rsquo;URL chez php.net : http://www.php.net/index.php?=PHPB8B5F2A0-3C92-11d3-A3A9-4C7B08C10000
-Sur le serveur qui héberge ce site, le paramètre expose_php est à off. L&amp;rsquo;URL http://franek.</description>
+      <description>&lt;p&gt;Le &lt;a href=&#34;http://www.certa.ssi.gouv.fr/&#34;&gt;CERTA&lt;/a&gt; (Centre d&amp;rsquo;Expertise Gouvernemental de Réponse et de Traitement des Attaques informatiques) m&amp;rsquo;a fait découvrir un &lt;a href=&#34;http://fr.wikipedia.org/wiki/Easter_egg&#34;&gt;Easter Egg&lt;/a&gt; dans PHP que je ne connaissais pas. Lorsque expose_php est à on dans le fichier de configuration php.ini, l&amp;rsquo;ajout dans l&amp;rsquo;URL de &amp;ldquo;?=PHPB8B5F2A0-3C92-11d3-A3A9-4C7B08C10000&amp;rdquo; enverra le Easter Egg (message adressé aux développeurs)&lt;/p&gt;&#xA;&lt;p&gt;Essayer d&amp;rsquo;appeler l&amp;rsquo;URL chez php.net : &lt;a href=&#34;http://www.php.net/index.php?=PHPB8B5F2A0-3C92-11d3-A3A9-4C7B08C10000&#34;&gt;http://www.php.net/index.php?=PHPB8B5F2A0-3C92-11d3-A3A9-4C7B08C10000&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Sur le serveur qui héberge ce site, le paramètre expose_php est à off. L&amp;rsquo;URL &lt;a href=&#34;http://franek.chicour.net/index.php?=PHPB8B5F2A0-3C92-11d3-A3A9-4C7B08C10000&#34;&gt;http://franek.chicour.net/index.php?=PHPB8B5F2A0-3C92-11d3-A3A9-4C7B08C10000&lt;/a&gt; ne renvoie donc rien.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Bien préparer la certification PHP5</title>
       <link>https://franek.chicour.net/post/bien-preparer-la-certification-php5/</link>
       <pubDate>Mon, 25 Feb 2008 23:25:00 +0100</pubDate>
-      
       <guid>https://franek.chicour.net/post/bien-preparer-la-certification-php5/</guid>
-      <description>J&amp;rsquo;ai passé ce matin la certification PHP5. Quelques liens intéressants pour bien la préparer :
- bien sûr la documentation PHP les tests blancs proposés par PHP Architect le guide de préparation à la certification, le bouquin Zend Certification Practice Book (orienté PHP4 mais certaines questions sont encore valables) et de la pratique&amp;hellip;  Si tout se passe bien, vous serez ensuite dans les pages jaunes de Zend.</description>
+      <description>&lt;p&gt;J&amp;rsquo;ai passé ce matin la &lt;a href=&#34;http://www.zend.com/fr/services/certification/&#34;&gt;certification PHP5&lt;/a&gt;. Quelques liens intéressants pour bien la préparer :&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;bien sûr &lt;a href=&#34;http://www.php.net/manual/fr/&#34;&gt;la documentation PHP&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;les &lt;a href=&#34;http://www.phparch.com/c/product/vulcan/view&#34;&gt;tests blancs proposés par PHP Architect&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;le &lt;a href=&#34;http://www.zend.com/fr/store/php-certification/study-guide&#34;&gt;guide de préparation à la certification&lt;/a&gt;,&lt;/li&gt;&#xA;&lt;li&gt;le bouquin &lt;a href=&#34;http://www.scribd.com/doc/5156/PHP-Architect-Nanobooks-Zend-PHP-Certification-Practice-Test-Book&#34;&gt;Zend Certification Practice Book&lt;/a&gt; (orienté PHP4 mais certaines questions sont encore valables)&lt;/li&gt;&#xA;&lt;li&gt;et de la pratique&amp;hellip;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Si tout se passe bien, vous serez ensuite dans les &lt;a href=&#34;http://www.zend.com/store/education/certification/yellow-pages.php&#34;&gt;pages jaunes de Zend&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

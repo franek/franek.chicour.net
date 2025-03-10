@@ -1,21 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>wget on ::franek::</title>
+    <title>Wget on ::franek::</title>
     <link>https://franek.chicour.net/tags/wget/</link>
-    <description>Recent content in wget on ::franek::</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 11 Feb 2013 21:01:00 +0100</lastBuildDate><atom:link href="https://franek.chicour.net/tags/wget/feed/rss2" rel="self" type="application/rss+xml" />
+    <description>Recent content in Wget on ::franek::</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <lastBuildDate>Thu, 21 Feb 2013 21:09:49 +0100</lastBuildDate>
+    <atom:link href="https://franek.chicour.net/tags/wget/feed/rss2" rel="self" type="application/rss+xml" />
     <item>
       <title>Exporter une page web avec l&#39;ensemble des assets (CSS, JS, images)</title>
       <link>https://franek.chicour.net/post/exporter-une-page-web-avec-l-ensemble-des-assets-css-js-images/</link>
       <pubDate>Mon, 11 Feb 2013 21:01:00 +0100</pubDate>
-      
       <guid>https://franek.chicour.net/post/exporter-une-page-web-avec-l-ensemble-des-assets-css-js-images/</guid>
-      <description>Aide mémoire&amp;hellip;
-Si vous cherchez à exporter une seule page web avec l&amp;rsquo;ensemble des assets (CSS, JS, images), le script suivant devrait répondre à votre besoin :
- $ wget -p --html-extension -k &amp;lt;url&amp;gt;  -p, &amp;ndash;page-requisites : obtenir toutes les images, etc. nécessaires à l&amp;rsquo;affichage de la page HTML. -k, &amp;ndash;convert-links : fait pointer les liens dans le HTML/CSS téléchargé vers des fichiers locaux. &amp;ndash;html-extension : pour ajouter l&amp;rsquo;extenion .</description>
+      <description>&lt;p&gt;Aide mémoire&amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;Si vous cherchez à exporter une seule page web avec l&amp;rsquo;ensemble des assets (CSS, JS, images), le script suivant devrait répondre à votre besoin :&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;&#xA;$ wget -p --html-extension -k &amp;lt;url&amp;gt;&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;ul&gt;&#xA;&lt;li&gt;-p, &amp;ndash;page-requisites : obtenir toutes les images, etc. nécessaires à l&amp;rsquo;affichage de la page HTML.&lt;/li&gt;&#xA;&lt;li&gt;-k, &amp;ndash;convert-links : fait pointer les liens dans le HTML/CSS téléchargé vers des fichiers locaux.&lt;/li&gt;&#xA;&lt;li&gt;&amp;ndash;html-extension : pour ajouter l&amp;rsquo;extenion .html à vos fichiers&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Par exemple, pour exporter une page de votre application en développement et la transmettre à un développeur front-end n&amp;rsquo;ayant pas accès à votre environnement :&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>chez la vieille on ::franek::</title>
+    <title>Chez La Vieille on ::franek::</title>
     <link>https://franek.chicour.net/tags/chez-la-vieille/</link>
-    <description>Recent content in chez la vieille on ::franek::</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 27 Apr 2009 21:10:00 +0200</lastBuildDate><atom:link href="https://franek.chicour.net/tags/chez-la-vieille/feed/rss2" rel="self" type="application/rss+xml" />
+    <description>Recent content in Chez La Vieille on ::franek::</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <lastBuildDate>Mon, 27 Apr 2009 21:10:00 +0200</lastBuildDate>
+    <atom:link href="https://franek.chicour.net/tags/chez-la-vieille/feed/rss2" rel="self" type="application/rss+xml" />
     <item>
       <title>Deux nouveaux estaminets</title>
       <link>https://franek.chicour.net/post/deux-nouveaux-estaminets/</link>
       <pubDate>Mon, 27 Apr 2009 21:10:00 +0200</pubDate>
-      
       <guid>https://franek.chicour.net/post/deux-nouveaux-estaminets/</guid>
-      <description>Suite à mon dernier article sur une sélection d&amp;rsquo;estaminets autour de Lille, en voici 2 nouveaux :
- Chez la Vieille, rue de Gand à Lille, une excellente adresse, cadre magnifique, pas très cher, service impeccable, réserver à l&amp;rsquo;avance ! Si vous n&amp;rsquo;arrivez pas à obtenir une place Chez la vieille, vous pouvez essayer de vous rabattre sur &amp;ldquo;Le vieux de la vieille&amp;rdquo;, tenu par la même direction. La chaise de la sorcière, à Loker, dans les Flandres, une bonne adresse dans une maison typique,&amp;hellip;  J&amp;rsquo;en profite pour faire la pub d&amp;rsquo;un site sur les estaminets dont les critiques sont d&amp;rsquo;excellentes qualités : Estaminets Flamands</description>
+      <description>&lt;p&gt;Suite à mon dernier article sur une &lt;a href=&#34;https://franek.chicour.net/post/2008/10/18/Les-estaminets&#34;&gt;sélection d&amp;rsquo;estaminets autour de Lille&lt;/a&gt;, en voici 2 nouveaux :&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://www.estaminets.fr/Estaminets/EstaminetConsulter.php?EstId=19&#34;&gt;Chez la Vieille&lt;/a&gt;, rue de Gand à Lille, une excellente adresse, cadre magnifique, pas très cher, service impeccable, réserver à l&amp;rsquo;avance ! Si vous n&amp;rsquo;arrivez pas à obtenir une place Chez la vieille, vous pouvez essayer de vous rabattre sur &amp;ldquo;Le vieux de la vieille&amp;rdquo;, tenu par la même direction.&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://www.lachaisedelasorciere.fr/&#34;&gt;La chaise de la sorcière&lt;/a&gt;, à Loker, dans les Flandres, une bonne adresse dans une maison typique,&amp;hellip;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;J&amp;rsquo;en profite pour faire la pub d&amp;rsquo;un site sur les estaminets dont les critiques sont d&amp;rsquo;excellentes qualités : &lt;a href=&#34;http://www.estaminets.fr&#34;&gt;Estaminets Flamands&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

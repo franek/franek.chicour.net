@@ -1,31 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>dotclear on ::franek::</title>
+    <title>Dotclear on ::franek::</title>
     <link>https://franek.chicour.net/tags/dotclear/</link>
-    <description>Recent content in dotclear on ::franek::</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 02 Jan 2021 21:34:13 +0100</lastBuildDate><atom:link href="https://franek.chicour.net/tags/dotclear/feed/rss2" rel="self" type="application/rss+xml" />
+    <description>Recent content in Dotclear on ::franek::</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <lastBuildDate>Sat, 02 Jan 2021 21:34:13 +0100</lastBuildDate>
+    <atom:link href="https://franek.chicour.net/tags/dotclear/feed/rss2" rel="self" type="application/rss+xml" />
     <item>
       <title>Migration de ce blog</title>
       <link>https://franek.chicour.net/post/migration-de-ce-blog/</link>
       <pubDate>Sat, 02 Jan 2021 21:34:13 +0100</pubDate>
-      
       <guid>https://franek.chicour.net/post/migration-de-ce-blog/</guid>
-      <description>Ce blog a longtemps été propulsé par le moteur de blog Dotclear, un moteur de blog écrit en PHP développé par des français (Olivier Meunier au départ, Franck Paul désormais). Il est désormais propulsé par Hugo.
-J&amp;rsquo;ai beaucoup utilisé Dotclear, je l&amp;rsquo;ai beaucoup aimé. A l&amp;rsquo;époque l&amp;rsquo;organisation du code PHP de Dotclear était bien meilleure que celle de Wordpress (j&amp;rsquo;avoue n&amp;rsquo;avoir pas regardé le code de Wordpress aujourd&amp;rsquo;hui). Un effort particulier était fait sur l&amp;rsquo;accessibilité.</description>
+      <description>&lt;p&gt;Ce blog a longtemps été propulsé par le moteur de blog &lt;a href=&#34;http://www.dotclear.org&#34;&gt;Dotclear&lt;/a&gt;, un moteur de blog écrit en PHP développé par des français (Olivier Meunier au départ, &lt;a href=&#34;https://open-time.net/&#34;&gt;Franck Paul&lt;/a&gt; désormais). Il est désormais propulsé par &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;J&amp;rsquo;ai beaucoup utilisé Dotclear, je l&amp;rsquo;ai beaucoup aimé.&#xA;A l&amp;rsquo;époque l&amp;rsquo;organisation du code PHP de Dotclear était bien meilleure que celle de Wordpress (j&amp;rsquo;avoue n&amp;rsquo;avoir pas regardé le code de Wordpress aujourd&amp;rsquo;hui). Un effort particulier était fait sur l&amp;rsquo;accessibilité.&#xA;Plusieurs audits accessibilités avaient été réalisés sur le back-office et sur les principaux thèmes.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Cherokee et dotclear sont dans un bâteau...</title>
       <link>https://franek.chicour.net/post/cherokee-et-dotclear-sont-dans-un-bateau/</link>
       <pubDate>Fri, 28 May 2010 18:48:00 +0200</pubDate>
-      
       <guid>https://franek.chicour.net/post/cherokee-et-dotclear-sont-dans-un-bateau/</guid>
-      <description>Ce blog et une partie de ces satellites (migration en cours) tournent désormais sur cherokee, un serveur web léger concurrent de Apache, Lighthttpd, nginx,&amp;hellip; Je n&amp;rsquo;ai pas trouvé de ressources sur la configuration de dotclear avec Cherokee donc voici quelques notes. J&amp;rsquo;espère que cela pourra aider certains d&amp;rsquo;entre vous. J&amp;rsquo;essaierai de détailler si besoin.
-Installation de cherokee Je vous invite à lire la documentation du projetqui est relativement complète.
-La version 1.</description>
+      <description>&lt;p&gt;Ce &lt;a href=&#34;http://franek.chicour.net/&#34;&gt;blog&lt;/a&gt; et &lt;a href=&#34;http://www.chicour.net/&#34;&gt;une partie de ces satellites&lt;/a&gt; (migration en cours) tournent désormais sur &lt;a href=&#34;http://www.cherokee-project.com/&#34;&gt;cherokee&lt;/a&gt;, un serveur web léger concurrent de Apache, Lighthttpd, nginx,&amp;hellip; Je n&amp;rsquo;ai pas trouvé de ressources sur la configuration de dotclear avec Cherokee donc voici quelques notes. J&amp;rsquo;espère que cela pourra aider certains d&amp;rsquo;entre vous. J&amp;rsquo;essaierai de détailler si besoin.&lt;/p&gt;&#xA;&lt;h2 id=&#34;installation-de-cherokee&#34;&gt;Installation de cherokee&lt;/h2&gt;&#xA;&lt;p&gt;Je vous invite à lire la &lt;a href=&#34;http://www.cherokee-project.com/doc/&#34;&gt;documentation du projet&lt;/a&gt;qui est relativement complète.&lt;/p&gt;&#xA;&lt;p&gt;La version 1.0 de Cherokee est depuis peu disponible dans la branche testing de Debian.&lt;br&gt;&#xA;Si vous utilisez une debian stable, vous pouvez utiliser le &lt;a href=&#34;http://wiki.debian.org/AptPreferences&#34;&gt;système de Pinning&lt;/a&gt; en utilisant les dépôts testing :&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>certification on ::franek::</title>
+    <title>Certification on ::franek::</title>
     <link>https://franek.chicour.net/tags/certification/</link>
-    <description>Recent content in certification on ::franek::</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 25 Feb 2008 23:25:00 +0100</lastBuildDate><atom:link href="https://franek.chicour.net/tags/certification/feed/rss2" rel="self" type="application/rss+xml" />
+    <description>Recent content in Certification on ::franek::</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <lastBuildDate>Mon, 25 Feb 2008 23:26:57 +0100</lastBuildDate>
+    <atom:link href="https://franek.chicour.net/tags/certification/feed/rss2" rel="self" type="application/rss+xml" />
     <item>
       <title>Bien préparer la certification PHP5</title>
       <link>https://franek.chicour.net/post/bien-preparer-la-certification-php5/</link>
       <pubDate>Mon, 25 Feb 2008 23:25:00 +0100</pubDate>
-      
       <guid>https://franek.chicour.net/post/bien-preparer-la-certification-php5/</guid>
-      <description>J&amp;rsquo;ai passé ce matin la certification PHP5. Quelques liens intéressants pour bien la préparer :
- bien sûr la documentation PHP les tests blancs proposés par PHP Architect le guide de préparation à la certification, le bouquin Zend Certification Practice Book (orienté PHP4 mais certaines questions sont encore valables) et de la pratique&amp;hellip;  Si tout se passe bien, vous serez ensuite dans les pages jaunes de Zend.</description>
+      <description>&lt;p&gt;J&amp;rsquo;ai passé ce matin la &lt;a href=&#34;http://www.zend.com/fr/services/certification/&#34;&gt;certification PHP5&lt;/a&gt;. Quelques liens intéressants pour bien la préparer :&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;bien sûr &lt;a href=&#34;http://www.php.net/manual/fr/&#34;&gt;la documentation PHP&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;les &lt;a href=&#34;http://www.phparch.com/c/product/vulcan/view&#34;&gt;tests blancs proposés par PHP Architect&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;le &lt;a href=&#34;http://www.zend.com/fr/store/php-certification/study-guide&#34;&gt;guide de préparation à la certification&lt;/a&gt;,&lt;/li&gt;&#xA;&lt;li&gt;le bouquin &lt;a href=&#34;http://www.scribd.com/doc/5156/PHP-Architect-Nanobooks-Zend-PHP-Certification-Practice-Test-Book&#34;&gt;Zend Certification Practice Book&lt;/a&gt; (orienté PHP4 mais certaines questions sont encore valables)&lt;/li&gt;&#xA;&lt;li&gt;et de la pratique&amp;hellip;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Si tout se passe bien, vous serez ensuite dans les &lt;a href=&#34;http://www.zend.com/store/education/certification/yellow-pages.php&#34;&gt;pages jaunes de Zend&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

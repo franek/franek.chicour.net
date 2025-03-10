@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>herman düne on ::franek::</title>
+    <title>Herman Düne on ::franek::</title>
     <link>https://franek.chicour.net/tags/herman-d%C3%BCne/</link>
-    <description>Recent content in herman düne on ::franek::</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 21 May 2007 21:07:00 +0200</lastBuildDate><atom:link href="https://franek.chicour.net/tags/herman-d%C3%BCne/feed/rss2" rel="self" type="application/rss+xml" />
+    <description>Recent content in Herman Düne on ::franek::</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <lastBuildDate>Mon, 21 May 2007 21:07:00 +0200</lastBuildDate>
+    <atom:link href="https://franek.chicour.net/tags/herman-d%C3%BCne/feed/rss2" rel="self" type="application/rss+xml" />
     <item>
       <title>Herman düne, concert à emporter...</title>
       <link>https://franek.chicour.net/post/herman-dune-concert-a-emporter/</link>
       <pubDate>Mon, 21 May 2007 21:07:00 +0200</pubDate>
-      
       <guid>https://franek.chicour.net/post/herman-dune-concert-a-emporter/</guid>
-      <description>J&amp;rsquo;aime beaucoup Herman Düne. Je viens de découvrir un concert à emporter de ce petit groupe (via la blogotheque)
- **[21.2 - HERMAN DUNE - JUST LIKE...](http://www.dailymotion.com/video/xiz4j_212-herman-dune-just-like)** *envoyé par [lablogotheque](http://www.dailymotion.com/lablogotheque)*La suite sur le site de la [blogothèque](http://www.blogotheque.net/article.php3?id_article=2346)... </description>
+      <description>&lt;p&gt;J&amp;rsquo;aime beaucoup Herman Düne. Je viens de découvrir un concert à emporter de ce petit groupe (via la &lt;a href=&#34;http://www.blogotheque.net&#34;&gt;blogotheque&lt;/a&gt;)&lt;/p&gt;&#xA;&lt;div&gt;&lt;object height=&#34;255&#34; width=&#34;425&#34;&gt;&lt;param name=&#34;movie&#34; value=&#34;http://www.dailymotion.com/swf/4nsufclUpJqTV3Ijx&#34;&gt;&lt;/param&gt;&lt;param name=&#34;allowfullscreen&#34; value=&#34;true&#34;&gt;&lt;/param&gt;&lt;embed allowfullscreen=&#34;true&#34; height=&#34;255&#34; src=&#34;http://www.dailymotion.com/swf/4nsufclUpJqTV3Ijx&#34; type=&#34;application/x-shockwave-flash&#34; width=&#34;425&#34;&gt;&lt;/embed&gt;&lt;/object&gt;  &#xA;**[21.2 - HERMAN DUNE - JUST LIKE...](http://www.dailymotion.com/video/xiz4j_212-herman-dune-just-like)**  &#xA;*envoyé par [lablogotheque](http://www.dailymotion.com/lablogotheque)*&lt;/div&gt;La suite sur le site de la [blogothèque](http://www.blogotheque.net/article.php3?id_article=2346)...</description>
     </item>
-    
   </channel>
 </rss>

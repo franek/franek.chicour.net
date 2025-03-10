@@ -1,21 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>itinéraire on ::franek::</title>
+    <title>Itinéraire on ::franek::</title>
     <link>https://franek.chicour.net/tags/itin%C3%A9raire/</link>
-    <description>Recent content in itinéraire on ::franek::</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 11 Jan 2010 18:56:00 +0100</lastBuildDate><atom:link href="https://franek.chicour.net/tags/itin%C3%A9raire/feed/rss2" rel="self" type="application/rss+xml" />
+    <description>Recent content in Itinéraire on ::franek::</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <lastBuildDate>Mon, 11 Jan 2010 18:59:47 +0100</lastBuildDate>
+    <atom:link href="https://franek.chicour.net/tags/itin%C3%A9raire/feed/rss2" rel="self" type="application/rss+xml" />
     <item>
       <title>Itinéraire péruvien</title>
       <link>https://franek.chicour.net/post/itineraire-peruvien/</link>
       <pubDate>Mon, 11 Jan 2010 18:56:00 +0100</pubDate>
-      
       <guid>https://franek.chicour.net/post/itineraire-peruvien/</guid>
-      <description>Je décolle demain soir pour 15 jours (c&amp;rsquo;est trop peu) au Pérou.
-Mon itinéraire devrait être le suivant (les 6 premiers jours sont quasi-certains, le reste dépendra de la météo - c&amp;rsquo;est la saison des pluies -, l&amp;rsquo;intérêt, les temps de transport, &amp;hellip;) :
- mercredi 13/01 : arrivée à Lima jeudi 14/01 : Lima vendredi 15/01 : trajet en train Lima-Huancayo sur l&#39;un des trains les plus hauts du monde.</description>
+      <description>&lt;p&gt;Je décolle demain soir pour 15 jours (c&amp;rsquo;est trop peu) au Pérou.&lt;/p&gt;&#xA;&lt;p&gt;Mon itinéraire devrait être le suivant (les 6 premiers jours sont quasi-certains, le reste dépendra de la météo - c&amp;rsquo;est la saison des pluies -, l&amp;rsquo;intérêt, les temps de transport, &amp;hellip;) :&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;mercredi 13/01 : arrivée à Lima&lt;/li&gt;&#xA;&lt;li&gt;jeudi 14/01 : Lima&lt;/li&gt;&#xA;&lt;li&gt;vendredi 15/01 : trajet en train Lima-Huancayo sur l&amp;rsquo;&lt;a href=&#34;http://wikitravel.org/fr/Huancayo#Par_train&#34;&gt;un des trains les plus hauts du monde&lt;/a&gt;. retour le vendredi par bus de nuit sur Lima.&lt;/li&gt;&#xA;&lt;li&gt;samedi 16/01 : Lima et environs (avec nos amis sur place)&lt;/li&gt;&#xA;&lt;li&gt;dimanche 17/01 : Lima et environs (avec nos amis sur place)&lt;/li&gt;&#xA;&lt;li&gt;lundi 18/01 : Cusco&lt;/li&gt;&#xA;&lt;li&gt;mardi 19/01 : Cusco&lt;/li&gt;&#xA;&lt;li&gt;mercredi 20/01 : Cusco&lt;/li&gt;&#xA;&lt;li&gt;jeudi 21/01 : Puno et lac Titicaca&lt;/li&gt;&#xA;&lt;li&gt;vendredi 22/01 : Puno et lac Titicaca&lt;/li&gt;&#xA;&lt;li&gt;samedi 23/01 : Arequipa&lt;/li&gt;&#xA;&lt;li&gt;dimanche 24/01 : Arequipa&lt;/li&gt;&#xA;&lt;li&gt;lundi 25/01 : Lima&lt;/li&gt;&#xA;&lt;li&gt;mardi 26/01 : Lima et retour sur Paris&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Pour le moment, je dispose des billets d&amp;rsquo;avion Paris-Lima et du billet de train Lima-Huancayo. Je profiterai bien sûr de mon séjour autour de Cusco pour visiter la vallée sacrée et le célèbre Machu Pichu.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

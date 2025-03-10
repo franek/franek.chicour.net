@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>video on ::franek::</title>
+    <title>Video on ::franek::</title>
     <link>https://franek.chicour.net/tags/video/</link>
-    <description>Recent content in video on ::franek::</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 02 Feb 2009 23:13:00 +0100</lastBuildDate><atom:link href="https://franek.chicour.net/tags/video/feed/rss2" rel="self" type="application/rss+xml" />
+    <description>Recent content in Video on ::franek::</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <lastBuildDate>Mon, 02 Feb 2009 23:13:26 +0100</lastBuildDate>
+    <atom:link href="https://franek.chicour.net/tags/video/feed/rss2" rel="self" type="application/rss+xml" />
     <item>
       <title>En vrac</title>
       <link>https://franek.chicour.net/post/en-vrac/</link>
       <pubDate>Mon, 02 Feb 2009 23:13:00 +0100</pubDate>
-      
       <guid>https://franek.chicour.net/post/en-vrac/</guid>
-      <description>Quelques articles qui n&amp;rsquo;ont rien à voir :
- Pourquoi libérer la vidéo ? un bon article sur les raisons de l&amp;rsquo;implémentation de la balise &amp;lt;video&amp;gt; dans Firefox 3.1 Comparatif des Hamburgers, je ne mange jamais chez Mc Do, Quick mais bon&amp;hellip; EasyHotel, le low-cost des hôtels. L&amp;rsquo;hôtel Victoria à Londres est très bien (testé la semaine dernière)  </description>
+      <description>&lt;p&gt;Quelques articles qui n&amp;rsquo;ont rien à voir :&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://www.geckozone.org/articles/2009/02/02/161-pourquoi-liberer-la-video&#34;&gt;Pourquoi libérer la vidéo ?&lt;/a&gt; un bon article sur les raisons de l&amp;rsquo;implémentation de la balise &amp;lt;video&amp;gt; dans Firefox 3.1&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://www.le-tigre.net/Analyse-gustative-des-burgers.html&#34;&gt;Comparatif des Hamburgers&lt;/a&gt;, je ne mange jamais chez Mc Do, Quick mais bon&amp;hellip;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://www.easyhotel.com/&#34;&gt;EasyHotel&lt;/a&gt;, le low-cost des hôtels. L&amp;rsquo;hôtel Victoria à Londres est très bien (testé la semaine dernière)&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
-    
   </channel>
 </rss>

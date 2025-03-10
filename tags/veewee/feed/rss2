@@ -1,21 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>veewee on ::franek::</title>
+    <title>Veewee on ::franek::</title>
     <link>https://franek.chicour.net/tags/veewee/</link>
-    <description>Recent content in veewee on ::franek::</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 02 Jun 2012 11:54:00 +0200</lastBuildDate><atom:link href="https://franek.chicour.net/tags/veewee/feed/rss2" rel="self" type="application/rss+xml" />
+    <description>Recent content in Veewee on ::franek::</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <lastBuildDate>Mon, 11 Mar 2013 22:49:57 +0100</lastBuildDate>
+    <atom:link href="https://franek.chicour.net/tags/veewee/feed/rss2" rel="self" type="application/rss+xml" />
     <item>
       <title>Créer une basebox CentOS-6.2 pour vagrant</title>
       <link>https://franek.chicour.net/post/creer-une-basebox-centos-6-2-pour-vagrant/</link>
       <pubDate>Sat, 02 Jun 2012 11:54:00 +0200</pubDate>
-      
       <guid>https://franek.chicour.net/post/creer-une-basebox-centos-6-2-pour-vagrant/</guid>
-      <description>Vagrant est un logiciel écrit en Ruby permettant de simplifier la gestion des machines virtuelles dans un environnement de développement. Il va permettre de décrire (via un système de provisionning : puppet, chef, script sh) les composants nécessaires à un projet (php, mysql, &amp;hellip;).
-Si vous souhaitez en savoir plus sur vagrant, je vous invite à consulter cette présentation.
-Vagrant fournit, par défaut, des box sous Ubuntu (Lucid et Precise).</description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://franek.chicour.net/post/2012/06/02/vagrantup.com/&#34;&gt;Vagrant&lt;/a&gt; est un logiciel écrit en Ruby permettant de simplifier la gestion des machines virtuelles dans un environnement de développement. Il va permettre de décrire (via un système de provisionning : puppet, chef, script sh) les composants nécessaires à un projet (php, mysql, &amp;hellip;).&lt;/p&gt;&#xA;&lt;p&gt;Si vous souhaitez en savoir plus sur vagrant, je vous invite à consulter &lt;a href=&#34;http://www.ichilton.co.uk/blog/virtualization/my-phpne-talk-on-vagrant-496.html&#34;&gt;cette présentation&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Vagrant &lt;a href=&#34;https://github.com/mitchellh/vagrant/wiki/Available-Vagrant-Boxes&#34;&gt;fournit&lt;/a&gt;, par défaut, des box sous Ubuntu (Lucid et Precise).&lt;/p&gt;&#xA;&lt;p&gt;Il est possible de récupérer des box créés par la communautés sur le &lt;a href=&#34;http://vagrantbox.es/&#34;&gt;site vagrantbox.es&lt;/a&gt; pour la plupart des distributions LINUX.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

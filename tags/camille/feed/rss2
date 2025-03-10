@@ -1,30 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>camille on ::franek::</title>
+    <title>Camille on ::franek::</title>
     <link>https://franek.chicour.net/tags/camille/</link>
-    <description>Recent content in camille on ::franek::</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 15 Dec 2013 00:00:00 +0100</lastBuildDate><atom:link href="https://franek.chicour.net/tags/camille/feed/rss2" rel="self" type="application/rss+xml" />
+    <description>Recent content in Camille on ::franek::</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <lastBuildDate>Sun, 15 Dec 2013 18:10:41 +0100</lastBuildDate>
+    <atom:link href="https://franek.chicour.net/tags/camille/feed/rss2" rel="self" type="application/rss+xml" />
     <item>
       <title>Deux ans</title>
       <link>https://franek.chicour.net/post/deux-ans/</link>
       <pubDate>Sun, 15 Dec 2013 00:00:00 +0100</pubDate>
-      
       <guid>https://franek.chicour.net/post/deux-ans/</guid>
-      <description> </description>
+      <description>&lt;iframe style=&#34;border-radius:12px&#34; src=&#34;https://open.spotify.com/embed/playlist/6ESGt33pIaLjYk4VGSt5FV?utm_source=generator&#34; width=&#34;100%&#34; height=&#34;352&#34; frameBorder=&#34;0&#34; allowfullscreen=&#34;&#34; allow=&#34;autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture&#34; loading=&#34;lazy&#34;&gt;&lt;/iframe&gt;</description>
     </item>
-    
     <item>
       <title>Camille à la Cigale</title>
       <link>https://franek.chicour.net/post/camille-a-la-cigale/</link>
       <pubDate>Sat, 24 May 2008 16:47:00 +0200</pubDate>
-      
       <guid>https://franek.chicour.net/post/camille-a-la-cigale/</guid>
-      <description>On en parle énormément depuis le succès de l&amp;rsquo;album &amp;ldquo;Le Fil&amp;rdquo;.
-Vendredi 23 mai, c&amp;rsquo;était Camille à La Cigale (suite à cadeau pour une amie). Après les albums &amp;ldquo;Le sac des filles&amp;rdquo;, &amp;ldquo;Le fil&amp;rdquo;, voici venu &amp;ldquo;Music Hole&amp;rdquo; que je n&amp;rsquo;ai pas écouté,&amp;hellip;
-Techniquement, rien à redire sur le concert, Camille a une maitrise technique indéniable, elle a fait son show pendant deux heures. On lui reprochera parfois un manque de mélodie et une musique parfois peu accessible.</description>
+      <description>&lt;p&gt;&lt;img alt=&#34;camille_music_hole.jpg&#34; loading=&#34;lazy&#34; src=&#34;https://franek.chicour.net/public/camille_music_hole.jpg&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;On en parle énormément depuis le succès de l&amp;rsquo;album &amp;ldquo;Le Fil&amp;rdquo;.&lt;/p&gt;&#xA;&lt;p&gt;Vendredi 23 mai, c&amp;rsquo;était Camille à La Cigale (suite à cadeau pour une amie). Après les albums &amp;ldquo;Le sac des filles&amp;rdquo;, &amp;ldquo;Le fil&amp;rdquo;, voici venu &amp;ldquo;Music Hole&amp;rdquo; que je n&amp;rsquo;ai pas écouté,&amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;Techniquement, rien à redire sur le concert, Camille a une maitrise technique indéniable, elle a fait son show pendant deux heures. On lui reprochera parfois un manque de mélodie et une musique parfois peu accessible. Mais on adore son énergie, et lorsqu&amp;rsquo;elle arrive sur scène déguisée en &lt;a href=&#34;http://storage.canalblog.com/15/72/212291/25955745.jpg&#34;&gt;boule à facettes&lt;/a&gt; :&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

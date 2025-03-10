@@ -1,33 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>backup on ::franek::</title>
+    <title>Backup on ::franek::</title>
     <link>https://franek.chicour.net/tags/backup/</link>
-    <description>Recent content in backup on ::franek::</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 31 Dec 2011 11:50:00 +0100</lastBuildDate><atom:link href="https://franek.chicour.net/tags/backup/feed/rss2" rel="self" type="application/rss+xml" />
+    <description>Recent content in Backup on ::franek::</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <lastBuildDate>Wed, 04 Jan 2012 21:07:00 +0100</lastBuildDate>
+    <atom:link href="https://franek.chicour.net/tags/backup/feed/rss2" rel="self" type="application/rss+xml" />
     <item>
       <title>Exporter les bookmarks delicious automatiquement</title>
       <link>https://franek.chicour.net/post/exporter-les-bookmarks-delicious-automatiquement/</link>
       <pubDate>Sat, 31 Dec 2011 11:50:00 +0100</pubDate>
-      
       <guid>https://franek.chicour.net/post/exporter-les-bookmarks-delicious-automatiquement/</guid>
-      <description>Un petit script python (mon premier) de fin d&amp;rsquo;année&amp;hellip;
-Si comme moi, vous souhaitez conserver les données que vous publiez dans le cloud, voici un petit script permettant d&amp;rsquo;exporter l&amp;rsquo;ensemble des bookmarks publiés sur delicious.
-Pour exporter automatiquement l&amp;rsquo;ensemble de vos bookmarks présents sur delicious, vous pouvez utiliser l&#39;API mise à disposition par delicious.
-En utilisant quelque chose comme ça :
- curl -k --user username:password -o backup.xml -O &#39;https://api.del.icio.us/v1/posts/all&#39; source</description>
+      <description>&lt;p&gt;Un petit script python (mon premier) de fin d&amp;rsquo;année&amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;Si comme moi, vous souhaitez conserver les données que vous publiez dans le cloud, voici un petit script permettant d&amp;rsquo;exporter l&amp;rsquo;ensemble des bookmarks publiés sur &lt;a href=&#34;http://delicious.com&#34;&gt;delicious&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Pour exporter automatiquement l&amp;rsquo;ensemble de vos bookmarks présents sur delicious, vous pouvez utiliser l&amp;rsquo;&lt;a href=&#34;http://delicious.com/help/api&#34;&gt;API mise à disposition par delicious&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;En utilisant quelque chose comme ça :&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;&#xA;curl -k --user username:password -o backup.xml -O &amp;#39;https://api.del.icio.us/v1/posts/all&amp;#39; &#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;a href=&#34;http://support.delicious.com/delicious/topics/export_delicious_to_xml_only_results_in_first_1000_bookmarks&#34;&gt;source&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Cependant, l&amp;rsquo;API limite l&amp;rsquo;export aux 1000 derniers bookmarks.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Amélioration du &#34;post script&#34; de backup-manager</title>
       <link>https://franek.chicour.net/post/amelioration-du-post-script-de-backup-manager/</link>
       <pubDate>Tue, 29 Dec 2009 22:20:00 +0100</pubDate>
-      
       <guid>https://franek.chicour.net/post/amelioration-du-post-script-de-backup-manager/</guid>
-      <description>backup-manager est un script très pratique permettant de faire la sauvegarde d&amp;rsquo;un serveur dédié. Ce script est utilisé pour effectuer la sauvegarde de la dédibox qui héberge ce site et ces satellites. Par défaut, ce script ne propose pas de contrôle des fichiers déposés sur le serveur de sauvegarde ou d&amp;rsquo;envoi d&amp;rsquo;un email lors de la fin de l&amp;rsquo;exécution de la sauvegarde.
-Il est possible d&amp;rsquo;ajouter des fonctionnalités à ce script via des hooks exécutés avant ou après la sauvegarde.</description>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.backup-manager.org/&#34;&gt;backup-manager&lt;/a&gt; est un script très pratique permettant de faire la sauvegarde d&amp;rsquo;un serveur dédié. Ce script est utilisé pour effectuer la sauvegarde de la dédibox qui héberge &lt;a href=&#34;http://franek.chicour.net&#34;&gt;ce site&lt;/a&gt; et &lt;a href=&#34;http://www.chicour.net&#34;&gt;ces satellites&lt;/a&gt;. Par défaut, ce script ne propose pas de contrôle des fichiers déposés sur le serveur de sauvegarde ou d&amp;rsquo;envoi d&amp;rsquo;un email lors de la fin de l&amp;rsquo;exécution de la sauvegarde.&lt;/p&gt;&#xA;&lt;p&gt;Il est possible d&amp;rsquo;ajouter des fonctionnalités à ce script via des hooks exécutés avant ou après la sauvegarde. &lt;a href=&#34;http://www.alsacreations.com&#34;&gt;Alsacréations&lt;/a&gt; propose un &lt;a href=&#34;http://www.alsacreations.com/tuto/lire/618-Sauvegarde-backup-manager.html&#34;&gt;exemple de hook&lt;/a&gt; permettant d&amp;rsquo;envoyer un mail à la fin de l&amp;rsquo;exécution de la sauvegarde. Malheureusement, ce script ne vérifie pas que les fichiers ont bien été déposés sur le serveur de sauvegarde et que les fichiers sont bien complets. Ce script n&amp;rsquo;est utile que si la méthode d&amp;rsquo;upload est FTP. Dans le cadre d&amp;rsquo;une autre méthode d&amp;rsquo;upload (rsync, par exemple), le contrôle peut être exécuté nativement.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

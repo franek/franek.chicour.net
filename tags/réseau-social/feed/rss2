@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>réseau social on ::franek::</title>
+    <title>Réseau Social on ::franek::</title>
     <link>https://franek.chicour.net/tags/r%C3%A9seau-social/</link>
-    <description>Recent content in réseau social on ::franek::</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 06 Jan 2008 00:25:00 +0100</lastBuildDate><atom:link href="https://franek.chicour.net/tags/r%C3%A9seau-social/feed/rss2" rel="self" type="application/rss+xml" />
+    <description>Recent content in Réseau Social on ::franek::</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <lastBuildDate>Sun, 06 Jan 2008 00:31:14 +0100</lastBuildDate>
+    <atom:link href="https://franek.chicour.net/tags/r%C3%A9seau-social/feed/rss2" rel="self" type="application/rss+xml" />
     <item>
       <title>Le cas facebook</title>
       <link>https://franek.chicour.net/post/le-cas-facebook/</link>
       <pubDate>Sun, 06 Jan 2008 00:25:00 +0100</pubDate>
-      
       <guid>https://franek.chicour.net/post/le-cas-facebook/</guid>
-      <description>Beaucoup ont un compte, des hommes politiques aux amis proches. J&amp;rsquo;ai un compte. Bien sûr, c&amp;rsquo;est super de retrouver en un seul endroit toutes les personnes que l&amp;rsquo;on connait et pouvoir échanger, discuter, suivre les amis perdus de vue&amp;hellip;
-Après la découverte, l&amp;rsquo;euphorie, on est vite submergé par les spams du type &amp;ldquo;j&amp;rsquo;ai ajouté une super application qui cartonne, ajoute là&amp;rdquo;, les demandes de mise en relation des personnes que l&amp;rsquo;on connait mais avec qui, on n&amp;rsquo;a pas gardé de relation et on sait pourquoi, on apprécie moyennement de voir des photos véhiculés taggés avec son nom sans son consentement,&amp;hellip;</description>
+      <description>&lt;p&gt;Beaucoup ont un compte, des hommes politiques aux amis proches. J&amp;rsquo;ai un compte. Bien sûr, c&amp;rsquo;est super de retrouver en un seul endroit toutes les personnes que l&amp;rsquo;on connait et pouvoir échanger, discuter, suivre les amis perdus de vue&amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;Après la découverte, l&amp;rsquo;euphorie, on est vite submergé par les spams du type &amp;ldquo;j&amp;rsquo;ai ajouté une super application qui cartonne, ajoute là&amp;rdquo;, les demandes de mise en relation des personnes que l&amp;rsquo;on connait mais avec qui, on n&amp;rsquo;a pas gardé de relation et on sait pourquoi, on apprécie moyennement de voir des photos véhiculés taggés avec son nom sans son consentement,&amp;hellip;&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

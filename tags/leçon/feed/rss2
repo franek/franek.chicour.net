@@ -1,31 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>leçon on ::franek::</title>
+    <title>Leçon on ::franek::</title>
     <link>https://franek.chicour.net/tags/le%C3%A7on/</link>
-    <description>Recent content in leçon on ::franek::</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 08 Jul 2007 19:08:00 +0200</lastBuildDate><atom:link href="https://franek.chicour.net/tags/le%C3%A7on/feed/rss2" rel="self" type="application/rss+xml" />
+    <description>Recent content in Leçon on ::franek::</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <lastBuildDate>Thu, 25 Oct 2012 19:25:46 +0200</lastBuildDate>
+    <atom:link href="https://franek.chicour.net/tags/le%C3%A7on/feed/rss2" rel="self" type="application/rss+xml" />
     <item>
       <title>&#34;Working Class Hero&#34; Guitar Lesson</title>
       <link>https://franek.chicour.net/post/working-class-hero-guitar-lesson/</link>
       <pubDate>Sun, 08 Jul 2007 19:08:00 +0200</pubDate>
-      
       <guid>https://franek.chicour.net/post/working-class-hero-guitar-lesson/</guid>
-      <description>Green Day fait actuellement (re)découvrir une superbe chanson de John Lennon sur la compil&#39; de soutien pour le Darfour publié par Amnesty International.
-Pour les apprentis guitaristes, la leçon de guitare : Working Class Hero - Greenday (John Lennon Cover)</description>
+      <description>&lt;p&gt;Green Day fait actuellement (re)découvrir une superbe chanson de John Lennon sur la &lt;a href=&#34;http://www.boutique.amnesty.fr/product_info.php?products_id=1169&#34;&gt;compil&amp;rsquo; de soutien pour le Darfour&lt;/a&gt; publié par Amnesty International.&lt;/p&gt;&#xA;&lt;p&gt;Pour les apprentis guitaristes, la leçon de guitare : &lt;a href=&#34;http://video-tabs.com/working-class-hero-greenday-john-lennon-cover&#34;&gt;Working Class Hero - Greenday (John Lennon Cover)&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Un prof de guitare à la maison...</title>
       <link>https://franek.chicour.net/post/un-prof-de-guitare-a-la-maison/</link>
       <pubDate>Sat, 26 May 2007 16:17:00 +0200</pubDate>
-      
       <guid>https://franek.chicour.net/post/un-prof-de-guitare-a-la-maison/</guid>
-      <description>Internet foisonne désormais de ressources pour la guitare&amp;hellip; Une rapide recherche et quelques liens à étudier :
- guitweb, quelques bons articles sur la théorie de la musique un blog recensant des leçons de guitare video-tabs, un ensemble de leçons de guitare en vidéo  des cours de blues chez fender  Mes préférés :
- the next level guitar (malheureusement, pleins de cours sont payants mais j&amp;rsquo;hésite à prendre un abo.</description>
+      <description>&lt;p&gt;Internet foisonne désormais de ressources pour la guitare&amp;hellip; Une rapide recherche et quelques liens à étudier :&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://guitweb.com&#34;&gt;guitweb, quelques bons articles sur la théorie de la musique&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://guitare.canalblog.com/archives/lecons/&#34;&gt;un blog recensant des leçons de guitare&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://video-tabs.com&#34;&gt;video-tabs, un ensemble de leçons de guitare en vidéo &lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://www.fenderplayersclub.com/home/blues.htm&#34;&gt;des cours de blues chez fender&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Mes préférés :&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://www.nextlevelguitar.com/&#34;&gt;the next level guitar&lt;/a&gt; (malheureusement, pleins de cours sont payants mais j&amp;rsquo;hésite à prendre un abo.)&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://www.justinguitar.com/&#34;&gt;Justin Guitar &lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;On commence par&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

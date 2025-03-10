@@ -1,22 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>fanga on ::franek::</title>
+    <title>Fanga on ::franek::</title>
     <link>https://franek.chicour.net/tags/fanga/</link>
-    <description>Recent content in fanga on ::franek::</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 06 Jul 2008 22:59:00 +0200</lastBuildDate><atom:link href="https://franek.chicour.net/tags/fanga/feed/rss2" rel="self" type="application/rss+xml" />
+    <description>Recent content in Fanga on ::franek::</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <lastBuildDate>Sun, 06 Jul 2008 22:59:00 +0200</lastBuildDate>
+    <atom:link href="https://franek.chicour.net/tags/fanga/feed/rss2" rel="self" type="application/rss+xml" />
     <item>
       <title>L&#39;afro-beat de Fanga</title>
       <link>https://franek.chicour.net/post/l-afro-beat-de-fanga/</link>
       <pubDate>Sun, 06 Jul 2008 22:59:00 +0200</pubDate>
-      
       <guid>https://franek.chicour.net/post/l-afro-beat-de-fanga/</guid>
-      <description>Fanga signifie &amp;ldquo;énergie&amp;rdquo; en Dioula, Ils étaient ce week-end à solidays sur une petite scène. Fanga distille un afro-beat énergique à la croisée du maitre Fela Kuti, du jazz et du rock. Une très bonne impression.
-Leur dernier album &amp;ldquo;Natural Juice&amp;rdquo; est en écoute sur deezer.
- Myspace de Fanga : http://www.myspace.com/afrofanga le site officiel de Fanga : http://www.afrofanga.com/  extrait :
- Découvrez [Fanga](http://www.deezer.com/fr/fanga.html)! </description>
+      <description>&lt;p&gt;Fanga signifie &amp;ldquo;énergie&amp;rdquo; en Dioula, Ils étaient ce week-end à &lt;a href=&#34;http://www.solidays.org/&#34;&gt;solidays&lt;/a&gt; sur une petite scène. Fanga distille un afro-beat énergique à la croisée du maitre &lt;a href=&#34;http://fr.wikipedia.org/wiki/Fela_Kuti&#34;&gt;Fela Kuti&lt;/a&gt;, du jazz et du rock. Une très bonne impression.&lt;/p&gt;&#xA;&lt;p&gt;Leur dernier album &amp;ldquo;&lt;a href=&#34;http://www.deezer.com/#music/album/40689&#34;&gt;Natural Juice&lt;/a&gt;&amp;rdquo; est en écoute sur deezer.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Myspace de Fanga : &lt;a href=&#34;http://www.myspace.com/afrofanga&#34;&gt;http://www.myspace.com/afrofanga&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;le site officiel de Fanga : &lt;a href=&#34;http://www.afrofanga.com/&#34;&gt;http://www.afrofanga.com/&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;extrait :&lt;/p&gt;&#xA;&lt;div style=&#34;width:220px;height:55px;&#34;&gt;&lt;object height=&#34;55&#34; width=&#34;220&#34;&gt;&lt;param name=&#34;movie&#34; value=&#34;http://www.deezer.com/embedded/small-widget-v2.swf?idSong=210125&amp;colorBackground=0x555552&amp;textColor1=0xFFFFFF&amp;colorVolume=0x39D1FD&amp;autoplay=0&#34;&gt;&lt;/param&gt;&lt;embed height=&#34;55&#34; src=&#34;http://www.deezer.com/embedded/small-widget-v2.swf?idSong=210125&amp;colorBackground=0x525252&amp;textColor1=0xFFFFFF&amp;colorVolume=0x39D1FD&amp;autoplay=0&#34; type=&#34;application/x-shockwave-flash&#34; width=&#34;220&#34;&gt;&lt;/embed&gt;&lt;/object&gt;  &#xA;&lt;font color=&#34;#000000&#34; size=&#34;1&#34;&gt;Découvrez [Fanga](http://www.deezer.com/fr/fanga.html)!&lt;/font&gt;&lt;/div&gt;</description>
     </item>
-    
   </channel>
 </rss>

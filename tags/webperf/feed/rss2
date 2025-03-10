@@ -1,35 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>webperf on ::franek::</title>
+    <title>Webperf on ::franek::</title>
     <link>https://franek.chicour.net/tags/webperf/</link>
-    <description>Recent content in webperf on ::franek::</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 29 Apr 2011 15:26:00 +0200</lastBuildDate><atom:link href="https://franek.chicour.net/tags/webperf/feed/rss2" rel="self" type="application/rss+xml" />
+    <description>Recent content in Webperf on ::franek::</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <lastBuildDate>Sun, 23 Oct 2011 17:00:15 +0200</lastBuildDate>
+    <atom:link href="https://franek.chicour.net/tags/webperf/feed/rss2" rel="self" type="application/rss+xml" />
     <item>
       <title>KeepAlive On et SSL avec Internet Explorer</title>
       <link>https://franek.chicour.net/post/keepalive-on-et-ssl-avec-internet-explorer/</link>
       <pubDate>Fri, 29 Apr 2011 15:26:00 +0200</pubDate>
-      
       <guid>https://franek.chicour.net/post/keepalive-on-et-ssl-avec-internet-explorer/</guid>
-      <description>Une des bonnes pratiques de performance web est d&amp;rsquo;activer KeepAlive sur un serveur Apache.
-Sur une de mes applications, le KeepAlive n&amp;rsquo;était pas activé pour IE et je ne comprenais pas pourquoi.
-Après investigation, cela venait de la configuration par défaut de Apache dans mon Virtual Host sur le port 443 qui contenait les directives suivantes :
- SetEnvIf User-Agent &amp;quot;.*MSIE.*&amp;quot; \ nokeepalive ssl-unclean-shutdown \ downgrade-1.0 force-response-1.0 Cette directive indique à Apache de désactiver le KeepAlive pour Internet Explorer (Toute version confondue).</description>
+      <description>&lt;p&gt;Une des bonnes pratiques de performance web est d&amp;rsquo;activer KeepAlive sur un serveur Apache.&lt;/p&gt;&#xA;&lt;p&gt;Sur une de mes applications, le KeepAlive n&amp;rsquo;était pas activé pour IE et je ne comprenais pas pourquoi.&lt;/p&gt;&#xA;&lt;p&gt;Après investigation, cela venait de la configuration par défaut de Apache dans mon Virtual Host sur le port 443 qui contenait les directives suivantes :&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;&#xA; SetEnvIf User-Agent &amp;#34;.*MSIE.*&amp;#34; \&#xA;            nokeepalive ssl-unclean-shutdown \&#xA;            downgrade-1.0 force-response-1.0&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Cette directive indique à Apache de désactiver le KeepAlive pour Internet Explorer (Toute version confondue). C&amp;rsquo;est dû à un bug de IE de gestion du protocole SSL. Ce bug n&amp;rsquo;est présent que sur les versions de Internet Explorer inférieures ou égales à 6.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Retour sur la soirée #webperf du 21 avril 2011</title>
       <link>https://franek.chicour.net/post/retour-sur-la-soiree-webperf-du-21-avril-2011/</link>
       <pubDate>Fri, 22 Apr 2011 12:13:00 +0200</pubDate>
-      
       <guid>https://franek.chicour.net/post/retour-sur-la-soiree-webperf-du-21-avril-2011/</guid>
-      <description>J&amp;rsquo;ai assisté hier, pour la seconde fois, à l&amp;rsquo;atelier webperf organisé par le Webperf User Group et principalement Eric.
-L&amp;rsquo;objectif de la soirée était d&amp;rsquo;analyser quelques sites en 30 minutes par groupe de 5 à 10 personnes puis d&amp;rsquo;échanger sur les analyses effectuées et sur les solutions possibles pour améliorer la performance (navigateur, réseaux) du site.
-Nous avons bien sûr évoqués
-  les outils habituels :
- YSlow! Webpagetest    et les méthodes classiques d&amp;rsquo;optimisation :</description>
+      <description>&lt;p&gt;J&amp;rsquo;ai assisté hier, pour la seconde fois, à l&amp;rsquo;atelier webperf organisé par le &lt;a href=&#34;https://sites.google.com/a/survol.fr/webperf-user-group&#34;&gt;Webperf User Group&lt;/a&gt; et principalement &lt;a href=&#34;http://eric.daspet.name&#34; title=&#34;Site perso de Eric Daspet&#34;&gt;Eric&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;L&amp;rsquo;objectif de la soirée était d&amp;rsquo;analyser quelques sites en 30 minutes par groupe de 5 à 10 personnes puis d&amp;rsquo;échanger sur les analyses effectuées et sur les solutions possibles pour améliorer la performance (navigateur, réseaux) du site.&lt;/p&gt;&#xA;&lt;p&gt;Nous avons bien sûr évoqués&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;les outils habituels :&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;YSlow!&lt;/li&gt;&#xA;&lt;li&gt;Webpagetest&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;et les méthodes classiques d&amp;rsquo;optimisation :&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

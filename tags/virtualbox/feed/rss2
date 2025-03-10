@@ -1,34 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>virtualbox on ::franek::</title>
+    <title>Virtualbox on ::franek::</title>
     <link>https://franek.chicour.net/tags/virtualbox/</link>
-    <description>Recent content in virtualbox on ::franek::</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 02 Jun 2012 11:54:00 +0200</lastBuildDate><atom:link href="https://franek.chicour.net/tags/virtualbox/feed/rss2" rel="self" type="application/rss+xml" />
+    <description>Recent content in Virtualbox on ::franek::</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <lastBuildDate>Mon, 11 Mar 2013 22:49:57 +0100</lastBuildDate>
+    <atom:link href="https://franek.chicour.net/tags/virtualbox/feed/rss2" rel="self" type="application/rss+xml" />
     <item>
       <title>Créer une basebox CentOS-6.2 pour vagrant</title>
       <link>https://franek.chicour.net/post/creer-une-basebox-centos-6-2-pour-vagrant/</link>
       <pubDate>Sat, 02 Jun 2012 11:54:00 +0200</pubDate>
-      
       <guid>https://franek.chicour.net/post/creer-une-basebox-centos-6-2-pour-vagrant/</guid>
-      <description>Vagrant est un logiciel écrit en Ruby permettant de simplifier la gestion des machines virtuelles dans un environnement de développement. Il va permettre de décrire (via un système de provisionning : puppet, chef, script sh) les composants nécessaires à un projet (php, mysql, &amp;hellip;).
-Si vous souhaitez en savoir plus sur vagrant, je vous invite à consulter cette présentation.
-Vagrant fournit, par défaut, des box sous Ubuntu (Lucid et Precise).</description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://franek.chicour.net/post/2012/06/02/vagrantup.com/&#34;&gt;Vagrant&lt;/a&gt; est un logiciel écrit en Ruby permettant de simplifier la gestion des machines virtuelles dans un environnement de développement. Il va permettre de décrire (via un système de provisionning : puppet, chef, script sh) les composants nécessaires à un projet (php, mysql, &amp;hellip;).&lt;/p&gt;&#xA;&lt;p&gt;Si vous souhaitez en savoir plus sur vagrant, je vous invite à consulter &lt;a href=&#34;http://www.ichilton.co.uk/blog/virtualization/my-phpne-talk-on-vagrant-496.html&#34;&gt;cette présentation&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Vagrant &lt;a href=&#34;https://github.com/mitchellh/vagrant/wiki/Available-Vagrant-Boxes&#34;&gt;fournit&lt;/a&gt;, par défaut, des box sous Ubuntu (Lucid et Precise).&lt;/p&gt;&#xA;&lt;p&gt;Il est possible de récupérer des box créés par la communautés sur le &lt;a href=&#34;http://vagrantbox.es/&#34;&gt;site vagrantbox.es&lt;/a&gt; pour la plupart des distributions LINUX.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Comment installer l&#39;extension pack pour VirtualBox ?</title>
       <link>https://franek.chicour.net/post/comment-installer-l-extension-pack-pour-virtualbox/</link>
       <pubDate>Sat, 11 Feb 2012 15:13:00 +0100</pubDate>
-      
       <guid>https://franek.chicour.net/post/comment-installer-l-extension-pack-pour-virtualbox/</guid>
-      <description>J&amp;rsquo;oublie toujours comment installer l&amp;rsquo;extension pack pour VirtualBox. Je le note donc ici :
-1. Télécharger l&amp;rsquo;extension pack :
- $ wget http://download.virtualbox.org/virtualbox/4.1.8/Oracle_VM_VirtualBox_Extension_Pack-4.1.8.vbox-extpack 2. Installer :
- $ VBoxManage extpack install --replace Oracle_VM_VirtualBox_Extension_Pack-4.1.8.vbox-extpack Il sera nécessaire de renseigner le mot de passe de l&amp;rsquo;utilisateur connecté pour valider l&amp;rsquo;installation.
-source : documentation de virtualbox</description>
+      <description>&lt;p&gt;J&amp;rsquo;oublie toujours comment installer l&amp;rsquo;extension pack pour &lt;a href=&#34;https://www.virtualbox.org/&#34;&gt;VirtualBox&lt;/a&gt;. Je le note donc ici :&lt;/p&gt;&#xA;&lt;p&gt;1. Télécharger l&amp;rsquo;extension pack :&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;&#xA;$ wget http://download.virtualbox.org/virtualbox/4.1.8/Oracle_VM_VirtualBox_Extension_Pack-4.1.8.vbox-extpack&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;2. Installer :&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;&#xA;$ VBoxManage extpack install --replace Oracle_VM_VirtualBox_Extension_Pack-4.1.8.vbox-extpack&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Il sera nécessaire de renseigner le mot de passe de l&amp;rsquo;utilisateur connecté pour valider l&amp;rsquo;installation.&lt;/p&gt;&#xA;&lt;p&gt;source : &lt;a href=&#34;https://www.virtualbox.org/manual/ch08.html#vboxmanage-extpack&#34;&gt;documentation de virtualbox&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

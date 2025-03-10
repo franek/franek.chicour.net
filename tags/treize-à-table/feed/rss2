@@ -1,21 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>treize à table on ::franek::</title>
+    <title>Treize À Table on ::franek::</title>
     <link>https://franek.chicour.net/tags/treize-%C3%A0-table/</link>
-    <description>Recent content in treize à table on ::franek::</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 19 Oct 2008 18:36:00 +0200</lastBuildDate><atom:link href="https://franek.chicour.net/tags/treize-%C3%A0-table/feed/rss2" rel="self" type="application/rss+xml" />
+    <description>Recent content in Treize À Table on ::franek::</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <lastBuildDate>Mon, 20 Oct 2008 23:06:05 +0200</lastBuildDate>
+    <atom:link href="https://franek.chicour.net/tags/treize-%C3%A0-table/feed/rss2" rel="self" type="application/rss+xml" />
     <item>
       <title>C&#39;est la crise...</title>
       <link>https://franek.chicour.net/post/c-est-la-crise/</link>
       <pubDate>Sun, 19 Oct 2008 18:36:00 +0200</pubDate>
-      
       <guid>https://franek.chicour.net/post/c-est-la-crise/</guid>
-      <description>Petite chanson d&amp;rsquo;actualité de nos amis Treize à table, groupe originaire de Lille de chansons françaises, que je suis depuis plusieurs années.
-Extrait la crise (aveec MAP en guest star) :
- Découvrez [Treize à Table &amp;amp; Dias (map)](http://www.deezer.com/fr/treize-a-table-dias-map-.html)!### Autres extraits L&amp;rsquo;étiquette :  Découvrez [Treize à Table](http://www.deezer.com/fr/treize-a-table.html)!#### Lunes à tics :  Découvrez [Treize à Table](http://www.deezer.com/fr/treize-a-table.html)! </description>
+      <description>&lt;p&gt;Petite chanson d&amp;rsquo;actualité de nos amis &lt;a href=&#34;http://www.treizeatable.com/index.php&#34;&gt;Treize à table&lt;/a&gt;, groupe originaire de Lille de chansons françaises, que je suis depuis plusieurs années.&lt;/p&gt;&#xA;&lt;p&gt;Extrait la crise (aveec MAP en guest star) :&lt;/p&gt;&#xA;&lt;div style=&#34;width:220px;height:55px;&#34;&gt;&lt;object height=&#34;55&#34; width=&#34;220&#34;&gt;&lt;param name=&#34;movie&#34; value=&#34;http://www.deezer.com/embedded/small-widget-v2.swf?idSong=238468&amp;colorBackground=0x555552&amp;textColor1=0xFFFFFF&amp;colorVolume=0x39D1FD&amp;autoplay=0&#34;&gt;&lt;/param&gt;&lt;embed height=&#34;55&#34; src=&#34;http://www.deezer.com/embedded/small-widget-v2.swf?idSong=238468&amp;colorBackground=0x525252&amp;textColor1=0xFFFFFF&amp;colorVolume=0x39D1FD&amp;autoplay=0&#34; type=&#34;application/x-shockwave-flash&#34; width=&#34;220&#34;&gt;&lt;/embed&gt;&lt;/object&gt;  &#xA;&lt;font color=&#34;#000000&#34; size=&#34;1&#34;&gt;Découvrez [Treize à Table &amp;amp; Dias (map)](http://www.deezer.com/fr/treize-a-table-dias-map-.html)!&lt;/font&gt;&lt;/div&gt;### Autres extraits&#xA;&lt;h4 id=&#34;létiquette-&#34;&gt;L&amp;rsquo;étiquette :&lt;/h4&gt;&#xA;&lt;div style=&#34;width:220px;height:55px;&#34;&gt;&lt;object height=&#34;55&#34; width=&#34;220&#34;&gt;&lt;param name=&#34;movie&#34; value=&#34;http://www.deezer.com/embedded/small-widget-v2.swf?idSong=222167&amp;colorBackground=0x555552&amp;textColor1=0xFFFFFF&amp;colorVolume=0x39D1FD&amp;autoplay=0&#34;&gt;&lt;/param&gt;&lt;embed height=&#34;55&#34; src=&#34;http://www.deezer.com/embedded/small-widget-v2.swf?idSong=222167&amp;colorBackground=0x525252&amp;textColor1=0xFFFFFF&amp;colorVolume=0x39D1FD&amp;autoplay=0&#34; type=&#34;application/x-shockwave-flash&#34; width=&#34;220&#34;&gt;&lt;/embed&gt;&lt;/object&gt;  &#xA;&lt;font color=&#34;#000000&#34; size=&#34;1&#34;&gt;Découvrez [Treize à Table](http://www.deezer.com/fr/treize-a-table.html)!&lt;/font&gt;&lt;/div&gt;#### Lunes à tics :&#xA;&lt;div style=&#34;width:220px;height:55px;&#34;&gt;&lt;object height=&#34;55&#34; width=&#34;220&#34;&gt;&lt;param name=&#34;movie&#34; value=&#34;http://www.deezer.com/embedded/small-widget-v2.swf?idSong=222172&amp;colorBackground=0x555552&amp;textColor1=0xFFFFFF&amp;colorVolume=0x39D1FD&amp;autoplay=0&#34;&gt;&lt;/param&gt;&lt;embed height=&#34;55&#34; src=&#34;http://www.deezer.com/embedded/small-widget-v2.swf?idSong=222172&amp;colorBackground=0x525252&amp;textColor1=0xFFFFFF&amp;colorVolume=0x39D1FD&amp;autoplay=0&#34; type=&#34;application/x-shockwave-flash&#34; width=&#34;220&#34;&gt;&lt;/embed&gt;&lt;/object&gt;  &#xA;&lt;font color=&#34;#000000&#34; size=&#34;1&#34;&gt;Découvrez [Treize à Table](http://www.deezer.com/fr/treize-a-table.html)!&lt;/font&gt;&lt;/div&gt;</description>
     </item>
-    
   </channel>
 </rss>

@@ -1,42 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>conférence on ::franek::</title>
+    <title>Conférence on ::franek::</title>
     <link>https://franek.chicour.net/tags/conf%C3%A9rence/</link>
-    <description>Recent content in conférence on ::franek::</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 31 Mar 2024 11:34:13 +0100</lastBuildDate><atom:link href="https://franek.chicour.net/tags/conf%C3%A9rence/feed/rss2" rel="self" type="application/rss+xml" />
+    <description>Recent content in Conférence on ::franek::</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <lastBuildDate>Sun, 31 Mar 2024 11:34:13 +0100</lastBuildDate>
+    <atom:link href="https://franek.chicour.net/tags/conf%C3%A9rence/feed/rss2" rel="self" type="application/rss+xml" />
     <item>
       <title>Retour sur la KubeCon et CLoudNativeCon Europe 2024</title>
       <link>https://franek.chicour.net/post/2024-kubecon-europe/</link>
       <pubDate>Sun, 31 Mar 2024 11:34:13 +0100</pubDate>
-      
       <guid>https://franek.chicour.net/post/2024-kubecon-europe/</guid>
-      <description>Grâce à mon gentil employeur, j&amp;rsquo;ai participé pour la première fois à la KubeCon + CloudNativeCon + other CNCF Events Europe. Cette édition avait lieu à Paris à Porte de Versailles.
-Cette conférence est dédiée à l&amp;rsquo;écosystème Kubernetes et aux projets incubés auprès de la CNCF (Cloud Native and Computing Foundation). On retrouve au sein de la CNCF des projets comme bien entendu Kubernetes mais également Prometheus, OpenTelemetry, OpenFeature, Backstage, Keda, Helm, &amp;hellip; (et bien d&amp;rsquo;autres)</description>
+      <description>&lt;p&gt;Grâce à mon gentil &lt;a href=&#34;https://www.arte.tv/&#34;&gt;employeur&lt;/a&gt;, j&amp;rsquo;ai participé pour la première fois à la &lt;a href=&#34;https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/&#34;&gt;KubeCon + CloudNativeCon + other CNCF Events Europe&lt;/a&gt;. Cette édition avait lieu à Paris à Porte de Versailles.&lt;/p&gt;&#xA;&lt;p&gt;Cette conférence est dédiée à l&amp;rsquo;écosystème Kubernetes et aux projets incubés auprès de la &lt;a href=&#34;https://www.cncf.io/&#34;&gt;CNCF&lt;/a&gt; (Cloud Native and Computing Foundation). On retrouve au sein de la CNCF des projets comme bien entendu Kubernetes mais également Prometheus, OpenTelemetry, OpenFeature, Backstage, Keda, Helm, &amp;hellip; (et &lt;a href=&#34;https://landscape.cncf.io/&#34;&gt;bien d&amp;rsquo;autres&lt;/a&gt;)&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Cloud Nord 2023</title>
       <link>https://franek.chicour.net/post/cloud-nord-2023/</link>
       <pubDate>Tue, 31 Oct 2023 21:34:13 +0100</pubDate>
-      
       <guid>https://franek.chicour.net/post/cloud-nord-2023/</guid>
-      <description>Cloud Nord est une journée de conférence dédiée aux Clouds et outils associés (culture devops).
-Ce cycle de conférences a lieu tous les ans à Lille sur le site d’Euratechnologie, un incubateur de start-ups. C’est une conférence organisée par des bénévoles et soutenu par de nombreux partenaires (Les Tilleuls, OPEN, Ippon Technologie, …).
-4 tracks ont lieu au même moment. N’ayant pas le don d’ubiquité, je n’ai pu participer qu&amp;rsquo;à une partie infime des conférences.</description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.cloudnord.fr/&#34;&gt;Cloud Nord&lt;/a&gt; est une journée de conférence dédiée aux Clouds et outils associés (culture devops).&lt;/p&gt;&#xA;&lt;p&gt;Ce cycle de conférences a lieu tous les ans à Lille sur le site d’Euratechnologie, un incubateur de start-ups. C’est une conférence organisée par des bénévoles et soutenu par de nombreux partenaires (Les Tilleuls, OPEN, Ippon Technologie, …).&lt;/p&gt;&#xA;&lt;p&gt;4 tracks ont lieu au même moment. N’ayant pas le don d’ubiquité, je n’ai pu participer qu&amp;rsquo;à une partie infime des conférences. C’est parti pour une petite synthèse.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Paris Web 2013 : J&#39;y étais !</title>
       <link>https://franek.chicour.net/post/paris-web-2013-j-y-etais/</link>
       <pubDate>Sat, 19 Oct 2013 11:44:00 +0200</pubDate>
-      
       <guid>https://franek.chicour.net/post/paris-web-2013-j-y-etais/</guid>
-      <description>Après 2 années d&amp;rsquo;absence aux conférences de Paris Web (mais pas les ateliers), j&amp;rsquo;ai à nouveau participé aux conférences Paris Web (merci à mon employeur).
-Comme d&amp;rsquo;habitude, j&amp;rsquo;ai trouvé que la journée du samedi (les ateliers) était indispensable : les intervenant prennent le temps de rentrer dans le détail des sujets et les petites salles sont propices aux échanges. Je regrette de ne pas disposer d&amp;rsquo;un don d&amp;rsquo;ubiquité.
-La qualité des conférences des journées du jeudi et vendredi était inégale.</description>
+      <description>&lt;p&gt;Après 2 années d&amp;rsquo;absence aux conférences de &lt;a href=&#34;http://www.paris-web.fr&#34;&gt;Paris Web&lt;/a&gt; (mais pas les ateliers), j&amp;rsquo;ai à nouveau participé aux conférences Paris Web (merci à mon employeur).&lt;/p&gt;&#xA;&lt;p&gt;Comme d&amp;rsquo;habitude, j&amp;rsquo;ai trouvé que la journée du samedi (les ateliers) était indispensable : les intervenant prennent le temps de rentrer dans le détail des sujets et les petites salles sont propices aux échanges. Je regrette de ne pas disposer d&amp;rsquo;un don d&amp;rsquo;ubiquité.&lt;/p&gt;&#xA;&lt;p&gt;La qualité des conférences des journées du jeudi et vendredi était inégale. Je ne ferai pas de compte-rendu complet, certains sont bien meilleurs que moi pour cet exercice. J&amp;rsquo;ai appris ou découvert quelques petites choses lors de ces 3 jours que je vais essayer de partager avec vous.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

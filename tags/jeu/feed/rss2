@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>jeu on ::franek::</title>
+    <title>Jeu on ::franek::</title>
     <link>https://franek.chicour.net/tags/jeu/</link>
-    <description>Recent content in jeu on ::franek::</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 24 Jun 2008 22:54:00 +0200</lastBuildDate><atom:link href="https://franek.chicour.net/tags/jeu/feed/rss2" rel="self" type="application/rss+xml" />
+    <description>Recent content in Jeu on ::franek::</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <lastBuildDate>Sun, 12 Oct 2008 15:23:52 +0200</lastBuildDate>
+    <atom:link href="https://franek.chicour.net/tags/jeu/feed/rss2" rel="self" type="application/rss+xml" />
     <item>
       <title>Où est charlie ?</title>
       <link>https://franek.chicour.net/post/ou-est-charlie/</link>
       <pubDate>Tue, 24 Jun 2008 22:54:00 +0200</pubDate>
-      
       <guid>https://franek.chicour.net/post/ou-est-charlie/</guid>
-      <description>Prenez la voix de Julien Lepers&amp;hellip;
-Je suis la ville où Julien Lepers passa toute son enfance. J&amp;rsquo;accueillis Jules Vernes lors la rédaction de son &amp;ldquo;20000 lieues sous les mers&amp;rdquo;. Mon ancien nom antique signifiait &amp;ldquo;la ville d&amp;rsquo;en face&amp;rdquo;, je possède un fort carré et des fortifications Vauban. Je possède le plus grand port de France et peut accueillir de gros yachts de milliardaires. Picasso vécut une partie de sa vie dans mes murs.</description>
+      <description>&lt;p&gt;Prenez la voix de Julien Lepers&amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;Je suis la ville où Julien Lepers passa toute son enfance. J&amp;rsquo;accueillis Jules Vernes lors la rédaction de son &amp;ldquo;20000 lieues sous les mers&amp;rdquo;. Mon ancien nom antique signifiait &amp;ldquo;la ville d&amp;rsquo;en face&amp;rdquo;, je possède un fort carré et des fortifications Vauban. Je possède le plus grand port de France et peut accueillir de gros yachts de milliardaires. Picasso vécut une partie de sa vie dans mes murs. Je suis entouré par deux villes qui accueillent des festivals Jazz reconnus. Alain Bernard, double recordman du monde, s&amp;rsquo;entraine dans ma ville.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

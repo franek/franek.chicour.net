@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>saison brune on ::franek::</title>
+    <title>Saison Brune on ::franek::</title>
     <link>https://franek.chicour.net/tags/saison-brune/</link>
-    <description>Recent content in saison brune on ::franek::</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 25 Aug 2012 11:10:00 +0200</lastBuildDate><atom:link href="https://franek.chicour.net/tags/saison-brune/feed/rss2" rel="self" type="application/rss+xml" />
+    <description>Recent content in Saison Brune on ::franek::</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <lastBuildDate>Mon, 28 Jan 2013 21:15:19 +0100</lastBuildDate>
+    <atom:link href="https://franek.chicour.net/tags/saison-brune/feed/rss2" rel="self" type="application/rss+xml" />
     <item>
       <title>Vos prochaines lectures ?</title>
       <link>https://franek.chicour.net/post/vos-prochaines-lectures/</link>
       <pubDate>Sat, 25 Aug 2012 11:10:00 +0200</pubDate>
-      
       <guid>https://franek.chicour.net/post/vos-prochaines-lectures/</guid>
-      <description>Si vous cherchez des BDs denses (plus de 300 pages pour les deux ouvrages) sur des enjeux de société (libéralisme pour l&amp;rsquo;un, écologie pour l&amp;rsquo;autre), je vous recommande les deux derniers livres de Philippe Squarzoni :
- DOL sur l&amp;rsquo;analyse de la politique libérale menée par le gouvernement Raffarin après les élections de 2002 Saison Brune sur le réchauffement climatique  &amp;ldquo;Saison Brune&amp;rdquo; est plus récent, il a été écrit après &amp;ldquo;DOL&amp;rdquo; mais l&amp;rsquo;ordre de lecture importe peu.</description>
+      <description>&lt;p&gt;Si vous cherchez des BDs denses (plus de 300 pages pour les deux ouvrages) sur des enjeux de société (libéralisme pour l&amp;rsquo;un, écologie pour l&amp;rsquo;autre), je vous recommande les deux derniers livres de Philippe Squarzoni :&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://www.lesrequinsmarteaux.org/article-14328270.html&#34;&gt;DOL&lt;/a&gt; sur l&amp;rsquo;analyse de la politique libérale menée par le gouvernement Raffarin après les élections de 2002&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://www.editions-delcourt.fr/catalogue/bd/saison_brune&#34;&gt;Saison Brune&lt;/a&gt; sur le réchauffement climatique&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&amp;ldquo;Saison Brune&amp;rdquo; est plus récent, il a été écrit après &amp;ldquo;DOL&amp;rdquo; mais l&amp;rsquo;ordre de lecture importe peu.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

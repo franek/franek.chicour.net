@@ -1,47 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>git on ::franek::</title>
+    <title>Git on ::franek::</title>
     <link>https://franek.chicour.net/tags/git/</link>
-    <description>Recent content in git on ::franek::</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 12 Aug 2011 14:55:00 +0200</lastBuildDate><atom:link href="https://franek.chicour.net/tags/git/feed/rss2" rel="self" type="application/rss+xml" />
+    <description>Recent content in Git on ::franek::</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <lastBuildDate>Sun, 23 Oct 2011 17:00:15 +0200</lastBuildDate>
+    <atom:link href="https://franek.chicour.net/tags/git/feed/rss2" rel="self" type="application/rss+xml" />
     <item>
       <title>Quelques trucs et astuces concernant git (et git svn)</title>
       <link>https://franek.chicour.net/post/quelques-trucs-et-astuces-concernant-git-et-git-svn/</link>
       <pubDate>Fri, 12 Aug 2011 14:55:00 +0200</pubDate>
-      
       <guid>https://franek.chicour.net/post/quelques-trucs-et-astuces-concernant-git-et-git-svn/</guid>
-      <description>Une petite liste de trucs et astuces concernant l&amp;rsquo;utilisation de git (avec svn ou non).
-Pour définir l&amp;rsquo;éditeur par défaut utilisé par git (ici vi) :
- $ git config --global core.editor vi Récupérer l&amp;rsquo;ensemble du dépôt subversion dans un environnement git :
- $ git svn clone -s http://url_depot_svn/ rep-destination/ Resynchroniser le dépôt local (git) avec le dépôt subversion (récupération des tags notamment).
- $ git svn fetch Dans le cas d&amp;rsquo;une utilisation de git avec subversion, afficher tous les tags et les branches subversion</description>
+      <description>&lt;p&gt;Une petite liste de trucs et astuces concernant l&amp;rsquo;utilisation de git (avec svn ou non).&lt;/p&gt;&#xA;&lt;p&gt;Pour définir l&amp;rsquo;éditeur par défaut utilisé par git (ici vi) :&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;&#xA;$ git config --global core.editor vi&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Récupérer l&amp;rsquo;ensemble du dépôt subversion dans un environnement git :&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;&#xA;$ git svn clone -s http://url_depot_svn/ rep-destination/&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Resynchroniser le dépôt local (git) avec le dépôt subversion (récupération des tags notamment).&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;&#xA;$ git svn fetch&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Dans le cas d&amp;rsquo;une utilisation de git avec subversion, afficher tous les tags et les branches subversion&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Post-it : Accéder à un dépôt git à traver un proxy</title>
       <link>https://franek.chicour.net/post/post-it-acceder-a-un-depot-git-a-traver-un-proxy/</link>
       <pubDate>Sat, 06 Aug 2011 17:12:00 +0200</pubDate>
-      
       <guid>https://franek.chicour.net/post/post-it-acceder-a-un-depot-git-a-traver-un-proxy/</guid>
-      <description>Il est parfois nécessaire de pouvoir accéder à son dépôt git (push et pull) auto-hébergé derrière un proxy.
-Mon dépôt git ne support pas le smart HTTP protocol.
-Je vais vous présenter ici une technique s&amp;rsquo;appuyant sur corkscrew. Il y existe sûrement d&amp;rsquo;autres techniques (port forwarding, &amp;hellip;).
-Cette technique sous-entend que ssh est configuré sur le port 443 de votre serveur.
-Installer corkscrew :
- $ sudo apt-get install corkscrew Ajouter dans le fichier ~/.</description>
+      <description>&lt;p&gt;Il est parfois nécessaire de pouvoir accéder à son dépôt git (push et pull) auto-hébergé derrière un proxy.&lt;/p&gt;&#xA;&lt;p&gt;Mon dépôt git ne support pas le &lt;a href=&#34;https://github.com/blog/642-smart-http-support&#34;&gt;smart HTTP protocol&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Je vais vous présenter ici une technique s&amp;rsquo;appuyant sur corkscrew. Il y existe sûrement d&amp;rsquo;autres techniques (port forwarding, &amp;hellip;).&lt;/p&gt;&#xA;&lt;p&gt;Cette technique sous-entend que ssh est configuré sur le port 443 de votre serveur.&lt;/p&gt;&#xA;&lt;p&gt;Installer corkscrew :&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;&#xA;$ sudo apt-get install corkscrew&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Ajouter dans le fichier ~/.ssh/config :&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Retour sur le premier atelier Git Attitude</title>
       <link>https://franek.chicour.net/post/retour-sur-le-premier-atelier-git-attitude/</link>
       <pubDate>Mon, 12 Jul 2010 21:06:00 +0200</pubDate>
-      
       <guid>https://franek.chicour.net/post/retour-sur-le-premier-atelier-git-attitude/</guid>
-      <description>Christophe Porteneuve, ancien Président de Paris Web et directeur technique chez Ciblo, a eu l&amp;rsquo;excellente idée d&amp;rsquo;organiser le premier atelier Git Attitude. Cela s&amp;rsquo;est passé samedi dernier dans les locaux de Clever Age (Paris).
-L&amp;rsquo;objectif de cet atelier était de présenter les fonctionnalités de Git et d&amp;rsquo;aider les participants à prendre en main ce système de gestion des sources décentralisé. Le programme de la journée était dense. Malgré les 8 heures prévues, il n&amp;rsquo;a pas été possible d&amp;rsquo;étudier l&amp;rsquo;ensemble des points au programme, mais on a vu beaucoup de choses intéressantes, de très bonnes astuces et l&amp;rsquo;envie d&amp;rsquo;approfondir nos connaissances.</description>
+      <description>&lt;p&gt;Christophe Porteneuve, ancien Président de &lt;a href=&#34;http://www.paris-web.fr&#34;&gt;Paris Web&lt;/a&gt; et directeur technique chez &lt;a href=&#34;http://www.ciblo.net&#34;&gt;Ciblo&lt;/a&gt;, a eu l&amp;rsquo;excellente idée d&amp;rsquo;organiser le &lt;a href=&#34;http://blog.git-attitude.fr/post/2010/06/18/premier-atelier-git-attitude&#34;&gt;premier atelier Git Attitude&lt;/a&gt;. Cela s&amp;rsquo;est passé samedi dernier dans les locaux de &lt;a href=&#34;http://www.clever-age.com/&#34;&gt;Clever Age&lt;/a&gt; (Paris).&lt;/p&gt;&#xA;&lt;p&gt;L&amp;rsquo;objectif de cet atelier était de présenter les fonctionnalités de Git et d&amp;rsquo;aider les participants à prendre en main ce &lt;a href=&#34;http://fr.wikipedia.org/wiki/Logiciel_de_gestion_de_versions#Distribu.C3.A9&#34;&gt;système de gestion des sources décentralisé&lt;/a&gt;. Le &lt;a href=&#34;http://blog.git-attitude.fr/post/2010/06/18/premier-atelier-git-attitude&#34;&gt;programme de la journée&lt;/a&gt; était dense. Malgré les 8 heures prévues, il n&amp;rsquo;a pas été possible d&amp;rsquo;étudier l&amp;rsquo;ensemble des points au programme, mais on a vu beaucoup de choses intéressantes, de très bonnes astuces et l&amp;rsquo;envie d&amp;rsquo;approfondir nos connaissances.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

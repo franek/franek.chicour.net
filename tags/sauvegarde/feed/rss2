@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>sauvegarde on ::franek::</title>
+    <title>Sauvegarde on ::franek::</title>
     <link>https://franek.chicour.net/tags/sauvegarde/</link>
-    <description>Recent content in sauvegarde on ::franek::</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 29 Dec 2009 22:20:00 +0100</lastBuildDate><atom:link href="https://franek.chicour.net/tags/sauvegarde/feed/rss2" rel="self" type="application/rss+xml" />
+    <description>Recent content in Sauvegarde on ::franek::</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <lastBuildDate>Tue, 17 Aug 2010 13:36:24 +0200</lastBuildDate>
+    <atom:link href="https://franek.chicour.net/tags/sauvegarde/feed/rss2" rel="self" type="application/rss+xml" />
     <item>
       <title>Amélioration du &#34;post script&#34; de backup-manager</title>
       <link>https://franek.chicour.net/post/amelioration-du-post-script-de-backup-manager/</link>
       <pubDate>Tue, 29 Dec 2009 22:20:00 +0100</pubDate>
-      
       <guid>https://franek.chicour.net/post/amelioration-du-post-script-de-backup-manager/</guid>
-      <description>backup-manager est un script très pratique permettant de faire la sauvegarde d&amp;rsquo;un serveur dédié. Ce script est utilisé pour effectuer la sauvegarde de la dédibox qui héberge ce site et ces satellites. Par défaut, ce script ne propose pas de contrôle des fichiers déposés sur le serveur de sauvegarde ou d&amp;rsquo;envoi d&amp;rsquo;un email lors de la fin de l&amp;rsquo;exécution de la sauvegarde.
-Il est possible d&amp;rsquo;ajouter des fonctionnalités à ce script via des hooks exécutés avant ou après la sauvegarde.</description>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.backup-manager.org/&#34;&gt;backup-manager&lt;/a&gt; est un script très pratique permettant de faire la sauvegarde d&amp;rsquo;un serveur dédié. Ce script est utilisé pour effectuer la sauvegarde de la dédibox qui héberge &lt;a href=&#34;http://franek.chicour.net&#34;&gt;ce site&lt;/a&gt; et &lt;a href=&#34;http://www.chicour.net&#34;&gt;ces satellites&lt;/a&gt;. Par défaut, ce script ne propose pas de contrôle des fichiers déposés sur le serveur de sauvegarde ou d&amp;rsquo;envoi d&amp;rsquo;un email lors de la fin de l&amp;rsquo;exécution de la sauvegarde.&lt;/p&gt;&#xA;&lt;p&gt;Il est possible d&amp;rsquo;ajouter des fonctionnalités à ce script via des hooks exécutés avant ou après la sauvegarde. &lt;a href=&#34;http://www.alsacreations.com&#34;&gt;Alsacréations&lt;/a&gt; propose un &lt;a href=&#34;http://www.alsacreations.com/tuto/lire/618-Sauvegarde-backup-manager.html&#34;&gt;exemple de hook&lt;/a&gt; permettant d&amp;rsquo;envoyer un mail à la fin de l&amp;rsquo;exécution de la sauvegarde. Malheureusement, ce script ne vérifie pas que les fichiers ont bien été déposés sur le serveur de sauvegarde et que les fichiers sont bien complets. Ce script n&amp;rsquo;est utile que si la méthode d&amp;rsquo;upload est FTP. Dans le cadre d&amp;rsquo;une autre méthode d&amp;rsquo;upload (rsync, par exemple), le contrôle peut être exécuté nativement.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

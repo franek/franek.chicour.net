@@ -1,22 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>profiling on ::franek::</title>
+    <title>Profiling on ::franek::</title>
     <link>https://franek.chicour.net/tags/profiling/</link>
-    <description>Recent content in profiling on ::franek::</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 15 Apr 2011 11:58:00 +0200</lastBuildDate><atom:link href="https://franek.chicour.net/tags/profiling/feed/rss2" rel="self" type="application/rss+xml" />
+    <description>Recent content in Profiling on ::franek::</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <lastBuildDate>Tue, 27 Nov 2012 21:13:27 +0100</lastBuildDate>
+    <atom:link href="https://franek.chicour.net/tags/profiling/feed/rss2" rel="self" type="application/rss+xml" />
     <item>
       <title>Installer xhprof et xhprof gui sur Zend Server</title>
       <link>https://franek.chicour.net/post/installer-xhprof-et-xhprof-gui-sur-zend-server/</link>
       <pubDate>Fri, 15 Apr 2011 11:58:00 +0200</pubDate>
-      
       <guid>https://franek.chicour.net/post/installer-xhprof-et-xhprof-gui-sur-zend-server/</guid>
-      <description>Xhprof est un profiler de code PHP. C&amp;rsquo;est un concurrent de Xdebug développé par Facebook.
-Il a le gros avantage de permettre de visualiser l&amp;rsquo;évolution de la mémoire. A ma connaissance, Xdebug ne le permet pas.
-Il ne nécessite pas l&amp;rsquo;utilisation d&amp;rsquo;un logiciel tiers (type KCachegrind, non disponible sous Windows&amp;hellip;argh&amp;hellip;) et peut être installé sur un serveur de production sans, normalement, trop dégrader les performances.
-Je vais ici vous décrire son installation sur Zend Server CE et l&amp;rsquo;installation de xhprof gui</description>
+      <description>&lt;p&gt;&lt;a href=&#34;http://mirror.facebook.net/facebook/xhprof/doc.html&#34; title=&#34;xhprof&#34;&gt;Xhprof&lt;/a&gt; est un profiler de code PHP. C&amp;rsquo;est un concurrent de Xdebug développé par Facebook.&lt;/p&gt;&#xA;&lt;p&gt;Il a le gros avantage de permettre de visualiser l&amp;rsquo;évolution de la mémoire. A ma connaissance, Xdebug ne le permet pas.&lt;/p&gt;&#xA;&lt;p&gt;Il ne nécessite pas l&amp;rsquo;utilisation d&amp;rsquo;un logiciel tiers (type KCachegrind, non disponible sous Windows&amp;hellip;argh&amp;hellip;) et peut être installé sur un serveur de production sans, normalement, trop dégrader les performances.&lt;/p&gt;&#xA;&lt;p&gt;Je vais ici vous décrire son installation sur Zend Server CE et l&amp;rsquo;installation de &lt;em&gt;xhprof gui&lt;/em&gt;&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

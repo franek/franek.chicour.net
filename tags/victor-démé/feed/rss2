@@ -1,22 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>victor démé on ::franek::</title>
+    <title>Victor Démé on ::franek::</title>
     <link>https://franek.chicour.net/tags/victor-d%C3%A9m%C3%A9/</link>
-    <description>Recent content in victor démé on ::franek::</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 01 Jun 2008 13:39:00 +0200</lastBuildDate><atom:link href="https://franek.chicour.net/tags/victor-d%C3%A9m%C3%A9/feed/rss2" rel="self" type="application/rss+xml" />
+    <description>Recent content in Victor Démé on ::franek::</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <lastBuildDate>Sun, 01 Jun 2008 13:39:00 +0200</lastBuildDate>
+    <atom:link href="https://franek.chicour.net/tags/victor-d%C3%A9m%C3%A9/feed/rss2" rel="self" type="application/rss+xml" />
     <item>
       <title>Victor Démé</title>
       <link>https://franek.chicour.net/post/victor-deme/</link>
       <pubDate>Sun, 01 Jun 2008 13:39:00 +0200</pubDate>
-      
       <guid>https://franek.chicour.net/post/victor-deme/</guid>
-      <description>Découvert grâce à Nova, VIctor Médé distille un blues mandingue du Burkina Faso. Une réelle découverte,&amp;hellip;
-Il sera en concert au festival du bout du monde sur la presqu&amp;rsquo;ile de Crozon début août dont la programmation est assez exceptionnelle.
-Extrait :
-[![free music](http://www.deezer.com/embedded/footer.jpg &#34;free music&#34;)](http://www.deezer.com/fr/victor-dem-.html) </description>
+      <description>&lt;p&gt;Découvert &lt;a href=&#34;http://www.novaplanet.com/news/news,2247,dimanche-18-mai-victor-deme.html&#34;&gt;grâce à Nova&lt;/a&gt;, VIctor Médé distille un blues mandingue du Burkina Faso. Une réelle découverte,&amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;Il sera en concert au &lt;a href=&#34;http://www.festivalduboutdumonde.com/&#34;&gt;festival du bout du monde&lt;/a&gt; sur la presqu&amp;rsquo;ile de Crozon début août dont la programmation est assez exceptionnelle.&lt;/p&gt;&#xA;&lt;p&gt;Extrait :&lt;/p&gt;&#xA;&lt;div style=&#34;width:180px;height:25px;&#34;&gt;&lt;object height=&#34;25&#34; width=&#34;180&#34;&gt;&lt;param name=&#34;movie&#34; value=&#34;http://www.deezer.com/embedded/small-widget.swf?idSong=515569&amp;colorBackground=0x525252&amp;colorButtons=0xDDDDDD&amp;textColor1=0xFFFFFF&amp;autoplay=0&#34;&gt;&lt;/param&gt;&lt;embed height=&#34;25&#34; src=&#34;http://www.deezer.com/embedded/small-widget.swf?idSong=515569&amp;colorBackground=0x525252&amp;colorButtons=0xDDDDDD&amp;textColor1=0xFFFFFF&amp;autoplay=0&#34; type=&#34;application/x-shockwave-flash&#34; width=&#34;180&#34;&gt;&lt;/embed&gt;&lt;/object&gt;[![free music](http://www.deezer.com/embedded/footer.jpg &#34;free music&#34;)](http://www.deezer.com/fr/victor-dem-.html)&lt;/div&gt;</description>
     </item>
-    
   </channel>
 </rss>

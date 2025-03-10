@@ -4,17 +4,16 @@
     <title>Kubernetes on ::franek::</title>
     <link>https://franek.chicour.net/tags/kubernetes/</link>
     <description>Recent content in Kubernetes on ::franek::</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 31 Mar 2024 11:34:13 +0100</lastBuildDate><atom:link href="https://franek.chicour.net/tags/kubernetes/feed/rss2" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <lastBuildDate>Sun, 31 Mar 2024 11:34:13 +0100</lastBuildDate>
+    <atom:link href="https://franek.chicour.net/tags/kubernetes/feed/rss2" rel="self" type="application/rss+xml" />
     <item>
       <title>Retour sur la KubeCon et CLoudNativeCon Europe 2024</title>
       <link>https://franek.chicour.net/post/2024-kubecon-europe/</link>
       <pubDate>Sun, 31 Mar 2024 11:34:13 +0100</pubDate>
-      
       <guid>https://franek.chicour.net/post/2024-kubecon-europe/</guid>
-      <description>Grâce à mon gentil employeur, j&amp;rsquo;ai participé pour la première fois à la KubeCon + CloudNativeCon + other CNCF Events Europe. Cette édition avait lieu à Paris à Porte de Versailles.
-Cette conférence est dédiée à l&amp;rsquo;écosystème Kubernetes et aux projets incubés auprès de la CNCF (Cloud Native and Computing Foundation). On retrouve au sein de la CNCF des projets comme bien entendu Kubernetes mais également Prometheus, OpenTelemetry, OpenFeature, Backstage, Keda, Helm, &amp;hellip; (et bien d&amp;rsquo;autres)</description>
+      <description>&lt;p&gt;Grâce à mon gentil &lt;a href=&#34;https://www.arte.tv/&#34;&gt;employeur&lt;/a&gt;, j&amp;rsquo;ai participé pour la première fois à la &lt;a href=&#34;https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/&#34;&gt;KubeCon + CloudNativeCon + other CNCF Events Europe&lt;/a&gt;. Cette édition avait lieu à Paris à Porte de Versailles.&lt;/p&gt;&#xA;&lt;p&gt;Cette conférence est dédiée à l&amp;rsquo;écosystème Kubernetes et aux projets incubés auprès de la &lt;a href=&#34;https://www.cncf.io/&#34;&gt;CNCF&lt;/a&gt; (Cloud Native and Computing Foundation). On retrouve au sein de la CNCF des projets comme bien entendu Kubernetes mais également Prometheus, OpenTelemetry, OpenFeature, Backstage, Keda, Helm, &amp;hellip; (et &lt;a href=&#34;https://landscape.cncf.io/&#34;&gt;bien d&amp;rsquo;autres&lt;/a&gt;)&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

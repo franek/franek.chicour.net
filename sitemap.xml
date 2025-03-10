@@ -1,3011 +1,1821 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://franek.chicour.net/</loc>
-    <lastmod>2024-03-31T11:34:13+01:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2025-03-10T22:00:13+01:00</lastmod>
+  </url><url>
+    <loc>https://franek.chicour.net/tags/dns/</loc>
+    <lastmod>2025-03-10T22:00:13+01:00</lastmod>
+  </url><url>
+    <loc>https://franek.chicour.net/post/</loc>
+    <lastmod>2025-03-10T22:00:13+01:00</lastmod>
+  </url><url>
+    <loc>https://franek.chicour.net/tags/rebinding/</loc>
+    <lastmod>2025-03-10T22:00:13+01:00</lastmod>
+  </url><url>
+    <loc>https://franek.chicour.net/tags/</loc>
+    <lastmod>2025-03-10T22:00:13+01:00</lastmod>
+  </url><url>
+    <loc>https://franek.chicour.net/tags/til/</loc>
+    <lastmod>2025-03-10T22:00:13+01:00</lastmod>
+  </url><url>
+    <loc>https://franek.chicour.net/post/dns-rebinding/</loc>
+    <lastmod>2025-03-10T22:00:13+01:00</lastmod>
+  </url><url>
     <loc>https://franek.chicour.net/tags/cncf/</loc>
     <lastmod>2024-03-31T11:34:13+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/conf%C3%A9rence/</loc>
     <lastmod>2024-03-31T11:34:13+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/kubernetes/</loc>
     <lastmod>2024-03-31T11:34:13+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://franek.chicour.net/post/</loc>
-    <lastmod>2024-03-31T11:34:13+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/2024-kubecon-europe/</loc>
     <lastmod>2024-03-31T11:34:13+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://franek.chicour.net/tags/</loc>
-    <lastmod>2024-03-31T11:34:13+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/cloud-nord/</loc>
     <lastmod>2023-10-31T21:34:13+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/cloud-nord-2023/</loc>
     <lastmod>2023-10-31T21:34:13+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/lille/</loc>
     <lastmod>2023-10-31T21:34:13+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/blog/</loc>
     <lastmod>2021-01-02T21:34:13+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/dotclear/</loc>
     <lastmod>2021-01-02T21:34:13+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/hugo/</loc>
     <lastmod>2021-01-02T21:34:13+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/markdown/</loc>
     <lastmod>2021-01-02T21:34:13+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/migration-de-ce-blog/</loc>
     <lastmod>2021-01-02T21:34:13+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/bakfiets/</loc>
     <lastmod>2017-05-08T21:02:08+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/bilan-d-un-an-a-biporteur/</loc>
     <lastmod>2017-05-08T21:02:08+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/biporteur/</loc>
     <lastmod>2017-05-08T21:02:08+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/v%C3%A9lo/</loc>
     <lastmod>2017-05-08T21:02:08+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/cover/</loc>
     <lastmod>2017-05-08T20:35:02+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/donovan/</loc>
     <lastmod>2017-05-08T20:35:02+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/get-thy-bearings/</loc>
     <lastmod>2017-05-08T20:35:02+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/king-crimson/</loc>
     <lastmod>2017-05-08T20:35:02+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/musique/</loc>
     <lastmod>2017-05-08T20:35:02+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/dell/</loc>
     <lastmod>2014-04-26T13:30:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/dell-vostro-3500-critical-temperature-reached-shutting-down-ubuntu/</loc>
     <lastmod>2014-04-26T13:30:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/geek/</loc>
     <lastmod>2018-07-28T12:34:30+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/i8k/</loc>
     <lastmod>2014-04-26T13:30:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/linux/</loc>
     <lastmod>2014-04-26T13:30:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/temperature/</loc>
     <lastmod>2014-04-26T13:30:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/ubuntu/</loc>
     <lastmod>2014-04-26T13:30:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/ventilateur/</loc>
     <lastmod>2014-04-26T13:30:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/vostro-3500/</loc>
     <lastmod>2014-04-26T13:30:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/bd/</loc>
     <lastmod>2014-01-06T21:52:14+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/derni%C3%A8res-lectures/</loc>
     <lastmod>2014-01-06T21:52:14+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/guide-du-mauvais-p%C3%A8re/</loc>
     <lastmod>2014-01-06T21:52:14+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/guy-delisle/</loc>
     <lastmod>2014-01-06T21:52:14+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/le-guide-du-mauvais-pere/</loc>
     <lastmod>2014-01-06T21:52:14+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/15d%C3%A9cembre2011/</loc>
     <lastmod>2013-12-15T18:10:41+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/camille/</loc>
     <lastmod>2013-12-15T18:10:41+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/deux-ans/</loc>
     <lastmod>2013-12-15T18:10:41+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/list/</loc>
     <lastmod>2013-11-19T13:31:18+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/lister-toutes-les-machines-d-un-reseau/</loc>
     <lastmod>2013-11-19T13:31:18+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/network/</loc>
     <lastmod>2013-11-19T13:31:18+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/nmap/</loc>
     <lastmod>2013-11-19T13:31:18+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/r%C3%A9seau/</loc>
     <lastmod>2013-11-19T13:31:18+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/2013/</loc>
     <lastmod>2013-10-19T23:16:16+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/accessibilit%C3%A9/</loc>
     <lastmod>2013-10-19T23:16:16+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/d%C3%A9veloppement-web/</loc>
     <lastmod>2013-10-19T23:16:16+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/paris/</loc>
     <lastmod>2013-10-19T23:16:16+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/paris-web/</loc>
     <lastmod>2013-10-19T23:16:16+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/paris-web-2013-j-y-etais/</loc>
     <lastmod>2013-10-19T23:16:16+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/qualit%C3%A9/</loc>
     <lastmod>2013-10-19T23:16:16+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/web/</loc>
     <lastmod>2013-10-19T23:16:16+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/firefox/</loc>
     <lastmod>2017-05-15T19:25:32+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/integration-de-keepass-avec-firefox/</loc>
     <lastmod>2017-05-15T19:25:32+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/keepass/</loc>
     <lastmod>2017-05-15T19:25:32+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/mot-de-passe/</loc>
     <lastmod>2017-05-15T19:25:32+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/s%C3%A9curit%C3%A9/</loc>
     <lastmod>2017-05-15T19:25:32+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/quelques-trucs-a-propos-de-ssh-et-ssh-agent/</loc>
     <lastmod>2013-07-22T14:23:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/ssh/</loc>
     <lastmod>2013-07-22T14:23:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/ssh-agent/</loc>
     <lastmod>2013-07-22T14:23:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/sysadmin/</loc>
     <lastmod>2013-07-22T14:23:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/arr%C3%AAt-sur-images/</loc>
     <lastmod>2014-01-06T21:55:26+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/calibre/</loc>
     <lastmod>2014-01-06T21:55:26+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/ebook/</loc>
     <lastmod>2018-07-28T12:34:30+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/liseuse/</loc>
     <lastmod>2018-07-28T12:34:30+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/news/</loc>
     <lastmod>2014-01-06T21:55:26+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/recette-recipe-arret-sur-images-pour-le-logiciel-libre-calibre/</loc>
     <lastmod>2014-01-06T21:55:26+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://franek.chicour.net/tags/actualit%C3%A9/societ%C3%A9/</loc>
+    <lastmod>2013-02-12T08:38:14+01:00</lastmod>
+  </url><url>
     <loc>https://franek.chicour.net/tags/d%C3%A9croissance/</loc>
     <lastmod>2013-02-12T08:38:14+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/revenu-de-base/</loc>
     <lastmod>2013-02-12T08:38:14+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/revenu-de-base/</loc>
     <lastmod>2013-02-12T08:38:14+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/soci%C3%A9t%C3%A9/</loc>
     <lastmod>2013-02-12T08:38:14+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/export/</loc>
     <lastmod>2013-02-21T21:09:49+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/exporter-une-page-web-avec-l-ensemble-des-assets-css-js-images/</loc>
     <lastmod>2013-02-21T21:09:49+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/html/</loc>
     <lastmod>2013-02-21T21:09:49+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/wget/</loc>
     <lastmod>2013-02-21T21:09:49+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/dol/</loc>
     <lastmod>2013-01-28T21:15:19+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://franek.chicour.net/tags/philippe-squarzonni/</loc>
-    <lastmod>2013-01-28T21:15:19+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://franek.chicour.net/tags/saison-brune/</loc>
-    <lastmod>2013-01-28T21:15:19+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://franek.chicour.net/post/vos-prochaines-lectures/</loc>
-    <lastmod>2013-01-28T21:15:19+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/%C3%A9cologie/</loc>
     <lastmod>2013-01-28T21:15:19+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://franek.chicour.net/tags/philippe-squarzonni/</loc>
+    <lastmod>2013-01-28T21:15:19+01:00</lastmod>
+  </url><url>
+    <loc>https://franek.chicour.net/tags/saison-brune/</loc>
+    <lastmod>2013-01-28T21:15:19+01:00</lastmod>
+  </url><url>
+    <loc>https://franek.chicour.net/post/vos-prochaines-lectures/</loc>
+    <lastmod>2013-01-28T21:15:19+01:00</lastmod>
+  </url><url>
     <loc>https://franek.chicour.net/tags/basebox/</loc>
     <lastmod>2013-03-11T22:49:57+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/centos/</loc>
     <lastmod>2013-03-11T22:49:57+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/creer-une-basebox-centos-6-2-pour-vagrant/</loc>
     <lastmod>2013-03-11T22:49:57+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/french/</loc>
     <lastmod>2013-03-11T22:49:57+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/ruby/</loc>
     <lastmod>2013-03-11T22:49:57+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/vagrant/</loc>
     <lastmod>2013-03-11T22:49:57+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/veewee/</loc>
     <lastmod>2013-03-11T22:49:57+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/virtualbox/</loc>
     <lastmod>2013-03-11T22:49:57+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/avis/</loc>
     <lastmod>2018-07-28T12:34:30+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/avis-sur-la-liseuse-sony-prs-t1/</loc>
     <lastmod>2018-07-28T12:34:30+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/livre-num%C3%A9rique/</loc>
     <lastmod>2018-07-28T12:34:30+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/reader/</loc>
     <lastmod>2018-07-28T12:34:30+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/sony-prs-t1/</loc>
     <lastmod>2018-07-28T12:34:30+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/andalousie/</loc>
     <lastmod>2013-03-11T22:55:07+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/cordoue/</loc>
     <lastmod>2013-03-11T22:55:07+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/espagne/</loc>
     <lastmod>2013-03-11T23:01:03+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/grenade/</loc>
     <lastmod>2013-03-11T22:55:07+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/l-alhambra/</loc>
     <lastmod>2013-03-11T22:55:07+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/le-meilleur-et-le-pire-de-seville-et-cordoue-et-grenade/</loc>
     <lastmod>2013-03-11T22:55:07+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/restaurant/</loc>
     <lastmod>2013-03-11T23:01:03+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/s%C3%A9ville/</loc>
     <lastmod>2013-03-11T22:55:07+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/tapas/</loc>
     <lastmod>2013-03-11T23:01:03+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/tourisme/</loc>
     <lastmod>2013-03-11T23:01:03+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/ch%C3%A2teau-de-saint-georges/</loc>
     <lastmod>2013-03-11T22:56:21+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/le-meilleur-et-le-pire-de-lisbonne/</loc>
     <lastmod>2013-03-11T22:56:21+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/lisbonne/</loc>
     <lastmod>2013-03-11T22:56:21+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/portugal/</loc>
     <lastmod>2013-03-11T22:58:29+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/quinoa/</loc>
     <lastmod>2013-03-11T22:56:21+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/road-trip-europe-sud/</loc>
     <lastmod>2013-03-11T23:01:03+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/tour-de-b%C3%A9l%C3%A8m/</loc>
     <lastmod>2013-03-11T22:56:21+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/azulejos/</loc>
     <lastmod>2013-03-11T22:58:29+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/bar/</loc>
     <lastmod>2013-03-11T22:58:29+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/le-meilleur-et-le-pire-de-porto/</loc>
     <lastmod>2013-03-11T22:58:29+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/porto/</loc>
     <lastmod>2013-03-11T22:58:29+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/home/</loc>
     <lastmod>2013-03-11T22:59:23+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/synology/</loc>
     <lastmod>2013-03-11T22:59:23+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/synology-et-variable-d-environnement-home-pour-les-utilisateurs/</loc>
     <lastmod>2013-03-11T22:59:23+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/unix/</loc>
     <lastmod>2013-03-11T22:59:23+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/variable-d-environnement/</loc>
     <lastmod>2013-03-11T22:59:23+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/chocolat-chaud/</loc>
     <lastmod>2013-03-11T23:01:03+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/churros/</loc>
     <lastmod>2013-03-11T23:01:03+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/hamburger/</loc>
     <lastmod>2013-03-11T23:01:03+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/le-meilleur-et-le-pire-de-madrid/</loc>
     <lastmod>2013-03-11T23:01:03+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/madrid/</loc>
     <lastmod>2013-03-11T23:01:03+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/aveiro/</loc>
     <lastmod>2012-03-25T17:04:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/interrail/</loc>
     <lastmod>2012-03-25T17:04:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/reservation-obligatoire-pour-le-trajet-porto-lisbonne-avec-un-pass-interrail/</loc>
     <lastmod>2012-03-25T17:04:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/train/</loc>
     <lastmod>2012-03-25T17:04:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/voyage/</loc>
     <lastmod>2012-03-25T17:04:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/comment-installer-l-extension-pack-pour-virtualbox/</loc>
     <lastmod>2012-02-11T15:39:06+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/extensionpack/</loc>
     <lastmod>2012-02-11T15:39:06+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/antibes/</loc>
     <lastmod>2012-02-08T11:10:44+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/cannes/</loc>
     <lastmod>2012-02-08T11:10:44+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/mus%C3%A9e/</loc>
     <lastmod>2012-02-08T11:10:44+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/quelques-bonnes-adresses-sur-la-cote-d-azur/</loc>
     <lastmod>2012-02-08T11:10:44+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/vallauris/</loc>
     <lastmod>2012-02-08T11:10:44+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/astuce/</loc>
     <lastmod>2012-01-04T21:06:02+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/crontab/</loc>
     <lastmod>2012-01-04T21:07:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://franek.chicour.net/tags/post-it/</loc>
-    <lastmod>2012-01-04T21:06:02+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://franek.chicour.net/post/post-it-crontab-et/</loc>
-    <lastmod>2012-01-04T21:06:02+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/%C3%A9chappement/</loc>
     <lastmod>2012-01-04T21:06:02+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://franek.chicour.net/tags/post-it/</loc>
+    <lastmod>2012-01-04T21:06:02+01:00</lastmod>
+  </url><url>
+    <loc>https://franek.chicour.net/post/post-it-crontab-et/</loc>
+    <lastmod>2012-01-04T21:06:02+01:00</lastmod>
+  </url><url>
     <loc>https://franek.chicour.net/tags/backup/</loc>
     <lastmod>2012-01-04T21:07:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/delicious/</loc>
     <lastmod>2012-01-04T21:07:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/exporter-les-bookmarks-delicious-automatiquement/</loc>
     <lastmod>2012-01-04T21:07:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/python/</loc>
     <lastmod>2012-01-04T21:07:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/lampes/</loc>
     <lastmod>2012-10-25T19:25:13+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/recyclage/</loc>
     <lastmod>2012-10-25T19:25:13+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/recyclage-des-lampes/</loc>
     <lastmod>2012-10-25T19:25:13+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/afup/</loc>
     <lastmod>2011-12-23T15:53:40+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/php/</loc>
     <lastmod>2012-11-27T21:13:27+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/phptour/</loc>
     <lastmod>2011-12-23T15:53:40+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/retour-sur-le-phptour-de-lille/</loc>
     <lastmod>2011-12-23T15:53:40+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/int%C3%A9gration-continue/</loc>
     <lastmod>2011-10-23T17:00:15+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/jenkins/</loc>
     <lastmod>2011-10-23T17:00:15+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/jenkins-respect-des-conventions-de-codage-javascript-avec-jslint/</loc>
     <lastmod>2011-10-23T17:00:15+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/jslint/</loc>
     <lastmod>2011-10-23T17:00:15+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/phing/</loc>
     <lastmod>2011-10-23T17:00:15+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/ds-211/</loc>
     <lastmod>2011-09-24T13:11:16+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/hp/</loc>
     <lastmod>2011-09-24T13:11:16+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/post-it-synology-partage-d-un-scanner-sur-le-reseau/</loc>
     <lastmod>2011-09-24T13:11:16+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/psc-1100/</loc>
     <lastmod>2011-09-24T13:11:16+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/scanner/</loc>
     <lastmod>2011-09-24T13:11:16+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/astuces/</loc>
     <lastmod>2011-08-12T14:55:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/git/</loc>
     <lastmod>2011-10-23T17:00:15+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/git-svn/</loc>
     <lastmod>2011-08-12T14:55:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/quelques-trucs-et-astuces-concernant-git-et-git-svn/</loc>
     <lastmod>2011-08-12T14:55:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/corkscrew/</loc>
     <lastmod>2011-10-11T12:44:24+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/post-it-acceder-a-un-depot-git-a-traver-un-proxy/</loc>
     <lastmod>2011-10-11T12:44:24+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/proxy/</loc>
     <lastmod>2011-10-11T12:44:24+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/auvergne/</loc>
     <lastmod>2011-05-30T18:33:10+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/la-bourboule/</loc>
     <lastmod>2011-05-30T18:33:10+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/mont-dore/</loc>
     <lastmod>2011-05-30T18:33:10+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/post-it-week-end-en-auvergne/</loc>
     <lastmod>2011-05-30T18:33:10+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/puy-de-d%C3%B4me/</loc>
     <lastmod>2011-05-30T18:33:10+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/puy-de-sancy/</loc>
     <lastmod>2011-05-30T18:33:10+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/volcan/</loc>
     <lastmod>2011-05-30T18:33:10+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/apache/</loc>
     <lastmod>2011-10-23T17:00:15+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/keepalive/</loc>
     <lastmod>2011-10-23T17:00:15+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/keepalive-on-et-ssl-avec-internet-explorer/</loc>
     <lastmod>2011-10-23T17:00:15+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/ssl/</loc>
     <lastmod>2011-10-23T17:00:15+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/webperf/</loc>
     <lastmod>2011-10-23T17:00:15+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/atelier/</loc>
     <lastmod>2011-10-23T17:00:15+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/performance/</loc>
     <lastmod>2011-10-23T17:00:15+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/retour-sur-la-soiree-webperf-du-21-avril-2011/</loc>
     <lastmod>2011-10-23T17:00:15+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/webperf-user-group/</loc>
     <lastmod>2011-10-23T17:00:15+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/installer-xhprof-et-xhprof-gui-sur-zend-server/</loc>
     <lastmod>2012-11-27T21:13:27+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/profiling/</loc>
     <lastmod>2012-11-27T21:13:27+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/xdebug/</loc>
     <lastmod>2012-11-27T21:13:27+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/xhprof/</loc>
     <lastmod>2012-11-27T21:13:27+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/zend-server/</loc>
     <lastmod>2012-11-27T21:13:27+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/iptables/</loc>
     <lastmod>2011-03-04T23:04:19+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/linux-acces-a-mysql-derriere-un-firewall-iptables/</loc>
     <lastmod>2011-03-04T23:04:19+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/mysql/</loc>
     <lastmod>2011-03-04T23:04:19+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/apc/</loc>
     <lastmod>2011-10-23T17:00:15+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/apc-et-zend-server/</loc>
     <lastmod>2011-10-23T17:00:15+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/zend/</loc>
     <lastmod>2011-10-23T17:00:15+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/brick-lane/</loc>
     <lastmod>2011-02-05T14:32:39+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/londres/</loc>
     <lastmod>2011-02-05T14:32:39+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/week-end-a-londres/</loc>
     <lastmod>2011-02-05T14:32:39+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/aventure/</loc>
     <lastmod>2010-12-31T18:05:20+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/se-rendre-en-suede-en-train/</loc>
     <lastmod>2010-12-31T18:05:20+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/su%C3%A8de/</loc>
     <lastmod>2010-12-31T18:05:20+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/trajet/</loc>
     <lastmod>2010-12-31T18:05:20+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/design/</loc>
     <lastmod>2011-10-23T17:00:15+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/retour-sur-paris-web-2010/</loc>
     <lastmod>2011-10-23T17:00:15+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/bayonne/</loc>
     <lastmod>2010-09-26T13:12:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/bordeaux/</loc>
     <lastmod>2010-09-26T13:12:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/cap-ferret/</loc>
     <lastmod>2010-09-26T13:12:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/dune-du-pilat/</loc>
     <lastmod>2010-09-26T13:12:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/les-vacances-en-forme-de-marathon/</loc>
     <lastmod>2010-09-26T13:12:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/marathon/</loc>
     <lastmod>2010-09-26T13:12:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/m%C3%A9doc/</loc>
     <lastmod>2010-09-26T13:12:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/saint-emilion/</loc>
     <lastmod>2010-09-26T13:12:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/autour-de-paris/</loc>
     <lastmod>2011-10-16T15:09:19+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/bateau-mouche/</loc>
     <lastmod>2010-08-29T11:50:51+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/canauxrama/</loc>
     <lastmod>2010-08-29T11:50:51+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/la-seine/</loc>
     <lastmod>2010-08-29T11:50:51+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/une-autre-vision-du-bateau-mouche-a-paris/</loc>
     <lastmod>2010-08-29T11:50:51+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/gitattitude/</loc>
     <lastmod>2011-10-23T17:00:15+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/retour-sur-le-premier-atelier-git-attitude/</loc>
     <lastmod>2011-10-23T17:00:15+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/subversion/</loc>
     <lastmod>2011-10-23T17:00:15+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/ubuntu-subversion-et-editeur-par-defaut/</loc>
     <lastmod>2011-10-23T17:00:15+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/cherokee/</loc>
     <lastmod>2011-10-16T21:34:54+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/cherokee-et-dotclear-sont-dans-un-bateau/</loc>
     <lastmod>2011-10-16T21:34:54+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/installation/</loc>
     <lastmod>2011-10-16T21:34:54+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/barcelone/</loc>
     <lastmod>2010-05-18T18:19:55+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/catalogne/</loc>
     <lastmod>2010-05-18T18:19:55+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/les-bonnes-adresses-de-catalogne/</loc>
     <lastmod>2010-05-18T18:19:55+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/lamp/</loc>
     <lastmod>2010-04-09T16:34:16+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/oracle/</loc>
     <lastmod>2011-10-16T15:11:23+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/utiliser-plusieurs-versions-de-php-et-switcher-facilement-d-une-version-a-l-autre-sous-ubuntu/</loc>
     <lastmod>2010-04-09T16:34:16+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/encodage/</loc>
     <lastmod>2011-10-16T15:11:23+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/zend-platform/</loc>
     <lastmod>2011-10-16T15:11:23+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/zend-server-5-et-oracle/</loc>
     <lastmod>2011-10-16T15:11:23+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/cocktail/</loc>
     <lastmod>2010-02-24T21:39:04+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/cocktail-peruvien-le-pisco-sour/</loc>
     <lastmod>2010-02-24T21:39:04+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://franek.chicour.net/tags/pisco/</loc>
-    <lastmod>2010-02-24T21:39:04+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://franek.chicour.net/tags/pisco-sour/</loc>
-    <lastmod>2010-02-24T21:39:04+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/p%C3%A9rou/</loc>
     <lastmod>2010-02-24T21:39:04+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://franek.chicour.net/tags/pisco/</loc>
+    <lastmod>2010-02-24T21:39:04+01:00</lastmod>
+  </url><url>
+    <loc>https://franek.chicour.net/tags/pisco-sour/</loc>
+    <lastmod>2010-02-24T21:39:04+01:00</lastmod>
+  </url><url>
     <loc>https://franek.chicour.net/tags/arequipa/</loc>
     <lastmod>2010-01-31T22:31:44+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/cusco/</loc>
     <lastmod>2010-01-31T22:31:44+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/h%C3%B4tel/</loc>
     <lastmod>2010-01-31T22:31:44+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/les-bonnes-adresses-du-perou/</loc>
     <lastmod>2010-01-31T22:31:44+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/lima/</loc>
     <lastmod>2010-01-31T22:31:44+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/puno/</loc>
     <lastmod>2010-01-31T22:31:44+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/don/</loc>
     <lastmod>2010-01-31T18:12:54+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/hadopi/</loc>
     <lastmod>2010-01-31T18:12:54+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/je-soutiens-la-quadrature-du-net/</loc>
     <lastmod>2010-01-31T18:12:54+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/loppsi/</loc>
     <lastmod>2010-01-31T18:12:54+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/quadrature/</loc>
     <lastmod>2010-01-31T18:12:54+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/soutien/</loc>
     <lastmod>2010-01-31T18:12:54+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/itin%C3%A9raire/</loc>
     <lastmod>2010-01-11T18:59:47+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/itineraire-peruvien/</loc>
     <lastmod>2010-01-11T18:59:47+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/machu-pichu/</loc>
     <lastmod>2010-01-11T18:59:47+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/andes/</loc>
     <lastmod>2010-01-10T13:12:01+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/c-est-pas-sorcier/</loc>
     <lastmod>2010-01-10T13:12:01+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/c-est-pas-sorcier-special-machu-pichu/</loc>
     <lastmod>2010-01-10T13:12:01+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/france3/</loc>
     <lastmod>2010-01-10T13:12:01+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/amelioration-du-post-script-de-backup-manager/</loc>
     <lastmod>2010-08-17T13:36:24+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/backup-manager/</loc>
     <lastmod>2010-08-17T13:36:24+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/hook/</loc>
     <lastmod>2010-08-17T13:36:24+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/sauvegarde/</loc>
     <lastmod>2010-08-17T13:36:24+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/proxycommand/</loc>
     <lastmod>2011-10-16T15:12:35+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/rebond/</loc>
     <lastmod>2011-10-16T15:12:35+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/ssh-simplifier-les-connexions-avec-rebond/</loc>
     <lastmod>2011-10-16T15:12:35+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/tunnel/</loc>
     <lastmod>2011-10-16T15:12:35+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/authentifcation/</loc>
     <lastmod>2011-10-16T21:35:39+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/d%C3%A9l%C3%A9gation/</loc>
     <lastmod>2011-10-16T21:35:39+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/mise-en-place-de-la-delegation-d-authentification-openid/</loc>
     <lastmod>2011-10-16T21:35:39+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/openid/</loc>
     <lastmod>2011-10-16T21:35:39+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/segmentation-fault/</loc>
     <lastmod>2009-11-09T09:25:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/segmentation-fault-avec-la-zend-platform-et-le-composant-zend-cache-du-zend-framework/</loc>
     <lastmod>2009-11-09T09:25:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/zend-cache/</loc>
     <lastmod>2009-11-09T09:25:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/zend-framework/</loc>
     <lastmod>2009-11-09T09:25:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/biarritz/</loc>
     <lastmod>2009-11-08T16:24:23+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/pays-basque/</loc>
     <lastmod>2009-11-08T16:24:23+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/un-week-end-au-pays-basque/</loc>
     <lastmod>2009-11-08T16:24:23+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/concert/</loc>
     <lastmod>2009-10-14T22:20:54+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/general-elektriks/</loc>
     <lastmod>2009-10-14T22:20:54+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/les-concerts-du-moment/</loc>
     <lastmod>2009-10-14T22:20:54+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/mathieu-boogaerts/</loc>
     <lastmod>2009-10-14T22:20:54+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/robert-fripp/</loc>
     <lastmod>2009-10-14T22:20:54+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/paris-web-2009-c-est-fini/</loc>
     <lastmod>2009-10-24T12:30:44+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/support-informatique-bonjour/</loc>
     <lastmod>2009-09-02T13:45:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/2009/</loc>
     <lastmod>2009-07-25T19:28:16+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://franek.chicour.net/post/nous-n-irons-pas-a-la-plage/</loc>
-    <lastmod>2009-07-25T19:28:16+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://franek.chicour.net/tags/plage/</loc>
-    <lastmod>2009-07-25T19:28:16+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/%C3%A9t%C3%A9/</loc>
     <lastmod>2009-07-25T19:28:16+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://franek.chicour.net/post/nous-n-irons-pas-a-la-plage/</loc>
+    <lastmod>2009-07-25T19:28:16+02:00</lastmod>
+  </url><url>
+    <loc>https://franek.chicour.net/tags/plage/</loc>
+    <lastmod>2009-07-25T19:28:16+02:00</lastmod>
+  </url><url>
     <loc>https://franek.chicour.net/tags/bruinisse/</loc>
     <lastmod>2009-07-19T21:42:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/goes/</loc>
     <lastmod>2009-07-19T21:42:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/pays-bas/</loc>
     <lastmod>2009-07-19T21:42:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/veere/</loc>
     <lastmod>2009-07-19T21:42:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/voile-aux-pays-bas/</loc>
     <lastmod>2009-07-19T21:42:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/zeeland/</loc>
     <lastmod>2009-07-19T21:42:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/zierikzee/</loc>
     <lastmod>2009-07-19T21:42:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/planning-des-concerts-parisiens-de-l-ete/</loc>
     <lastmod>2009-07-03T21:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://franek.chicour.net/tags/europe/</loc>
-    <lastmod>2009-06-08T23:12:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://franek.chicour.net/post/les-vrais-resultats-des-europeennes-2009/</loc>
-    <lastmod>2009-06-08T23:12:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/%C3%A9lection/</loc>
     <lastmod>2009-06-08T23:12:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://franek.chicour.net/tags/europe/</loc>
+    <lastmod>2009-06-08T23:12:00+02:00</lastmod>
+  </url><url>
+    <loc>https://franek.chicour.net/post/les-vrais-resultats-des-europeennes-2009/</loc>
+    <lastmod>2009-06-08T23:12:00+02:00</lastmod>
+  </url><url>
     <loc>https://franek.chicour.net/post/adoptez-la-zen-attitude-dans-le-metro-parisien/</loc>
     <lastmod>2009-05-24T12:32:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/inde/</loc>
     <lastmod>2009-05-24T12:32:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/m%C3%A9tro/</loc>
     <lastmod>2009-05-24T12:32:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/yoga/</loc>
     <lastmod>2009-05-24T12:32:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/imp%C3%B4ts/</loc>
     <lastmod>2009-05-05T23:39:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/n-oubliez-pas-votre-lettre-aux-impots/</loc>
     <lastmod>2009-05-05T23:39:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/snoopy/</loc>
     <lastmod>2009-05-05T23:39:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/brant%C3%B4me/</loc>
     <lastmod>2009-05-05T23:37:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/grotte-de-villars/</loc>
     <lastmod>2009-05-05T23:37:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/p%C3%A9rigord/</loc>
     <lastmod>2009-05-05T23:37:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/retour-de-dordogne/</loc>
     <lastmod>2009-05-05T23:37:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/saint-jean-de-c%C3%B4le/</loc>
     <lastmod>2009-05-05T23:37:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/autour-de-lille/</loc>
     <lastmod>2009-04-27T21:10:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/chez-la-vieille/</loc>
     <lastmod>2009-04-27T21:10:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/deux-nouveaux-estaminets/</loc>
     <lastmod>2009-04-27T21:10:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/estaminet/</loc>
     <lastmod>2009-04-27T21:10:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/flandres/</loc>
     <lastmod>2009-04-27T21:10:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/la-chaise-de-la-sorci%C3%A8re/</loc>
     <lastmod>2009-04-27T21:10:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/9.04/</loc>
     <lastmod>2009-04-27T20:03:13+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/jaunty-jalope/</loc>
     <lastmod>2009-04-27T20:03:13+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/passer-a-ubuntu-9-04-sans-graver-un-cd-rom/</loc>
     <lastmod>2009-04-27T20:03:13+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/upgrade/</loc>
     <lastmod>2009-04-27T20:03:13+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/funk/</loc>
     <lastmod>2012-07-23T20:44:31+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/seventies/</loc>
     <lastmod>2009-04-19T23:38:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/sixties/</loc>
     <lastmod>2009-04-19T23:38:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/so-funky/</loc>
     <lastmod>2009-04-19T23:38:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/v%C3%AAtements/</loc>
     <lastmod>2009-04-19T23:38:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/back-from-dublin/</loc>
     <lastmod>2009-04-08T21:25:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/dublin/</loc>
     <lastmod>2009-04-08T21:25:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/irlande/</loc>
     <lastmod>2009-04-08T21:25:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/internet/</loc>
     <lastmod>2009-04-07T23:26:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/je-ne-veux-pas-d-hadopi/</loc>
     <lastmod>2009-04-07T23:26:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/mp3/</loc>
     <lastmod>2009-03-26T23:02:23+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/musicbrainz/</loc>
     <lastmod>2009-03-26T23:02:23+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/recuperer-les-tag-mp3-a-partir-d-une-empreinte-musicale/</loc>
     <lastmod>2009-03-26T23:02:23+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/tag/</loc>
     <lastmod>2009-03-26T23:02:23+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/culture/</loc>
     <lastmod>2009-03-16T23:02:31+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/lille-3000-une-europe-en-xxl/</loc>
     <lastmod>2009-03-16T23:02:31+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/lille2004/</loc>
     <lastmod>2009-03-16T23:02:31+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/lille3000/</loc>
     <lastmod>2009-03-16T23:02:31+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/ceci-est-un-communique-de-l-industrie-du-divertissement-de-masse-vu-sur-linuxfr/</loc>
     <lastmod>2009-03-03T14:21:43+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/arrache/</loc>
     <lastmod>2009-03-01T18:13:42+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/gestion-de-projet/</loc>
     <lastmod>2009-03-01T18:13:42+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/une-nouvelle-methode-de-gestion-de-projet/</loc>
     <lastmod>2009-03-01T18:13:42+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/ce-matin-un-lapin/</loc>
     <lastmod>2012-10-25T19:25:13+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/construction/</loc>
     <lastmod>2012-10-25T19:25:13+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/maison/</loc>
     <lastmod>2012-10-25T19:25:13+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/en-vrac/</loc>
     <lastmod>2009-02-02T23:13:26+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/en-vrac/</loc>
     <lastmod>2009-02-02T23:13:26+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/video/</loc>
     <lastmod>2009-02-02T23:13:26+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/facebook/</loc>
     <lastmod>2009-01-15T23:32:32+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/identit%C3%A9-num%C3%A9rique/</loc>
     <lastmod>2009-01-15T23:32:32+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/l-identite-numerique-en-question/</loc>
     <lastmod>2009-01-15T23:32:32+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/web2.0/</loc>
     <lastmod>2009-01-15T23:32:32+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/l-histoire-des-choses/</loc>
     <lastmod>2009-01-03T13:51:08+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/argent/</loc>
     <lastmod>2009-01-02T17:35:49+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/d-ou-vient-l-argent/</loc>
     <lastmod>2009-01-02T17:35:49+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/dette/</loc>
     <lastmod>2009-01-02T17:35:49+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/origine/</loc>
     <lastmod>2009-01-02T17:35:49+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/paris-web-2008/</loc>
     <lastmod>2011-10-16T22:08:58+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/paris-web-2008-panorama-des-bonnes-pratiques-web/</loc>
     <lastmod>2011-10-16T22:08:58+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/bush/</loc>
     <lastmod>2008-12-18T23:46:49+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/george-w-bush-scelerat-jusqu-au-bout/</loc>
     <lastmod>2008-12-18T23:46:49+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/usa/</loc>
     <lastmod>2008-12-18T23:46:49+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/forum/</loc>
     <lastmod>2008-12-10T23:42:55+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/forum-php-afup-2008/</loc>
     <lastmod>2008-12-10T23:42:55+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/article-a-destination-de-notre-cher-president/</loc>
     <lastmod>2011-10-16T15:09:40+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/nicolas-sarkozy/</loc>
     <lastmod>2011-10-16T15:09:40+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/compte-rendu-paris-web-2008/</loc>
     <lastmod>2008-11-23T22:25:15+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/dernieres-lectures/</loc>
     <lastmod>2009-01-12T23:02:58+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/livre/</loc>
     <lastmod>2009-01-12T23:02:58+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/avishai-cohen/</loc>
     <lastmod>2008-11-11T22:17:39+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/contrebassite/</loc>
     <lastmod>2008-11-11T22:17:39+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/jazz/</loc>
     <lastmod>2008-11-11T22:17:39+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/le-contrebassite-du-moment-avishai-cohen/</loc>
     <lastmod>2008-11-11T22:17:39+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/les-40-ans-de-magma/</loc>
     <lastmod>2008-11-06T23:05:49+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/magma/</loc>
     <lastmod>2008-11-06T23:05:49+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/rock-progressif/</loc>
     <lastmod>2008-11-06T23:05:49+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://franek.chicour.net/post/etymologie-de-o-k/</loc>
-    <lastmod>2008-11-06T22:31:29+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/%C3%A9tymologie/</loc>
     <lastmod>2008-11-06T22:31:29+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://franek.chicour.net/post/etymologie-de-o-k/</loc>
+    <lastmod>2008-11-06T22:31:29+01:00</lastmod>
+  </url><url>
+    <loc>https://franek.chicour.net/tags/o.k./</loc>
+    <lastmod>2008-11-06T22:31:29+01:00</lastmod>
+  </url><url>
     <loc>https://franek.chicour.net/post/la-flandre-communique/</loc>
     <lastmod>2008-11-04T21:01:39+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/pub/</loc>
     <lastmod>2008-11-04T21:01:39+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/deezer/</loc>
     <lastmod>2008-11-03T01:21:23+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/lancement-de-streamdrag/</loc>
     <lastmod>2008-11-03T01:21:23+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/outillons-les-equipes-de-developpement-pour-un-web-de-qualite/</loc>
     <lastmod>2008-11-19T00:42:54+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/outils/</loc>
     <lastmod>2008-11-19T00:42:54+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/des-spectacles-en-milieu-rural/</loc>
     <lastmod>2009-01-05T15:45:09+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/c-est-la-crise/</loc>
     <lastmod>2008-10-20T23:06:05+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/chanson-fran%C3%A7aise/</loc>
     <lastmod>2008-10-20T23:06:05+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/treize-%C3%A0-table/</loc>
     <lastmod>2008-10-20T23:06:05+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/les-estaminets/</loc>
     <lastmod>2008-10-18T16:37:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/aria/</loc>
     <lastmod>2008-10-15T00:42:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/immobilier/</loc>
     <lastmod>2008-10-15T00:42:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/quelques-articles-en-vrac/</loc>
     <lastmod>2008-10-15T00:42:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/yahoo/</loc>
     <lastmod>2008-10-15T00:42:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/isra%C3%ABl/</loc>
     <lastmod>2008-10-09T22:36:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/moyen-orient/</loc>
     <lastmod>2008-10-09T22:36:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/palestine/</loc>
     <lastmod>2008-10-09T22:36:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/video-sur-le-conflit-israelo-palestinien/</loc>
     <lastmod>2008-10-09T22:36:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/les-bons-plans-pour-voyager-en-famille/</loc>
     <lastmod>2008-10-12T15:23:52+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/argentine/</loc>
     <lastmod>2008-10-02T22:51:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/cargo/</loc>
     <lastmod>2008-10-02T22:51:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/traverser-l-ocean-atlantique-sans-avion/</loc>
     <lastmod>2008-10-02T22:51:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/festival/</loc>
     <lastmod>2008-11-19T00:50:15+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/festival-de-jazz-de-la-villette/</loc>
     <lastmod>2008-09-15T22:17:32+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/festival-de-jazz-de-la-villette-2008-acte-v-et-vi/</loc>
     <lastmod>2008-09-15T22:17:32+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/sex-mob/</loc>
     <lastmod>2008-09-15T22:17:32+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/the-bad-plus/</loc>
     <lastmod>2008-09-15T22:17:32+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/festival-de-jazz-de-la-villette-acte-iv-tortoise/</loc>
     <lastmod>2008-09-13T12:05:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/post-rock/</loc>
     <lastmod>2008-09-13T12:05:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/tortoise/</loc>
     <lastmod>2008-09-13T12:05:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/erik-truffaz/</loc>
     <lastmod>2008-09-14T13:35:55+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/festival-de-jazz-de-la-villette-2008-acte-iii-pierre-henry-erik-truffaz/</loc>
     <lastmod>2008-09-14T13:35:55+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/pierre-henry/</loc>
     <lastmod>2008-09-14T13:35:55+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/ne-participez-plus-aux-pots-de-depart-d-arrivee/</loc>
     <lastmod>2008-09-11T19:03:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/la-croisi%C3%A8re-s-amuse/</loc>
     <lastmod>2008-09-10T00:15:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/la-croisiere-s-amuse/</loc>
     <lastmod>2008-09-10T00:15:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/love-boat/</loc>
     <lastmod>2008-09-10T00:15:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/orange-z%C3%A8bre/</loc>
     <lastmod>2008-09-10T00:15:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/retour-de-rome/</loc>
     <lastmod>2008-09-10T00:05:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/rome/</loc>
     <lastmod>2008-09-10T00:05:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/archie-shepp/</loc>
     <lastmod>2008-09-08T22:05:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/charles-lloyd/</loc>
     <lastmod>2008-09-08T22:05:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/festival-de-jazz-de-la-villette-2008-acte-i-et-ii/</loc>
     <lastmod>2008-09-08T22:05:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/la-villette/</loc>
     <lastmod>2008-09-08T22:05:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/zakir-hussain/</loc>
     <lastmod>2008-09-08T22:05:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/lecon-de-musique-par-ravi-shankar-a-la-salle-pleyel/</loc>
     <lastmod>2008-09-03T18:09:21+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/ravi-shankar/</loc>
     <lastmod>2008-09-03T18:09:21+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/salle-pleyel/</loc>
     <lastmod>2008-09-03T18:09:21+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/les-festivals-de-jazz-de-la-rentree/</loc>
     <lastmod>2008-10-12T15:35:29+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/abd-al-malik/</loc>
     <lastmod>2008-08-09T12:04:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/la-voix-de-nina-simone/</loc>
     <lastmod>2008-08-09T12:04:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/nina-simone/</loc>
     <lastmod>2008-08-09T12:04:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/sinnerman/</loc>
     <lastmod>2008-08-09T12:04:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/exposition-le-monde-d-oum-kalsoum/</loc>
     <lastmod>2008-10-12T15:35:29+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/orient/</loc>
     <lastmod>2008-10-12T15:35:29+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/oum-kalsoum/</loc>
     <lastmod>2008-10-12T15:35:29+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/defunkt/</loc>
     <lastmod>2008-08-03T12:58:26+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/joseph-bowie/</loc>
     <lastmod>2008-08-03T12:58:26+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/joseph-bowie-defunkt-au-sunset-sunside/</loc>
     <lastmod>2008-08-03T12:58:26+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/sunset-sunside/</loc>
     <lastmod>2008-08-03T12:58:26+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/ali-farka-tour%C3%A9/</loc>
     <lastmod>2008-07-29T00:26:44+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/blues/</loc>
     <lastmod>2008-07-29T00:26:44+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/guitare/</loc>
     <lastmod>2012-10-25T19:25:46+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/la-tournee-de-vieux-farka-toure/</loc>
     <lastmod>2008-07-29T00:26:44+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/mali/</loc>
     <lastmod>2008-07-29T00:26:44+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/vieux-farka-tour%C3%A9/</loc>
     <lastmod>2008-07-29T00:26:44+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/blue-break-beat/</loc>
     <lastmod>2008-07-16T01:02:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/le-funk-de-lou-donaldson-au-duc-des-lombards/</loc>
     <lastmod>2008-07-16T01:02:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/lou-donaldson/</loc>
     <lastmod>2008-07-16T01:02:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/hainaut-cambr%C3%A9sis/</loc>
     <lastmod>2008-10-12T15:30:24+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/nord/</loc>
     <lastmod>2008-10-12T15:30:24+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/week-end-touristique-dans-le-nord/</loc>
     <lastmod>2008-10-12T15:30:24+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/la-sensation-nneka/</loc>
     <lastmod>2008-07-13T11:26:20+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/nneka/</loc>
     <lastmod>2008-07-13T11:26:20+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/nu-soul/</loc>
     <lastmod>2008-07-13T11:26:20+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/reggae/</loc>
     <lastmod>2008-07-13T11:26:20+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/la-chanson-du-dimanche-a-solidays/</loc>
     <lastmod>2008-07-07T19:07:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/afro-beat/</loc>
     <lastmod>2008-07-06T22:59:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/fanga/</loc>
     <lastmod>2008-07-06T22:59:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/l-afro-beat-de-fanga/</loc>
     <lastmod>2008-07-06T22:59:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/solidays/</loc>
     <lastmod>2008-07-06T22:59:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/lake-of-udaipur-le-tone/</loc>
     <lastmod>2008-07-05T10:03:58+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/jeu/</loc>
     <lastmod>2008-10-12T15:23:52+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/ou-est-charlie/</loc>
     <lastmod>2008-10-12T15:23:52+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/esbj%C3%B6rn-svensson/</loc>
     <lastmod>2008-06-17T18:50:41+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/esbjorn-svensson-nous-a-quitte/</loc>
     <lastmod>2008-06-17T18:50:41+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/pianiste/</loc>
     <lastmod>2008-06-17T18:50:41+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/grand-palais/</loc>
     <lastmod>2011-10-16T15:09:19+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/richard-serra/</loc>
     <lastmod>2011-10-16T15:09:19+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/richard-serra-au-grand-palais/</loc>
     <lastmod>2011-10-16T15:09:19+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/sitar/</loc>
     <lastmod>2008-06-01T22:07:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/tournee-d-adieu-de-ravi-shankar/</loc>
     <lastmod>2008-06-01T22:07:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/burkina-faso/</loc>
     <lastmod>2008-06-01T13:39:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/victor-deme/</loc>
     <lastmod>2008-06-01T13:39:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/victor-d%C3%A9m%C3%A9/</loc>
     <lastmod>2008-06-01T13:39:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/camille-a-la-cigale/</loc>
     <lastmod>2008-05-31T15:56:26+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/la-cigale/</loc>
     <lastmod>2008-05-31T15:56:26+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/petition-pour-l-accessibilite-numerique/</loc>
     <lastmod>2011-10-16T22:07:29+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/retour-d-espagne/</loc>
     <lastmod>2008-06-25T21:59:01+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/tol%C3%A8de/</loc>
     <lastmod>2008-06-25T21:59:01+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/visite-du-machu-pichu/</loc>
     <lastmod>2008-05-08T13:29:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/chine/</loc>
     <lastmod>2008-10-12T15:29:55+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/expo-les-soldats-de-l-eternite/</loc>
     <lastmod>2008-10-12T15:29:55+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/jos%C3%A9-fr%C3%A8ches/</loc>
     <lastmod>2008-10-12T15:29:55+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/looong-week-end-en-espagne/</loc>
     <lastmod>2008-05-06T10:13:56+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/le-site-des-assises-du-numerique-organisees-par-notre-secretaire-d-etat-eric-besson/</loc>
     <lastmod>2011-10-16T22:07:30+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/jeu-de-kubb/</loc>
     <lastmod>2008-04-16T22:41:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/kubb/</loc>
     <lastmod>2008-04-16T22:41:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/p%C3%A9tanque/</loc>
     <lastmod>2008-04-16T22:41:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/le-septieme-continent-compose-de-dechets/</loc>
     <lastmod>2008-04-06T18:27:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/pacifique/</loc>
     <lastmod>2008-04-06T18:27:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/alice-russell/</loc>
     <lastmod>2008-04-06T08:40:45+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/alice-russell-a-la-cigale/</loc>
     <lastmod>2008-04-06T08:40:45+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/quantic-soul-orchestra/</loc>
     <lastmod>2008-04-06T08:40:45+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/daft-punk/</loc>
     <lastmod>2008-04-03T22:56:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/the-world-is-daft/</loc>
     <lastmod>2008-04-03T22:56:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/mayotte/</loc>
     <lastmod>2008-04-01T23:35:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/soutien-aux-tortues/</loc>
     <lastmod>2008-04-01T23:35:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/tortue/</loc>
     <lastmod>2008-04-01T23:35:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/easter-egg/</loc>
     <lastmod>2008-03-31T22:12:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/easter-egg-dans-php/</loc>
     <lastmod>2008-03-31T22:12:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/la-sncf-pourrait-augmenter-le-prix-des-billets-de-tgv-pour-financer-le-reseau-ferre/</loc>
     <lastmod>2008-03-26T22:29:28+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/sncf/</loc>
     <lastmod>2008-03-26T22:29:28+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/escapade-aux-pays-bas/</loc>
     <lastmod>2008-03-26T22:28:58+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/the-quantic-soul-orchestra-la-maroquinerie/</loc>
     <lastmod>2008-03-25T14:51:39+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/tournons-la-page/</loc>
     <lastmod>2008-03-15T18:20:38+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/chti/</loc>
     <lastmod>2008-10-12T15:25:17+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/vous-savez-que-vous-etes-de-lille-quand/</loc>
     <lastmod>2008-10-12T15:25:17+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/les-caisses-de-l-etat-sont-vides/</loc>
     <lastmod>2008-02-27T00:02:35+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/bien-preparer-la-certification-php5/</loc>
     <lastmod>2008-02-25T23:26:57+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/certification/</loc>
     <lastmod>2008-02-25T23:26:57+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/ceci-est-un-ca-un-quoi-un-ca/</loc>
     <lastmod>2008-10-12T15:34:01+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/impro/</loc>
     <lastmod>2008-10-12T15:34:01+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/th%C3%A9%C3%A2tre/</loc>
     <lastmod>2008-10-12T15:34:01+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/face-de-vynilles/</loc>
     <lastmod>2008-02-07T23:50:50+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/photos/</loc>
     <lastmod>2008-02-07T23:50:50+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/sleeveface/</loc>
     <lastmod>2008-02-07T23:50:50+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/cin%C3%A9ma/</loc>
     <lastmod>2008-11-19T00:50:15+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/un-peu-moins-en-retard/</loc>
     <lastmod>2008-01-27T22:14:01+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/moriarty/</loc>
     <lastmod>2008-01-27T21:53:07+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/moriarty/</loc>
     <lastmod>2008-01-27T21:53:07+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/pop/</loc>
     <lastmod>2008-01-27T21:53:07+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/dev-web/</loc>
     <lastmod>2008-01-27T20:34:56+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/le-rendu-des-navigateurs/</loc>
     <lastmod>2008-01-27T20:34:56+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/les-papous-a-paris/</loc>
     <lastmod>2008-01-21T22:51:43+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/k7/</loc>
     <lastmod>2008-01-13T23:50:39+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/la-k7-audio-n-a-pas-de-drm/</loc>
     <lastmod>2008-01-13T23:50:39+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/site-web-de-lille3000-tout-ce-que-vous-ne-devez-pas-faire/</loc>
     <lastmod>2008-01-12T21:57:36+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/narendra-bataju/</loc>
     <lastmod>2008-01-12T21:21:08+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/quai-branly/</loc>
     <lastmod>2008-01-12T21:21:08+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/quai-branly-narendra-bataju-et-latif-khan/</loc>
     <lastmod>2008-01-12T21:21:08+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/le-cas-facebook/</loc>
     <lastmod>2008-01-06T00:31:14+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/r%C3%A9seau-social/</loc>
     <lastmod>2008-01-06T00:31:14+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/d%C3%A9veloppement-durable/</loc>
     <lastmod>2008-01-03T12:44:07+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/travailler-moins-pour-gagner-moins-et-vivre-mieux/</loc>
     <lastmod>2008-01-03T12:44:07+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/getting-things-done/</loc>
     <lastmod>2008-01-03T00:27:28+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/gtd/</loc>
     <lastmod>2008-01-03T00:27:28+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/m%C3%A9thode/</loc>
     <lastmod>2008-01-03T00:27:28+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/chez-wally/</loc>
     <lastmod>2008-10-12T15:30:24+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/bugge-wesseltoft/</loc>
     <lastmod>2008-05-30T22:24:53+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/bugge-wesseltoft-au-sunset/</loc>
     <lastmod>2008-05-30T22:24:53+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/photos-de-barcelona/</loc>
     <lastmod>2007-12-09T13:51:59+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/hong-kong/</loc>
     <lastmod>2007-12-01T15:12:24+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/retour-sur-hong-kong/</loc>
     <lastmod>2007-12-01T15:12:24+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/javascript/</loc>
     <lastmod>2007-12-09T01:46:54+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/javascript-unobstrusive/</loc>
     <lastmod>2007-12-09T01:46:54+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/ecologie-dans-les-nouvelles-technologies/</loc>
     <lastmod>2007-11-29T22:14:47+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/espagnol/</loc>
     <lastmod>2007-11-21T23:53:38+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/preparer-son-sejour-a-barcelone/</loc>
     <lastmod>2007-11-21T23:53:38+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/bilan-paris-web-2007/</loc>
     <lastmod>2007-12-09T01:45:36+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/l-ordinateur-des-aveugles/</loc>
     <lastmod>2011-10-16T22:10:14+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/imagine-lillexpo2007/</loc>
     <lastmod>2007-11-11T13:21:36+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/economie-et-ecologie/</loc>
     <lastmod>2007-11-06T23:01:34+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/lecture/</loc>
     <lastmod>2007-11-06T23:01:34+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/passage-du-temps-collection-de-francois-pinault/</loc>
     <lastmod>2007-10-28T22:18:45+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/tri-postal/</loc>
     <lastmod>2007-10-28T22:18:45+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/revue-du-festival-de-jazz-de-tourcoing/</loc>
     <lastmod>2007-10-28T22:14:27+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/la-cucaracha-des-enfants/</loc>
     <lastmod>2008-05-30T22:28:06+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/curso-de-espagnol/</loc>
     <lastmod>2008-05-30T22:28:06+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/the-cinematic-orchestra-a-la-cigale/</loc>
     <lastmod>2008-05-30T22:29:58+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/the-cinematic-orchestra/</loc>
     <lastmod>2008-05-30T22:29:58+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/arret-sur-images-de-retour/</loc>
     <lastmod>2007-09-19T22:10:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/concert-emilie-simon-a-la-salle-pleyel/</loc>
     <lastmod>2007-09-22T17:39:40+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/emilie-simon/</loc>
     <lastmod>2007-09-22T17:39:40+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/lecons-de-guitare/</loc>
     <lastmod>2012-10-25T19:25:46+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/e.s.t/</loc>
     <lastmod>2007-07-29T20:51:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/e-s-t-au-parc-floral/</loc>
     <lastmod>2007-07-29T20:51:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/avion/</loc>
     <lastmod>2007-07-18T22:58:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/comparatif/</loc>
     <lastmod>2007-07-18T22:58:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/comparatifs-prix-des-vols-low-costs/</loc>
     <lastmod>2007-07-18T22:58:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/roy-hargrove/</loc>
     <lastmod>2007-07-17T23:26:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/roy-hargrove-en-concert-au-new-morning/</loc>
     <lastmod>2007-07-17T23:26:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/defunkt-au-new-morning/</loc>
     <lastmod>2007-07-17T22:30:28+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/working-class-hero-guitar-lesson/</loc>
     <lastmod>2012-10-25T19:25:46+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/le%C3%A7on/</loc>
     <lastmod>2012-10-25T19:25:46+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/selection-ete-2007-paris/</loc>
     <lastmod>2008-11-19T00:50:15+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/outils-pour-fixer-rendez-vous/</loc>
     <lastmod>2007-07-04T21:34:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/rendez-vous/</loc>
     <lastmod>2007-07-04T21:34:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/arret-sur-images-c-est-termine/</loc>
     <lastmod>2007-06-25T22:54:06+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/curso-de-espagnol/</loc>
     <lastmod>2007-06-07T23:34:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/easy-money-de-king-crimson/</loc>
     <lastmod>2007-06-29T22:08:19+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/youtube/</loc>
     <lastmod>2007-06-29T22:08:19+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/un-prof-de-guitare-a-la-maison/</loc>
     <lastmod>2012-10-25T19:25:46+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/herbie-hancock/</loc>
     <lastmod>2007-05-26T14:22:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/live-chameleon-herbie-hancock-the-head-hunters/</loc>
     <lastmod>2007-05-26T14:22:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/musiques-du-monde/</loc>
     <lastmod>2007-05-26T11:12:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/un-label-qui-est-bon-a-ecouter/</loc>
     <lastmod>2007-05-26T11:12:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/au-revoir-simone/</loc>
     <lastmod>2007-05-21T21:39:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/au-revoir-simone-concert-a-emporter/</loc>
     <lastmod>2007-05-21T21:39:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/herman-d%C3%BCne/</loc>
     <lastmod>2007-05-21T21:07:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/herman-dune-concert-a-emporter/</loc>
     <lastmod>2007-05-21T21:07:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/un-artiste-par-jour-rory-gallagher/</loc>
     <lastmod>2007-05-14T23:10:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/fred-wesely-the-jbs-a-funky-good-time/</loc>
     <lastmod>2007-05-13T23:47:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/etude-des-discours-des-presidentiables/</loc>
     <lastmod>2007-06-25T22:54:33+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/tags/sharon-jones/</loc>
     <lastmod>2012-07-23T20:44:31+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/post/sharon-jones-the-dap-kings/</loc>
     <lastmod>2012-07-23T20:44:31+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://franek.chicour.net/tags/actualit%C3%A9/societ%C3%A9/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/archive/</loc>
-  </url>
-  
-  <url>
-    <loc>https://franek.chicour.net/tags/o.k./</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://franek.chicour.net/search/</loc>
   </url>
-  
 </urlset>

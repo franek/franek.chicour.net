@@ -1,66 +1,47 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ubuntu on ::franek::</title>
+    <title>Ubuntu on ::franek::</title>
     <link>https://franek.chicour.net/tags/ubuntu/</link>
-    <description>Recent content in ubuntu on ::franek::</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 26 Apr 2014 13:30:00 +0200</lastBuildDate><atom:link href="https://franek.chicour.net/tags/ubuntu/feed/rss2" rel="self" type="application/rss+xml" />
+    <description>Recent content in Ubuntu on ::franek::</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <lastBuildDate>Sat, 26 Apr 2014 13:30:00 +0200</lastBuildDate>
+    <atom:link href="https://franek.chicour.net/tags/ubuntu/feed/rss2" rel="self" type="application/rss+xml" />
     <item>
       <title>DELL Vostro 3500 - &#34;critical temperature reached, shutting down&#34; - Ubuntu</title>
       <link>https://franek.chicour.net/post/dell-vostro-3500-critical-temperature-reached-shutting-down-ubuntu/</link>
       <pubDate>Sat, 26 Apr 2014 13:30:00 +0200</pubDate>
-      
       <guid>https://franek.chicour.net/post/dell-vostro-3500-critical-temperature-reached-shutting-down-ubuntu/</guid>
-      <description>Il arrive que mon portable &amp;ldquo;DELL Vostro 3500&amp;rdquo; s&amp;rsquo;arrête de manière inopinée. En étudiant les logs (/var/log/kern.log), j&amp;rsquo;ai ce type de messages :
- kern.log:Apr 23 14:56:04 franek-vostro-3500 kernel: [ 678.813696] thermal thermal_zone0: critical temperature reached(100 C),shutting down
- Manifestement, le PC s&amp;rsquo;arrête car le processeur a atteint une température trop élevée. Le ventilateur (ce portable ne contient qu&amp;rsquo;un seul ventilateur) ne joue plus correctement son rôle.
-Un nettoyage du ventilateur avec de l&amp;rsquo;air pulvérisé permet de lui redonner une petite jeunesse (Il est également possible de le démonter entièrement).</description>
+      <description>&lt;p&gt;Il arrive que mon portable &amp;ldquo;DELL Vostro 3500&amp;rdquo; s&amp;rsquo;arrête de manière inopinée. En étudiant les logs (/var/log/kern.log), j&amp;rsquo;ai ce type de messages :&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;kern.log:Apr 23 14:56:04 franek-vostro-3500 kernel: [ 678.813696] thermal thermal_zone0: critical temperature reached(100 C),shutting down&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;Manifestement, le PC s&amp;rsquo;arrête car le processeur a atteint une température trop élevée. Le ventilateur (ce portable ne contient qu&amp;rsquo;un seul ventilateur) ne joue plus correctement son rôle.&lt;/p&gt;&#xA;&lt;p&gt;Un nettoyage du ventilateur avec de l&amp;rsquo;air pulvérisé permet de lui redonner une petite jeunesse (Il est également possible de le &lt;a href=&#34;http://how-i-fixed-it.blogspot.fr/2013/05/laptop-dell-vostro-3500-turns-itself.html&#34;&gt;démonter entièrement&lt;/a&gt;).&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Post-it : Synology partage d&#39;un scanner sur le réseau</title>
       <link>https://franek.chicour.net/post/post-it-synology-partage-d-un-scanner-sur-le-reseau/</link>
       <pubDate>Tue, 20 Sep 2011 14:48:00 +0200</pubDate>
-      
       <guid>https://franek.chicour.net/post/post-it-synology-partage-d-un-scanner-sur-le-reseau/</guid>
-      <description>En branchant son imprimante 2-en-1 (dans mon cas HP PSC-1100 All-in-one) sur un synology (dans mon cas, DS-211+), Il est possible de facilement partager son imprimante sur le réseau.
-Le partage du scanner est un peu moins documenté (à moins que votre imprimante all-in-one supporte le protocole MFP). Pour une liste d&amp;rsquo;imprimantes compatibles avec le Synology, vous pouvez référer à la liste disponible sur le site du constructeur.
-Dans notre cas, nous allons devoir bidouiller (&amp;ldquo;Hackability is fun !</description>
+      <description>&lt;p&gt;En branchant son imprimante 2-en-1 (dans mon cas HP PSC-1100 All-in-one) sur un synology (dans mon cas, DS-211+), Il est possible de facilement partager son imprimante sur le réseau.&lt;/p&gt;&#xA;&lt;p&gt;Le partage du scanner est un peu moins documenté (à moins que votre imprimante all-in-one supporte le protocole MFP). Pour une liste d&amp;rsquo;imprimantes compatibles avec le Synology, vous pouvez référer à la &lt;a href=&#34;http://forum.synology.com/wiki/index.php/User_Reported_Compatible_USB_Printers&#34; title=&#34;Imprimante compatible avec Synology&#34;&gt;liste disponible sur le site du constructeur&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Ubuntu, subversion et éditeur par défaut</title>
       <link>https://franek.chicour.net/post/ubuntu-subversion-et-editeur-par-defaut/</link>
       <pubDate>Mon, 05 Jul 2010 13:35:00 +0200</pubDate>
-      
       <guid>https://franek.chicour.net/post/ubuntu-subversion-et-editeur-par-defaut/</guid>
-      <description>Par défaut, l&amp;rsquo;éditeur utilisé par subversion sous Ubuntu est nano.
-Si vous souhaitez un autre éditeur, par exemple, vi, vous pouvez utiliser la commande suivante :
- sudo update-alternatives --config editor Vous pourrez ensuite choisir votre éditeur préféré.
-source : http://ubuntuforums.org/showthread.php?t=134890</description>
+      <description>&lt;p&gt;Par défaut, l&amp;rsquo;éditeur utilisé par subversion sous Ubuntu est nano.&lt;/p&gt;&#xA;&lt;p&gt;Si vous souhaitez un autre éditeur, par exemple, vi, vous pouvez utiliser la commande suivante :&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;&#xA;sudo update-alternatives --config editor&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Vous pourrez ensuite choisir votre éditeur préféré.&lt;/p&gt;&#xA;&lt;p&gt;source : &lt;a href=&#34;http://ubuntuforums.org/showthread.php?t=134890&#34;&gt;http://ubuntuforums.org/showthread.php?t=134890&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Utiliser plusieurs versions de PHP et switcher facilement d&#39;une version à l&#39;autre sous Ubuntu</title>
       <link>https://franek.chicour.net/post/utiliser-plusieurs-versions-de-php-et-switcher-facilement-d-une-version-a-l-autre-sous-ubuntu/</link>
       <pubDate>Tue, 30 Mar 2010 18:32:00 +0200</pubDate>
-      
       <guid>https://franek.chicour.net/post/utiliser-plusieurs-versions-de-php-et-switcher-facilement-d-une-version-a-l-autre-sous-ubuntu/</guid>
-      <description>EDIT du 09/04/2010 : En fait, cette technique est obsolète. Je viens de découvrir PHPFarm qui semble faire plus ou moins ce que je souhaite faire. A tester donc.
---
-Sur mon environnement de développement, je souhaite pouvoir switcher facilement d&amp;rsquo;une version de PHP à l&amp;rsquo;autre. Mes pré-requis sont de disposer de versions compilées de PHP (avec les extensions APC et Xdebug) ainsi que d&amp;rsquo;une version de PHP packagée avec Zend Server.</description>
+      <description>&lt;p&gt;&lt;strong&gt;EDIT du 09/04/2010&lt;/strong&gt; : En fait, cette technique est obsolète. Je viens de découvrir &lt;a href=&#34;http://cweiske.de/tagebuch/Introducing%20phpfarm.htm&#34;&gt;PHPFarm&lt;/a&gt; qui semble faire plus ou moins ce que je souhaite faire. A tester donc.&lt;/p&gt;&#xA;&lt;p&gt;--&lt;/p&gt;&#xA;&lt;p&gt;Sur mon environnement de développement, je souhaite pouvoir switcher facilement d&amp;rsquo;une version de PHP à l&amp;rsquo;autre. Mes pré-requis sont de disposer de versions compilées de PHP (avec les extensions APC et Xdebug) ainsi que d&amp;rsquo;une version de PHP packagée avec Zend Server.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Passer à ubuntu 9.04 sans graver un cd-rom</title>
       <link>https://franek.chicour.net/post/passer-a-ubuntu-9-04-sans-graver-un-cd-rom/</link>
       <pubDate>Mon, 27 Apr 2009 19:08:00 +0200</pubDate>
-      
       <guid>https://franek.chicour.net/post/passer-a-ubuntu-9-04-sans-graver-un-cd-rom/</guid>
-      <description>La dernière version de Ubuntu (Jaunty Jalope 9.04) est sortie le jour de mon anniversaire. Voici les commandes à exécuter si vous souhaitez mettre à jour rapidement votre version sans passer par apt. Perso., j&amp;rsquo;utilise toujours cette manip&#39; qui est bien plus rapide.
-1. Télécharger l&amp;rsquo;iso du CD alternate de Ubuntu et placer le fichier sur votre bureau. 2. Si l&amp;rsquo;iso est présente sur votre bureau, exécuter les commandes suivantes en ligne de commande :</description>
+      <description>&lt;p&gt;La dernière version de Ubuntu (Jaunty Jalope 9.04) est sortie le jour de mon anniversaire. Voici les commandes à exécuter si vous souhaitez mettre à jour rapidement votre version sans passer par apt. Perso., j&amp;rsquo;utilise toujours cette manip&amp;rsquo; qui est bien plus rapide.&lt;/p&gt;&#xA;&lt;p&gt;1. &lt;a href=&#34;http://www.ubuntu-fr.org/telechargement?methode=&#34;&gt;Télécharger&lt;/a&gt; l&amp;rsquo;iso du CD alternate de Ubuntu et placer le fichier sur votre bureau. 2. Si l&amp;rsquo;iso est présente sur votre bureau, exécuter les commandes suivantes en ligne de commande :&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
