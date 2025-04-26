@@ -2,7 +2,9 @@
 title: "TIL: DNS Rebinding Protection"
 date: 2025-03-10T22:00:13+01:00
 cover:
-    image: "/public/dns-rebinding-protection/image.jpg"
+    image: "/public/cover-dns-rebinding.jpg"
+    description: 'Photo de <a href="https://unsplash.com/fr/@vidarnm?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Vidar Nordli-Mathisen</a> sur <a href="https://unsplash.com/fr/photos/photographie-de-silhouette-daraignee-gF7QEWM7tm4?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>'
+    caption: 'Photo de <a href="https://unsplash.com/fr/@vidarnm?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Vidar Nordli-Mathisen</a> sur <a href="https://unsplash.com/fr/photos/photographie-de-silhouette-daraignee-gF7QEWM7tm4?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>'
     relative: false
 tags: ["DNS", "Rebinding", "TIL"]
 ---
