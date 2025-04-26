@@ -104,10 +104,9 @@ menu:
 
 outputs:
     home:
-        - HTML
-        - RSS
-        - JSON
-        - ATOM
+        - html
+        - rss
+        - atom
 
 # For compatibility with dotclear (old blog system), redefine feed URI to /feed/atom
 mediaTypes:
@@ -121,9 +120,9 @@ mediaTypes:
     delimiter: ""
 
 outputFormats:
-  RSS:
+  rss:
     mediatype: "application/rss+xml"
     baseName: "feed/rss2"
-  ATOM:
+  atom:
     mediatype: "application/atom+xml"
     baseName: "feed/atom"
