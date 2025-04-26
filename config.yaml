@@ -53,28 +53,18 @@ params:
         icon: /public/logo-franek.png
         iconHeight: 35
 
-    # profile-mode
-    profileMode:
-        enabled: false # needs to be explicitly set
-        title: ExampleSite
-        # imageUrl: '<img location>'
-        # imageTitle: my image
-        buttons:
-            - name: Posts
-              url: posts
-            - name: Tags
-              url: tags
-
     # home-info mode
     homeInfoParams:
-    #    Title: "Hi there \U0001F44B"
-    #    Content: Welcome to my blog
+        Title: "\U0001F44B"
+        Content: "Je partage ici quelques bafouilles sur la technologie, le vélo, ou mes coups de coeur (musique, lectures)."
 
     socialIcons:
-        - name: twitter
-          url: "https://twitter.com/_franek_"
+        - name: bluesky
+          url: "https://bsky.app/profile/franek.chicour.net"
         - name: github
           url: "https://github.com/franek"
+        - name: mastodon
+          url: "https://pouet.chapril.org/@franek"
 
     analytics:
         google:
