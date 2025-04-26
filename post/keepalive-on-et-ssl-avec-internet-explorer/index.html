@@ -3,28 +3,220 @@
 Sur une de mes applications, le KeepAlive n&rsquo;était pas activé pour IE et je ne comprenais pas pourquoi.
 Après investigation, cela venait de la configuration par défaut de Apache dans mon Virtual Host sur le port 443 qui contenait les directives suivantes :
 
- SetEnvIf User-Agent ".*MSIE.*" \
-            nokeepalive ssl-unclean-shutdown \
-            downgrade-1.0 force-response-1.0
+
+
+
+  
+    
+      
+S
+e
+t
+E
+n
+v
+I
+f
+U
+s
+e
+n
+d
+r
+o
+o
+-
+k
+w
+A
+e
+n
+g
+e
+g
+e
+p
+r
+n
+a
+a
+t
+l
+d
+i
+e
+"
+v
+-
+.
+e
+1
+*
+.
+M
+s
+0
+S
+s
+I
+l
+f
+E
+-
+o
+.
+u
+r
+*
+n
+c
+"
+c
+e
+l
+-
+\
+e
+r
+a
+e
+n
+s
+-
+p
+s
+o
+h
+n
+u
+s
+t
+e
+d
+-
+o
+1
+w
+.
+n
+0
+\
+
+
+    
+  
+
 Cette directive indique à Apache de désactiver le KeepAlive pour Internet Explorer (Toute version confondue). C&rsquo;est dû à un bug de IE de gestion du protocole SSL. Ce bug n&rsquo;est présent que sur les versions de Internet Explorer inférieures ou égales à 6.'><meta name=author content="franek"><link rel=canonical href=https://franek.chicour.net/post/keepalive-on-et-ssl-avec-internet-explorer/><meta name=google-site-verification content="XYZabc"><link crossorigin=anonymous href=/assets/css/stylesheet.f49d66caae9ea0fd43f21f29e71a8d3e284517ed770f2aa86fa012953ad3c9ef.css integrity="sha256-9J1myq6eoP1D8h8p5xqNPihFF+13Dyqob6ASlTrTye8=" rel="preload stylesheet" as=style><link rel=icon href=https://franek.chicour.net/favicon.ico><link rel=icon type=image/png sizes=16x16 href=https://franek.chicour.net/favicon-16x16.png><link rel=icon type=image/png sizes=32x32 href=https://franek.chicour.net/favicon-32x32.png><link rel=apple-touch-icon href=https://franek.chicour.net/apple-touch-icon.png><link rel=mask-icon href=https://franek.chicour.net/safari-pinned-tab.svg><meta name=theme-color content="#2e2e33"><meta name=msapplication-TileColor content="#2e2e33"><link rel=alternate hreflang=fr href=https://franek.chicour.net/post/keepalive-on-et-ssl-avec-internet-explorer/><noscript><style>#theme-toggle,.top-link{display:none}</style></noscript><meta property="og:url" content="https://franek.chicour.net/post/keepalive-on-et-ssl-avec-internet-explorer/"><meta property="og:site_name" content="::franek::"><meta property="og:title" content="KeepAlive On et SSL avec Internet Explorer"><meta property="og:description" content='Une des bonnes pratiques de performance web est d’activer KeepAlive sur un serveur Apache.
 Sur une de mes applications, le KeepAlive n’était pas activé pour IE et je ne comprenais pas pourquoi.
 Après investigation, cela venait de la configuration par défaut de Apache dans mon Virtual Host sur le port 443 qui contenait les directives suivantes :
-SetEnvIf User-Agent ".*MSIE.*" \ nokeepalive ssl-unclean-shutdown \ downgrade-1.0 force-response-1.0 Cette directive indique à Apache de désactiver le KeepAlive pour Internet Explorer (Toute version confondue). C’est dû à un bug de IE de gestion du protocole SSL. Ce bug n’est présent que sur les versions de Internet Explorer inférieures ou égales à 6.'><meta property="og:locale" content="fr"><meta property="og:type" content="article"><meta property="article:section" content="post"><meta property="article:published_time" content="2011-04-29T15:26:00+02:00"><meta property="article:modified_time" content="2011-10-23T17:00:15+02:00"><meta property="article:tag" content="Développement Web"><meta property="article:tag" content="Apache"><meta property="article:tag" content="Keepalive"><meta property="article:tag" content="Ssl"><meta property="article:tag" content="Webperf"><meta name=twitter:card content="summary"><meta name=twitter:title content="KeepAlive On et SSL avec Internet Explorer"><meta name=twitter:description content='Une des bonnes pratiques de performance web est d&rsquo;activer KeepAlive sur un serveur Apache.
+S e t E n v I f U s e n d r o o - k w A e n g e g e p r n a a t l d i e " v - . e 1 * . M s 0 S s I l f E - o . u r * n c " c e l - \ e r a e n s - p s o h n u s t e d - o 1 w . n 0 \ Cette directive indique à Apache de désactiver le KeepAlive pour Internet Explorer (Toute version confondue). C’est dû à un bug de IE de gestion du protocole SSL. Ce bug n’est présent que sur les versions de Internet Explorer inférieures ou égales à 6.'><meta property="og:locale" content="fr"><meta property="og:type" content="article"><meta property="article:section" content="post"><meta property="article:published_time" content="2011-04-29T15:26:00+02:00"><meta property="article:modified_time" content="2011-10-23T17:00:15+02:00"><meta property="article:tag" content="Développement Web"><meta property="article:tag" content="Apache"><meta property="article:tag" content="Keepalive"><meta property="article:tag" content="Ssl"><meta property="article:tag" content="Webperf"><meta name=twitter:card content="summary"><meta name=twitter:title content="KeepAlive On et SSL avec Internet Explorer"><meta name=twitter:description content='Une des bonnes pratiques de performance web est d&rsquo;activer KeepAlive sur un serveur Apache.
 Sur une de mes applications, le KeepAlive n&rsquo;était pas activé pour IE et je ne comprenais pas pourquoi.
 Après investigation, cela venait de la configuration par défaut de Apache dans mon Virtual Host sur le port 443 qui contenait les directives suivantes :
 
- SetEnvIf User-Agent ".*MSIE.*" \
-            nokeepalive ssl-unclean-shutdown \
-            downgrade-1.0 force-response-1.0
-Cette directive indique à Apache de désactiver le KeepAlive pour Internet Explorer (Toute version confondue). C&rsquo;est dû à un bug de IE de gestion du protocole SSL. Ce bug n&rsquo;est présent que sur les versions de Internet Explorer inférieures ou égales à 6.'><script type=application/ld+json>{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Posts","item":"https://franek.chicour.net/post/"},{"@type":"ListItem","position":2,"name":"KeepAlive On et SSL avec Internet Explorer","item":"https://franek.chicour.net/post/keepalive-on-et-ssl-avec-internet-explorer/"}]}</script><script type=application/ld+json>{"@context":"https://schema.org","@type":"BlogPosting","headline":"KeepAlive On et SSL avec Internet Explorer","name":"KeepAlive On et SSL avec Internet Explorer","description":"Une des bonnes pratiques de performance web est d\u0026rsquo;activer KeepAlive sur un serveur Apache.\nSur une de mes applications, le KeepAlive n\u0026rsquo;était pas activé pour IE et je ne comprenais pas pourquoi.\nAprès investigation, cela venait de la configuration par défaut de Apache dans mon Virtual Host sur le port 443 qui contenait les directives suivantes :\nSetEnvIf User-Agent \u0026#34;.*MSIE.*\u0026#34; \\ nokeepalive ssl-unclean-shutdown \\ downgrade-1.0 force-response-1.0 Cette directive indique à Apache de désactiver le KeepAlive pour Internet Explorer (Toute version confondue). C\u0026rsquo;est dû à un bug de IE de gestion du protocole SSL. Ce bug n\u0026rsquo;est présent que sur les versions de Internet Explorer inférieures ou égales à 6.\n","keywords":["développement web","apache","keepalive","ssl","webperf"],"articleBody":"Une des bonnes pratiques de performance web est d’activer KeepAlive sur un serveur Apache.\nSur une de mes applications, le KeepAlive n’était pas activé pour IE et je ne comprenais pas pourquoi.\nAprès investigation, cela venait de la configuration par défaut de Apache dans mon Virtual Host sur le port 443 qui contenait les directives suivantes :\nSetEnvIf User-Agent \".*MSIE.*\" \\ nokeepalive ssl-unclean-shutdown \\ downgrade-1.0 force-response-1.0 Cette directive indique à Apache de désactiver le KeepAlive pour Internet Explorer (Toute version confondue). C’est dû à un bug de IE de gestion du protocole SSL. Ce bug n’est présent que sur les versions de Internet Explorer inférieures ou égales à 6.\nDans mon cas, on peut remplacer la directive Apache par :\nBrowserMatch \".*MSIE [2-5]\\..*\" \\ nokeepalive ssl-unclean-shutdown \\ downgrade-1.0 force-response-1.0 Source : http://blogs.msdn.com/b/ieinternals/archive/2011/03/26/https-and-connection-close-is-your-apache-modssl-server-configuration-set-to-slow.aspx\n","wordCount":"132","inLanguage":"fr","datePublished":"2011-04-29T15:26:00+02:00","dateModified":"2011-10-23T17:00:15+02:00","author":[{"@type":"Person","name":"franek"}],"mainEntityOfPage":{"@type":"WebPage","@id":"https://franek.chicour.net/post/keepalive-on-et-ssl-avec-internet-explorer/"},"publisher":{"@type":"Organization","name":"::franek::","logo":{"@type":"ImageObject","url":"https://franek.chicour.net/favicon.ico"}}}</script></head><body id=top><header class=header><nav class=nav><div class=logo><a href=https://franek.chicour.net/ accesskey=h title="::franek:: (Alt + H)"><img src=https://franek.chicour.net/public/logo-franek.png alt aria-label=logo height=35>::franek::</a><div class=logo-switches></div></div><ul id=menu><li><a href=https://franek.chicour.net/tags/ title=Tags><span>Tags</span></a></li><li><a href=https://franek.chicour.net/archive/ title=Archives><span>Archives</span></a></li><li><a href=https://franek.chicour.net/search/ title="Recherche (Alt + /)" accesskey=/><span>Recherche</span></a></li><li><a href=https://franek.chicour.net/feed/rss2 title=RSS><span>RSS</span></a></li></ul></nav></header><main class=main><article class=post-single><header class=post-header><h1 class="post-title entry-hint-parent">KeepAlive On et SSL avec Internet Explorer</h1><div class=post-meta><span title='2011-04-29 15:26:00 +0200 +0200'>avril 29, 2011</span>&nbsp;·&nbsp;franek</div></header><div class=post-content><p>Une des bonnes pratiques de performance web est d&rsquo;activer KeepAlive sur un serveur Apache.</p><p>Sur une de mes applications, le KeepAlive n&rsquo;était pas activé pour IE et je ne comprenais pas pourquoi.</p><p>Après investigation, cela venait de la configuration par défaut de Apache dans mon Virtual Host sur le port 443 qui contenait les directives suivantes :</p><pre tabindex=0><code>
- SetEnvIf User-Agent &#34;.*MSIE.*&#34; \
-            nokeepalive ssl-unclean-shutdown \
-            downgrade-1.0 force-response-1.0
-</code></pre><p>Cette directive indique à Apache de désactiver le KeepAlive pour Internet Explorer (Toute version confondue). C&rsquo;est dû à un bug de IE de gestion du protocole SSL. Ce bug n&rsquo;est présent que sur les versions de Internet Explorer inférieures ou égales à 6.</p><p>Dans mon cas, on peut remplacer la directive Apache par :</p><pre tabindex=0><code>
-BrowserMatch &#34;.*MSIE [2-5]\..*&#34; \
-	nokeepalive ssl-unclean-shutdown \
-	downgrade-1.0 force-response-1.0
-</code></pre><p>Source : <a href=http://blogs.msdn.com/b/ieinternals/archive/2011/03/26/https-and-connection-close-is-your-apache-modssl-server-configuration-set-to-slow.aspx title="Blogs MSDN HTTPS & KeepAlive">http://blogs.msdn.com/b/ieinternals/archive/2011/03/26/https-and-connection-close-is-your-apache-modssl-server-configuration-set-to-slow.aspx</a></p></div><footer class=post-footer><ul class=post-tags><li><a href=https://franek.chicour.net/tags/d%C3%A9veloppement-web/>Développement Web</a></li><li><a href=https://franek.chicour.net/tags/apache/>Apache</a></li><li><a href=https://franek.chicour.net/tags/keepalive/>Keepalive</a></li><li><a href=https://franek.chicour.net/tags/ssl/>Ssl</a></li><li><a href=https://franek.chicour.net/tags/webperf/>Webperf</a></li></ul></footer></article></main><footer class=footer><span>&copy; 2025 <a href=https://franek.chicour.net/>::franek::</a></span> ·
+
+
+
+  
+    
+      
+S
+e
+t
+E
+n
+v
+I
+f
+U
+s
+e
+n
+d
+r
+o
+o
+-
+k
+w
+A
+e
+n
+g
+e
+g
+e
+p
+r
+n
+a
+a
+t
+l
+d
+i
+e
+"
+v
+-
+.
+e
+1
+*
+.
+M
+s
+0
+S
+s
+I
+l
+f
+E
+-
+o
+.
+u
+r
+*
+n
+c
+"
+c
+e
+l
+-
+\
+e
+r
+a
+e
+n
+s
+-
+p
+s
+o
+h
+n
+u
+s
+t
+e
+d
+-
+o
+1
+w
+.
+n
+0
+\
+
+
+    
+  
+
+Cette directive indique à Apache de désactiver le KeepAlive pour Internet Explorer (Toute version confondue). C&rsquo;est dû à un bug de IE de gestion du protocole SSL. Ce bug n&rsquo;est présent que sur les versions de Internet Explorer inférieures ou égales à 6.'><script type=application/ld+json>{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Posts","item":"https://franek.chicour.net/post/"},{"@type":"ListItem","position":2,"name":"KeepAlive On et SSL avec Internet Explorer","item":"https://franek.chicour.net/post/keepalive-on-et-ssl-avec-internet-explorer/"}]}</script><script type=application/ld+json>{"@context":"https://schema.org","@type":"BlogPosting","headline":"KeepAlive On et SSL avec Internet Explorer","name":"KeepAlive On et SSL avec Internet Explorer","description":"Une des bonnes pratiques de performance web est d\u0026rsquo;activer KeepAlive sur un serveur Apache.\nSur une de mes applications, le KeepAlive n\u0026rsquo;était pas activé pour IE et je ne comprenais pas pourquoi.\nAprès investigation, cela venait de la configuration par défaut de Apache dans mon Virtual Host sur le port 443 qui contenait les directives suivantes :\nS e t E n v I f U s e n d r o o - k w A e n g e g e p r n a a t l d i e \" v - . e 1 * . M s 0 S s I l f E - o . u r * n c \" c e l - \\ e r a e n s - p s o h n u s t e d - o 1 w . n 0 \\ Cette directive indique à Apache de désactiver le KeepAlive pour Internet Explorer (Toute version confondue). C\u0026rsquo;est dû à un bug de IE de gestion du protocole SSL. Ce bug n\u0026rsquo;est présent que sur les versions de Internet Explorer inférieures ou égales à 6.\n","keywords":["développement web","apache","keepalive","ssl","webperf"],"articleBody":"Une des bonnes pratiques de performance web est d’activer KeepAlive sur un serveur Apache.\nSur une de mes applications, le KeepAlive n’était pas activé pour IE et je ne comprenais pas pourquoi.\nAprès investigation, cela venait de la configuration par défaut de Apache dans mon Virtual Host sur le port 443 qui contenait les directives suivantes :\nS e t E n v I f U s e n d r o o - k w A e n g e g e p r n a a t l d i e \" v - . e 1 * . M s 0 S s I l f E - o . u r * n c \" c e l - \\ e r a e n s - p s o h n u s t e d - o 1 w . n 0 \\ Cette directive indique à Apache de désactiver le KeepAlive pour Internet Explorer (Toute version confondue). C’est dû à un bug de IE de gestion du protocole SSL. Ce bug n’est présent que sur les versions de Internet Explorer inférieures ou égales à 6.\nDans mon cas, on peut remplacer la directive Apache par :\nB r n d o o o w k w s e n e e g r p r M a a a l d t i e c v - h e 1 . \" s 0 . s * l f M - o S u r I n c E c e l - [ e r 2 a e - n s 5 - p ] s o \\ h n . u s . t e * d - \" o 1 w . \\ n 0 \\ Source : http://blogs.msdn.com/b/ieinternals/archive/2011/03/26/https-and-connection-close-is-your-apache-modssl-server-configuration-set-to-slow.aspx\n","wordCount":"299","inLanguage":"fr","datePublished":"2011-04-29T15:26:00+02:00","dateModified":"2011-10-23T17:00:15+02:00","author":[{"@type":"Person","name":"franek"}],"mainEntityOfPage":{"@type":"WebPage","@id":"https://franek.chicour.net/post/keepalive-on-et-ssl-avec-internet-explorer/"},"publisher":{"@type":"Organization","name":"::franek::","logo":{"@type":"ImageObject","url":"https://franek.chicour.net/favicon.ico"}}}</script></head><body id=top><header class=header><nav class=nav><div class=logo><a href=https://franek.chicour.net/ accesskey=h title="::franek:: (Alt + H)"><img src=https://franek.chicour.net/public/logo-franek.png alt aria-label=logo height=35>::franek::</a><div class=logo-switches></div></div><ul id=menu><li><a href=https://franek.chicour.net/tags/ title=Tags><span>Tags</span></a></li><li><a href=https://franek.chicour.net/archive/ title=Archives><span>Archives</span></a></li><li><a href=https://franek.chicour.net/search/ title="Recherche (Alt + /)" accesskey=/><span>Recherche</span></a></li><li><a href=https://franek.chicour.net/feed/rss2 title=RSS><span>RSS</span></a></li></ul></nav></header><main class=main><article class=post-single><header class=post-header><h1 class="post-title entry-hint-parent">KeepAlive On et SSL avec Internet Explorer</h1><div class=post-meta><span title='2011-04-29 15:26:00 +0200 +0200'>avril 29, 2011</span>&nbsp;·&nbsp;franek</div></header><div class=post-content><p>Une des bonnes pratiques de performance web est d&rsquo;activer KeepAlive sur un serveur Apache.</p><p>Sur une de mes applications, le KeepAlive n&rsquo;était pas activé pour IE et je ne comprenais pas pourquoi.</p><p>Après investigation, cela venait de la configuration par défaut de Apache dans mon Virtual Host sur le port 443 qui contenait les directives suivantes :</p><div class="goat svg-container"><svg font-family="Menlo,Lucida Console,monospace" viewBox="0 0 376 73"><g transform="translate(8,16)"><text text-anchor="middle" x="8" y="20" fill="currentcolor" style="font-size:1em">S</text><text text-anchor="middle" x="16" y="20" fill="currentcolor" style="font-size:1em">e</text><text text-anchor="middle" x="24" y="20" fill="currentcolor" style="font-size:1em">t</text><text text-anchor="middle" x="32" y="20" fill="currentcolor" style="font-size:1em">E</text><text text-anchor="middle" x="40" y="20" fill="currentcolor" style="font-size:1em">n</text><text text-anchor="middle" x="48" y="20" fill="currentcolor" style="font-size:1em">v</text><text text-anchor="middle" x="56" y="20" fill="currentcolor" style="font-size:1em">I</text><text text-anchor="middle" x="64" y="20" fill="currentcolor" style="font-size:1em">f</text><text text-anchor="middle" x="80" y="20" fill="currentcolor" style="font-size:1em">U</text><text text-anchor="middle" x="88" y="20" fill="currentcolor" style="font-size:1em">s</text><text text-anchor="middle" x="96" y="20" fill="currentcolor" style="font-size:1em">e</text><text text-anchor="middle" x="96" y="36" fill="currentcolor" style="font-size:1em">n</text><text text-anchor="middle" x="96" y="52" fill="currentcolor" style="font-size:1em">d</text><text text-anchor="middle" x="104" y="20" fill="currentcolor" style="font-size:1em">r</text><text text-anchor="middle" x="104" y="36" fill="currentcolor" style="font-size:1em">o</text><text text-anchor="middle" x="104" y="52" fill="currentcolor" style="font-size:1em">o</text><text text-anchor="middle" x="112" y="20" fill="currentcolor" style="font-size:1em">-</text><text text-anchor="middle" x="112" y="36" fill="currentcolor" style="font-size:1em">k</text><text text-anchor="middle" x="112" y="52" fill="currentcolor" style="font-size:1em">w</text><text text-anchor="middle" x="120" y="20" fill="currentcolor" style="font-size:1em">A</text><text text-anchor="middle" x="120" y="36" fill="currentcolor" style="font-size:1em">e</text><text text-anchor="middle" x="120" y="52" fill="currentcolor" style="font-size:1em">n</text><text text-anchor="middle" x="128" y="20" fill="currentcolor" style="font-size:1em">g</text><text text-anchor="middle" x="128" y="36" fill="currentcolor" style="font-size:1em">e</text><text text-anchor="middle" x="128" y="52" fill="currentcolor" style="font-size:1em">g</text><text text-anchor="middle" x="136" y="20" fill="currentcolor" style="font-size:1em">e</text><text text-anchor="middle" x="136" y="36" fill="currentcolor" style="font-size:1em">p</text><text text-anchor="middle" x="136" y="52" fill="currentcolor" style="font-size:1em">r</text><text text-anchor="middle" x="144" y="20" fill="currentcolor" style="font-size:1em">n</text><text text-anchor="middle" x="144" y="36" fill="currentcolor" style="font-size:1em">a</text><text text-anchor="middle" x="144" y="52" fill="currentcolor" style="font-size:1em">a</text><text text-anchor="middle" x="152" y="20" fill="currentcolor" style="font-size:1em">t</text><text text-anchor="middle" x="152" y="36" fill="currentcolor" style="font-size:1em">l</text><text text-anchor="middle" x="152" y="52" fill="currentcolor" style="font-size:1em">d</text><text text-anchor="middle" x="160" y="36" fill="currentcolor" style="font-size:1em">i</text><text text-anchor="middle" x="160" y="52" fill="currentcolor" style="font-size:1em">e</text><text text-anchor="middle" x="168" y="20" fill="currentcolor" style="font-size:1em">"</text><text text-anchor="middle" x="168" y="36" fill="currentcolor" style="font-size:1em">v</text><text text-anchor="middle" x="168" y="52" fill="currentcolor" style="font-size:1em">-</text><text text-anchor="middle" x="176" y="20" fill="currentcolor" style="font-size:1em">.</text><text text-anchor="middle" x="176" y="36" fill="currentcolor" style="font-size:1em">e</text><text text-anchor="middle" x="176" y="52" fill="currentcolor" style="font-size:1em">1</text><text text-anchor="middle" x="184" y="20" fill="currentcolor" style="font-size:1em">*</text><text text-anchor="middle" x="184" y="52" fill="currentcolor" style="font-size:1em">.</text><text text-anchor="middle" x="192" y="20" fill="currentcolor" style="font-size:1em">M</text><text text-anchor="middle" x="192" y="36" fill="currentcolor" style="font-size:1em">s</text><text text-anchor="middle" x="192" y="52" fill="currentcolor" style="font-size:1em">0</text><text text-anchor="middle" x="200" y="20" fill="currentcolor" style="font-size:1em">S</text><text text-anchor="middle" x="200" y="36" fill="currentcolor" style="font-size:1em">s</text><text text-anchor="middle" x="208" y="20" fill="currentcolor" style="font-size:1em">I</text><text text-anchor="middle" x="208" y="36" fill="currentcolor" style="font-size:1em">l</text><text text-anchor="middle" x="208" y="52" fill="currentcolor" style="font-size:1em">f</text><text text-anchor="middle" x="216" y="20" fill="currentcolor" style="font-size:1em">E</text><text text-anchor="middle" x="216" y="36" fill="currentcolor" style="font-size:1em">-</text><text text-anchor="middle" x="216" y="52" fill="currentcolor" style="font-size:1em">o</text><text text-anchor="middle" x="224" y="20" fill="currentcolor" style="font-size:1em">.</text><text text-anchor="middle" x="224" y="36" fill="currentcolor" style="font-size:1em">u</text><text text-anchor="middle" x="224" y="52" fill="currentcolor" style="font-size:1em">r</text><text text-anchor="middle" x="232" y="20" fill="currentcolor" style="font-size:1em">*</text><text text-anchor="middle" x="232" y="36" fill="currentcolor" style="font-size:1em">n</text><text text-anchor="middle" x="232" y="52" fill="currentcolor" style="font-size:1em">c</text><text text-anchor="middle" x="240" y="20" fill="currentcolor" style="font-size:1em">"</text><text text-anchor="middle" x="240" y="36" fill="currentcolor" style="font-size:1em">c</text><text text-anchor="middle" x="240" y="52" fill="currentcolor" style="font-size:1em">e</text><text text-anchor="middle" x="248" y="36" fill="currentcolor" style="font-size:1em">l</text><text text-anchor="middle" x="248" y="52" fill="currentcolor" style="font-size:1em">-</text><text text-anchor="middle" x="256" y="20" fill="currentcolor" style="font-size:1em">\</text><text text-anchor="middle" x="256" y="36" fill="currentcolor" style="font-size:1em">e</text><text text-anchor="middle" x="256" y="52" fill="currentcolor" style="font-size:1em">r</text><text text-anchor="middle" x="264" y="36" fill="currentcolor" style="font-size:1em">a</text><text text-anchor="middle" x="264" y="52" fill="currentcolor" style="font-size:1em">e</text><text text-anchor="middle" x="272" y="36" fill="currentcolor" style="font-size:1em">n</text><text text-anchor="middle" x="272" y="52" fill="currentcolor" style="font-size:1em">s</text><text text-anchor="middle" x="280" y="36" fill="currentcolor" style="font-size:1em">-</text><text text-anchor="middle" x="280" y="52" fill="currentcolor" style="font-size:1em">p</text><text text-anchor="middle" x="288" y="36" fill="currentcolor" style="font-size:1em">s</text><text text-anchor="middle" x="288" y="52" fill="currentcolor" style="font-size:1em">o</text><text text-anchor="middle" x="296" y="36" fill="currentcolor" style="font-size:1em">h</text><text text-anchor="middle" x="296" y="52" fill="currentcolor" style="font-size:1em">n</text><text text-anchor="middle" x="304" y="36" fill="currentcolor" style="font-size:1em">u</text><text text-anchor="middle" x="304" y="52" fill="currentcolor" style="font-size:1em">s</text><text text-anchor="middle" x="312" y="36" fill="currentcolor" style="font-size:1em">t</text><text text-anchor="middle" x="312" y="52" fill="currentcolor" style="font-size:1em">e</text><text text-anchor="middle" x="320" y="36" fill="currentcolor" style="font-size:1em">d</text><text text-anchor="middle" x="320" y="52" fill="currentcolor" style="font-size:1em">-</text><text text-anchor="middle" x="328" y="36" fill="currentcolor" style="font-size:1em">o</text><text text-anchor="middle" x="328" y="52" fill="currentcolor" style="font-size:1em">1</text><text text-anchor="middle" x="336" y="36" fill="currentcolor" style="font-size:1em">w</text><text text-anchor="middle" x="336" y="52" fill="currentcolor" style="font-size:1em">.</text><text text-anchor="middle" x="344" y="36" fill="currentcolor" style="font-size:1em">n</text><text text-anchor="middle" x="344" y="52" fill="currentcolor" style="font-size:1em">0</text><text text-anchor="middle" x="360" y="36" fill="currentcolor" style="font-size:1em">\</text></g></svg></div><p>Cette directive indique à Apache de désactiver le KeepAlive pour Internet Explorer (Toute version confondue). C&rsquo;est dû à un bug de IE de gestion du protocole SSL. Ce bug n&rsquo;est présent que sur les versions de Internet Explorer inférieures ou égales à 6.</p><p>Dans mon cas, on peut remplacer la directive Apache par :</p><div class="goat svg-container"><svg font-family="Menlo,Lucida Console,monospace" viewBox="0 0 288 73"><g transform="translate(8,16)"><text text-anchor="middle" x="0" y="20" fill="currentcolor" style="font-size:1em">B</text><text text-anchor="middle" x="0" y="36" fill="currentcolor" style="font-size:1em"/><text text-anchor="middle" x="0" y="52" fill="currentcolor" style="font-size:1em"/><text text-anchor="middle" x="8" y="20" fill="currentcolor" style="font-size:1em">r</text><text text-anchor="middle" x="8" y="36" fill="currentcolor" style="font-size:1em">n</text><text text-anchor="middle" x="8" y="52" fill="currentcolor" style="font-size:1em">d</text><text text-anchor="middle" x="16" y="20" fill="currentcolor" style="font-size:1em">o</text><text text-anchor="middle" x="16" y="36" fill="currentcolor" style="font-size:1em">o</text><text text-anchor="middle" x="16" y="52" fill="currentcolor" style="font-size:1em">o</text><text text-anchor="middle" x="24" y="20" fill="currentcolor" style="font-size:1em">w</text><text text-anchor="middle" x="24" y="36" fill="currentcolor" style="font-size:1em">k</text><text text-anchor="middle" x="24" y="52" fill="currentcolor" style="font-size:1em">w</text><text text-anchor="middle" x="32" y="20" fill="currentcolor" style="font-size:1em">s</text><text text-anchor="middle" x="32" y="36" fill="currentcolor" style="font-size:1em">e</text><text text-anchor="middle" x="32" y="52" fill="currentcolor" style="font-size:1em">n</text><text text-anchor="middle" x="40" y="20" fill="currentcolor" style="font-size:1em">e</text><text text-anchor="middle" x="40" y="36" fill="currentcolor" style="font-size:1em">e</text><text text-anchor="middle" x="40" y="52" fill="currentcolor" style="font-size:1em">g</text><text text-anchor="middle" x="48" y="20" fill="currentcolor" style="font-size:1em">r</text><text text-anchor="middle" x="48" y="36" fill="currentcolor" style="font-size:1em">p</text><text text-anchor="middle" x="48" y="52" fill="currentcolor" style="font-size:1em">r</text><text text-anchor="middle" x="56" y="20" fill="currentcolor" style="font-size:1em">M</text><text text-anchor="middle" x="56" y="36" fill="currentcolor" style="font-size:1em">a</text><text text-anchor="middle" x="56" y="52" fill="currentcolor" style="font-size:1em">a</text><text text-anchor="middle" x="64" y="20" fill="currentcolor" style="font-size:1em">a</text><text text-anchor="middle" x="64" y="36" fill="currentcolor" style="font-size:1em">l</text><text text-anchor="middle" x="64" y="52" fill="currentcolor" style="font-size:1em">d</text><text text-anchor="middle" x="72" y="20" fill="currentcolor" style="font-size:1em">t</text><text text-anchor="middle" x="72" y="36" fill="currentcolor" style="font-size:1em">i</text><text text-anchor="middle" x="72" y="52" fill="currentcolor" style="font-size:1em">e</text><text text-anchor="middle" x="80" y="20" fill="currentcolor" style="font-size:1em">c</text><text text-anchor="middle" x="80" y="36" fill="currentcolor" style="font-size:1em">v</text><text text-anchor="middle" x="80" y="52" fill="currentcolor" style="font-size:1em">-</text><text text-anchor="middle" x="88" y="20" fill="currentcolor" style="font-size:1em">h</text><text text-anchor="middle" x="88" y="36" fill="currentcolor" style="font-size:1em">e</text><text text-anchor="middle" x="88" y="52" fill="currentcolor" style="font-size:1em">1</text><text text-anchor="middle" x="96" y="52" fill="currentcolor" style="font-size:1em">.</text><text text-anchor="middle" x="104" y="20" fill="currentcolor" style="font-size:1em">"</text><text text-anchor="middle" x="104" y="36" fill="currentcolor" style="font-size:1em">s</text><text text-anchor="middle" x="104" y="52" fill="currentcolor" style="font-size:1em">0</text><text text-anchor="middle" x="112" y="20" fill="currentcolor" style="font-size:1em">.</text><text text-anchor="middle" x="112" y="36" fill="currentcolor" style="font-size:1em">s</text><text text-anchor="middle" x="120" y="20" fill="currentcolor" style="font-size:1em">*</text><text text-anchor="middle" x="120" y="36" fill="currentcolor" style="font-size:1em">l</text><text text-anchor="middle" x="120" y="52" fill="currentcolor" style="font-size:1em">f</text><text text-anchor="middle" x="128" y="20" fill="currentcolor" style="font-size:1em">M</text><text text-anchor="middle" x="128" y="36" fill="currentcolor" style="font-size:1em">-</text><text text-anchor="middle" x="128" y="52" fill="currentcolor" style="font-size:1em">o</text><text text-anchor="middle" x="136" y="20" fill="currentcolor" style="font-size:1em">S</text><text text-anchor="middle" x="136" y="36" fill="currentcolor" style="font-size:1em">u</text><text text-anchor="middle" x="136" y="52" fill="currentcolor" style="font-size:1em">r</text><text text-anchor="middle" x="144" y="20" fill="currentcolor" style="font-size:1em">I</text><text text-anchor="middle" x="144" y="36" fill="currentcolor" style="font-size:1em">n</text><text text-anchor="middle" x="144" y="52" fill="currentcolor" style="font-size:1em">c</text><text text-anchor="middle" x="152" y="20" fill="currentcolor" style="font-size:1em">E</text><text text-anchor="middle" x="152" y="36" fill="currentcolor" style="font-size:1em">c</text><text text-anchor="middle" x="152" y="52" fill="currentcolor" style="font-size:1em">e</text><text text-anchor="middle" x="160" y="36" fill="currentcolor" style="font-size:1em">l</text><text text-anchor="middle" x="160" y="52" fill="currentcolor" style="font-size:1em">-</text><text text-anchor="middle" x="168" y="20" fill="currentcolor" style="font-size:1em">[</text><text text-anchor="middle" x="168" y="36" fill="currentcolor" style="font-size:1em">e</text><text text-anchor="middle" x="168" y="52" fill="currentcolor" style="font-size:1em">r</text><text text-anchor="middle" x="176" y="20" fill="currentcolor" style="font-size:1em">2</text><text text-anchor="middle" x="176" y="36" fill="currentcolor" style="font-size:1em">a</text><text text-anchor="middle" x="176" y="52" fill="currentcolor" style="font-size:1em">e</text><text text-anchor="middle" x="184" y="20" fill="currentcolor" style="font-size:1em">-</text><text text-anchor="middle" x="184" y="36" fill="currentcolor" style="font-size:1em">n</text><text text-anchor="middle" x="184" y="52" fill="currentcolor" style="font-size:1em">s</text><text text-anchor="middle" x="192" y="20" fill="currentcolor" style="font-size:1em">5</text><text text-anchor="middle" x="192" y="36" fill="currentcolor" style="font-size:1em">-</text><text text-anchor="middle" x="192" y="52" fill="currentcolor" style="font-size:1em">p</text><text text-anchor="middle" x="200" y="20" fill="currentcolor" style="font-size:1em">]</text><text text-anchor="middle" x="200" y="36" fill="currentcolor" style="font-size:1em">s</text><text text-anchor="middle" x="200" y="52" fill="currentcolor" style="font-size:1em">o</text><text text-anchor="middle" x="208" y="20" fill="currentcolor" style="font-size:1em">\</text><text text-anchor="middle" x="208" y="36" fill="currentcolor" style="font-size:1em">h</text><text text-anchor="middle" x="208" y="52" fill="currentcolor" style="font-size:1em">n</text><text text-anchor="middle" x="216" y="20" fill="currentcolor" style="font-size:1em">.</text><text text-anchor="middle" x="216" y="36" fill="currentcolor" style="font-size:1em">u</text><text text-anchor="middle" x="216" y="52" fill="currentcolor" style="font-size:1em">s</text><text text-anchor="middle" x="224" y="20" fill="currentcolor" style="font-size:1em">.</text><text text-anchor="middle" x="224" y="36" fill="currentcolor" style="font-size:1em">t</text><text text-anchor="middle" x="224" y="52" fill="currentcolor" style="font-size:1em">e</text><text text-anchor="middle" x="232" y="20" fill="currentcolor" style="font-size:1em">*</text><text text-anchor="middle" x="232" y="36" fill="currentcolor" style="font-size:1em">d</text><text text-anchor="middle" x="232" y="52" fill="currentcolor" style="font-size:1em">-</text><text text-anchor="middle" x="240" y="20" fill="currentcolor" style="font-size:1em">"</text><text text-anchor="middle" x="240" y="36" fill="currentcolor" style="font-size:1em">o</text><text text-anchor="middle" x="240" y="52" fill="currentcolor" style="font-size:1em">1</text><text text-anchor="middle" x="248" y="36" fill="currentcolor" style="font-size:1em">w</text><text text-anchor="middle" x="248" y="52" fill="currentcolor" style="font-size:1em">.</text><text text-anchor="middle" x="256" y="20" fill="currentcolor" style="font-size:1em">\</text><text text-anchor="middle" x="256" y="36" fill="currentcolor" style="font-size:1em">n</text><text text-anchor="middle" x="256" y="52" fill="currentcolor" style="font-size:1em">0</text><text text-anchor="middle" x="272" y="36" fill="currentcolor" style="font-size:1em">\</text></g></svg></div><p>Source : <a href=http://blogs.msdn.com/b/ieinternals/archive/2011/03/26/https-and-connection-close-is-your-apache-modssl-server-configuration-set-to-slow.aspx title="Blogs MSDN HTTPS & KeepAlive">http://blogs.msdn.com/b/ieinternals/archive/2011/03/26/https-and-connection-close-is-your-apache-modssl-server-configuration-set-to-slow.aspx</a></p></div><footer class=post-footer><ul class=post-tags><li><a href=https://franek.chicour.net/tags/d%C3%A9veloppement-web/>Développement Web</a></li><li><a href=https://franek.chicour.net/tags/apache/>Apache</a></li><li><a href=https://franek.chicour.net/tags/keepalive/>Keepalive</a></li><li><a href=https://franek.chicour.net/tags/ssl/>Ssl</a></li><li><a href=https://franek.chicour.net/tags/webperf/>Webperf</a></li></ul></footer></article></main><footer class=footer><span>&copy; 2025 <a href=https://franek.chicour.net/>::franek::</a></span> ·
 <span>Powered by
 <a href=https://gohugo.io/ rel="noopener noreferrer" target=_blank>Hugo</a> &
         <a href=https://github.com/adityatelange/hugo-PaperMod/ rel=noopener target=_blank>PaperMod</a></span></footer><a href=#top aria-label="go to top" title="Go to Top (Alt + G)" class=top-link id=top-link accesskey=g><svg viewBox="0 0 12 6" fill="currentcolor"><path d="M12 6H0l6-6z"/></svg>

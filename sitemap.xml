@@ -3,18 +3,30 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://franek.chicour.net/</loc>
-    <lastmod>2025-03-10T22:00:13+01:00</lastmod>
+    <lastmod>2025-04-26T14:34:13+01:00</lastmod>
+  </url><url>
+    <loc>https://franek.chicour.net/tags/2025/</loc>
+    <lastmod>2025-04-26T14:34:13+01:00</lastmod>
+  </url><url>
+    <loc>https://franek.chicour.net/tags/conf%C3%A9rence/</loc>
+    <lastmod>2025-04-26T14:34:13+01:00</lastmod>
+  </url><url>
+    <loc>https://franek.chicour.net/tags/devoxx/</loc>
+    <lastmod>2025-04-26T14:34:13+01:00</lastmod>
+  </url><url>
+    <loc>https://franek.chicour.net/post/2025-devoxx/</loc>
+    <lastmod>2025-04-26T14:34:13+01:00</lastmod>
+  </url><url>
+    <loc>https://franek.chicour.net/post/</loc>
+    <lastmod>2025-04-26T14:34:13+01:00</lastmod>
+  </url><url>
+    <loc>https://franek.chicour.net/tags/</loc>
+    <lastmod>2025-04-26T14:34:13+01:00</lastmod>
   </url><url>
     <loc>https://franek.chicour.net/tags/dns/</loc>
     <lastmod>2025-03-10T22:00:13+01:00</lastmod>
   </url><url>
-    <loc>https://franek.chicour.net/post/</loc>
-    <lastmod>2025-03-10T22:00:13+01:00</lastmod>
-  </url><url>
     <loc>https://franek.chicour.net/tags/rebinding/</loc>
-    <lastmod>2025-03-10T22:00:13+01:00</lastmod>
-  </url><url>
-    <loc>https://franek.chicour.net/tags/</loc>
     <lastmod>2025-03-10T22:00:13+01:00</lastmod>
   </url><url>
     <loc>https://franek.chicour.net/tags/til/</loc>
@@ -24,9 +36,6 @@
     <lastmod>2025-03-10T22:00:13+01:00</lastmod>
   </url><url>
     <loc>https://franek.chicour.net/tags/cncf/</loc>
-    <lastmod>2024-03-31T11:34:13+01:00</lastmod>
-  </url><url>
-    <loc>https://franek.chicour.net/tags/conf%C3%A9rence/</loc>
     <lastmod>2024-03-31T11:34:13+01:00</lastmod>
   </url><url>
     <loc>https://franek.chicour.net/tags/kubernetes/</loc>
