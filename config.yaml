@@ -56,7 +56,7 @@ params:
     # home-info mode
     homeInfoParams:
         Title: "\U0001F44B"
-        Content: "Je partage ici quelques bafouilles sur la technologie, le vélo, ou mes coups de coeur (musique, lectures)."
+        Content: "Je partage ici quelques bafouilles sur la technologie, le vélo, ou mes coups de coeur (musique, lecture)."
 
     socialIcons:
         - name: bluesky

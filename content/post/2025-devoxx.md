@@ -10,11 +10,11 @@ tags: ["Devoxx", "2025", "conférence"]
 
 Pour la première fois, j'ai participé la semaine dernière à la [Devoxx](https://www.devoxx.fr/), la plus grande conférence indépendante autour du développement. 
 
-Toutes les thématiques qu'un développeur rencontre dans son quotidien étaient représentées (de l'IA, au front, en passant par le DevOps, le platform engineering, le cloud, le quantique ou encore le management). C'était très riche. Comme d'habitude dans ce genre d'événement, j'aimerais disposer du don d'ubiquité afin de pouvoir assister aux différentes sessions qui ont lieu simultanément. Ce n'est pas encore mon cas, mais j'y travaille ! 🙂
+Toutes les thématiques qu'un développeur rencontre dans son quotidien étaient représentées (de l'IA au front, en passant par le DevOps, le platform engineering, le cloud, l'informatique quantique ou encore le management). C'était très riche. Comme d'habitude dans ce genre d'événement, j'aimerais disposer du don d'ubiquité afin de pouvoir assister aux différentes sessions qui ont lieu simultanément. Ce n'est pas encore mon cas, mais j'y travaille ! 🙂
 
 L'événement, qui dure 3 jours, regroupe **4 500 personnes** par jour. Il y a donc du monde, beaucoup de monde.
 
-La Devoxx a initialement été créée par l'association [Paris Java User Group (JUG)](https://www.parisjug.org/). Les "JAVA-istes" sont donc sur-représentés. Je ne viens pas de cette communauté, mais j'ai quand même trouvé énormément de matières intéressantes.
+La Devoxx a initialement été créée par l'association [Paris Java User Group (JUG)](https://www.parisjug.org/). Les "Java-istes" sont donc sur-représentés. Je ne viens pas de cette communauté, mais j'ai quand même trouvé énormément de matières intéressantes.
 
 Il est à noter qu'en plus des sessions, une [zone "Exposants"](https://www.devoxx.fr/sponsors/sponsors-2025/) regroupe une centaine d'entreprises ou de partenaires.
 
@@ -43,7 +43,7 @@ Son support de présentation est [disponible](https://blog.zwindler.fr/talks/202
 L'après-midi débute avec l'intervention de Damien Lucas ["Vol au-dessus d'un nid de vulnérabilités"](https://www.devoxx.fr/agenda-2025/talk/vol-au-dessus-d-un-nid-de-vulnerabilites). Il nous rappelle les solutions disponibles pour générer des SBOM (Software Bills Of Materials) à partir de nos builds ainsi que les différences entre les différents formats (SPDX soutenu par la Linux Foundation et CycloneDX par l'OWASP).  
 Ces SBOMs peuvent être exploités par des solutions comme [DependencyTrack](https://dependencytrack.org/).
 
-[Daniel Garnier-Moiroux](https://garnier.wf/) présente ["OAuth2 & OpenID : sous le capot"](https://www.devoxx.fr/agenda-2025/talk/oauth2-openid-sous-le-capot). En quelques minutes, Daniel code en JAVA une authentification basée sur un fournisseur d'identité OIDC (ici Google, mais il montre que le code fonctionne pour d'autres fournisseurs d'identité). C'est didactique et super clair. J'avais vu l'an passé la conférence de Julien Topçu "[OAuth 2.1 expliqué simplement (même si tu n'es pas un dev)](https://www.youtube.com/watch?v=vuJl27bOmV0)". Ces deux conférences sont complémentaires et je les recommande vivement.
+[Daniel Garnier-Moiroux](https://garnier.wf/) présente ["OAuth2 & OpenID : sous le capot"](https://www.devoxx.fr/agenda-2025/talk/oauth2-openid-sous-le-capot). En quelques minutes, Daniel code en Java une authentification basée sur un fournisseur d'identité OIDC (ici Google, mais il montre que le code fonctionne pour d'autres fournisseurs d'identité). C'est didactique et super clair. J'avais vu l'an passé la conférence de Julien Topçu "[OAuth 2.1 expliqué simplement (même si tu n'es pas un dev)](https://www.youtube.com/watch?v=vuJl27bOmV0)". Ces deux conférences sont complémentaires et je les recommande vivement.
 
 En 45 minutes, Alain Reignier nous présente les nouveautés de Kubernetes ["Kubernetes en 2025"](https://www.devoxx.fr/agenda-2025/talk/kubernetes-en-2025/). Alain Reignier est CTO de la société "Kubo Labs", qui développe :  
 * [KuboScore](https://www.kuboscore.io/client#iss=https%3A%2F%2Fklas.kubolabs.io%2Frealms%2Fmain), un outil permettant de détecter des problèmes de configuration sur les clusters Kubernetes  
@@ -62,7 +62,7 @@ Enfin, pour terminer, [Antoine Mayer](https://www.devoxx.fr/agenda-2025/talk/exe
 
 # Jour 2
 
-Le deuxième jour, j’espérais pouvoir assister à la keynote depuis l'amphi bleu, la plus grande salle. Bien que j'arrive 15-20 minutes avant le début des festivités, je me retrouve dans une des salles "Overflow" qui diffusent la keynote. 🙂
+Le deuxième jour, j’espérais pouvoir assister à la keynote depuis l'amphi bleu, la plus grande salle. Bien que j'arrive 15-20 minutes avant le début des festivités, je me retrouve dans une des salles "Overflow" qui diffuse la keynote. 🙂
 J'essaierais de faire mieux le lendemain.
 
 Je passe sur les keynotes qui étaient très bien mais difficiles à synthétiser en quelques mots.
@@ -89,7 +89,7 @@ La conférence est super fluide. Il nous partage quelques librairies en Python, 
 Retour dans l'amphi Bleu pour écouter "[Vos requêtes SQL jusqu'à 10000 plus rapides, durablement](https://www.devoxx.fr/agenda-2025/talk/vos-requetes-sql-jusqu-a-10000-fois-plus-rapides-durablement)" par Alain Lesage de la société [Dalibo](https://www.dalibo.com/). A nouveau, super conférence sur les performances des bases de données. Alain rappelle qu'optimiser une base de données est un vrai métier (DBA) et que ce métier tend à disparaître alors qu'il est essentiel pour la pérennité du modèle de données ou les performances.
 Il partage des ressources développées par Dalibo : 
  * [explain.dalibo.com](https://explain.dalibo.com/): un outil permettant de visualiser un EXPLAIN PLAN
- * [kb.dalibo.com](https://kb.dalibo.com/): la base de connaissance de Dalibo autour de PostgreSQL
+ * [kb.dalibo.com](https://kb.dalibo.com/): la base de connaissances de Dalibo autour de PostgreSQL
 
 J'assiste au [quizz d'Aurélie Vache et Sherine Khoury sur le containers](https://www.devoxx.fr/agenda-2025/talk/question-pour-un-conteneur-quiz-sur-les-images-les-conteneurs-oci-docker/) puis je pars découvrir "[Infisical : Le meilleur ami des devs pour des secrets bien gardés !](https://www.devoxx.fr/agenda-2025/talk/infisical-le-meilleur-ami-des-devs-pour-des-secrets-bien-gardes/)" par Julien Briault.
 [Infisical](https://infisical.com/) est une alternative à Hashicorp Vault qui semble pertinente suite au changement de licences de Hashicorp Vault. A tester au retour au travail. 
@@ -147,8 +147,8 @@ Il faudra que je prenne le temps de les regarder en replay (Spoiler: je ne le fa
 
 J'ai découvert tardivement que d'autres copainnngggs étaient présents sur le site et je n'ai pas pu les croiser.
 
-En attendant le début d'une conférence, mes oreilles indiscrètes ont capté une conversation (vraisemblablement) de dev JAVA critiquant le langage PHP. Je ne suis pas intervenu, il y avait une réelle méconnaissance des évolutions du langage (qui se rapproche de plus en plus de JAVA). 
-L'informatique, c'est une autre histoire de religions, avec ses différentes chapelles (les devs JAVA, les devs PHP, les fans de Windows, Linux ou Apple, les Product Owners, les sysadmins, ...). 
+En attendant le début d'une conférence, mes oreilles indiscrètes ont capté une conversation (vraisemblablement) de développeurs Java critiquant le langage PHP. Je ne suis pas intervenu, il y avait une réelle méconnaissance des évolutions du langage (qui se rapproche de plus en plus de Java). 
+L'informatique, c'est une autre histoire de religions, avec ses différentes chapelles (les devs Java, les devs PHP, les fans de Windows, de Linux ou Apple, les Product Owners, les sysadmins, ...). 
 
 La Devoxx arrive à regrouper tout ce joli monde et le fait plutôt bien.
 
