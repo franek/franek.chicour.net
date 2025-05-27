@@ -29,21 +29,47 @@ Luc Julia, co-créateur de Siri, l'assistant vocal d'Apple, lance la première k
 Nous ne pouvons qu'adhérer à son discours mêlant histoire de l'évolution des technologies autour de l'Intelligence Artificielle et anecdotes personnelles (parfois sur le ton de l'humour).  
 Selon lui, l'IA n'est qu'un outil qu'il faut apprendre à manier. L'IA n'est pas créative par essence, mais créative grâce au maniement de ce nouvel outil par les humains. Il rappelle également les problématiques de copyright autour des données utilisées pour l'entraînement.
 
+{{< youtube JdxjGZBtp_k >}}
+
+---
+
 Changement de contexte, je pars écouter Clément de Tastes ["Coder avec peu : les bons tuyaux de Mario"](https://www.devoxx.fr/agenda-2025/talk/coder-avec-peu-les-bons-tuyaux-de-mario/), qui nous plonge dans le fonctionnement de Super Mario Bros sur NES et comment les développeurs ont créé ce jeu malgré de fortes contraintes matérielles (peu de CPU, peu de RAM, voire peu de stockage). C'est didactique et très intéressant, j'apprends plein de choses.  
 Si vous souhaitez vous plonger dans cet univers avant la publication des vidéos, Clément de Tastes avait déjà présenté [cette conférence](https://blog.sciam.fr/2024/05/30/Coder-avec-peu-les-bons-tuyaux-de-Mario.html).
+
+
+{{< youtube SCh2rEPswsI >}}
+
+---
 
 Durant les 3 jours, la thématique de l'observabilité était bien représentée. Alexandre Moray et Florian Meuleman de la société Takima nous ont fait un [retour d'expérience](https://www.devoxx.fr/agenda-2025/talk/l-observabilite-pour-les-devs-outils-cle-pour-survivre-quand-la-prod-plantera/) sur l'intégration d'OpenTelemetry sur leurs projets en présentant les outils permettant de faire de l'instrumentation automatique ou du filtrage des données d'observabilité via le Collector OpenTelemetry.
 
 Les métriques étaient envoyées dans une solution open-source, [Signoz](https://signoz.io/). Signoz est une alternative à NewRelic ou Datadog, mais uniquement orientée OpenTelemetry. Il est possible d'héberger ses propres instances de Signoz.  
 À titre professionnel, je n'ai pas encore basculé sur OpenTelemetry, mais cette présentation m'a de nouveau donné envie de m'y intéresser. La technologie semble de plus en plus mature.
 
+{{< youtube 7zmAiPcdMQQ >}}
+
+---
+
+
 Durant le déjeuner, [Denis Germain](https://blog.zwindler.fr/) nous propose en quelques minutes son approche pour sauvegarder ses photos de vacances ["Ne perdez plus vos photos de vacances 🔥🏠🔥 (ou tout autre fichier important)"](https://www.devoxx.fr/agenda-2025/talk/ne-perdez-plus-vos-photos-de-vacances-ou-tout-autre-fichier-important/).  
 Son support de présentation est [disponible](https://blog.zwindler.fr/talks/2025-3-2-1/index.html#2). Je retiens de mon côté de tester la solution [Duplicati](https://github.com/duplicati/duplicati).
+
+{{< youtube FsItkp58sP0 >}}
+
+---
 
 L'après-midi débute avec l'intervention de Damien Lucas ["Vol au-dessus d'un nid de vulnérabilités"](https://www.devoxx.fr/agenda-2025/talk/vol-au-dessus-d-un-nid-de-vulnerabilites). Il nous rappelle les solutions disponibles pour générer des SBOM (Software Bills Of Materials) à partir de nos builds ainsi que les différences entre les différents formats (SPDX soutenu par la Linux Foundation et CycloneDX par l'OWASP).  
 Ces SBOMs peuvent être exploités par des solutions comme [DependencyTrack](https://dependencytrack.org/).
 
+{{< youtube kuhDs9a_Ax4 >}}
+
+---
+
 [Daniel Garnier-Moiroux](https://garnier.wf/) présente ["OAuth2 & OpenID : sous le capot"](https://www.devoxx.fr/agenda-2025/talk/oauth2-openid-sous-le-capot). En quelques minutes, Daniel code en Java une authentification basée sur un fournisseur d'identité OIDC (ici Google, mais il montre que le code fonctionne pour d'autres fournisseurs d'identité). C'est didactique et super clair. J'avais vu l'an passé la conférence de Julien Topçu "[OAuth 2.1 expliqué simplement (même si tu n'es pas un dev)](https://www.youtube.com/watch?v=vuJl27bOmV0)". Ces deux conférences sont complémentaires et je les recommande vivement.
+
+{{< youtube KGRmy9rUsRQ >}}
+
+---
 
 En 45 minutes, Alain Reignier nous présente les nouveautés de Kubernetes ["Kubernetes en 2025"](https://www.devoxx.fr/agenda-2025/talk/kubernetes-en-2025/). Alain Reignier est CTO de la société "Kubo Labs", qui développe :  
 * [KuboScore](https://www.kuboscore.io/client#iss=https%3A%2F%2Fklas.kubolabs.io%2Frealms%2Fmain), un outil permettant de détecter des problèmes de configuration sur les clusters Kubernetes  
@@ -55,10 +81,22 @@ Dans les nouveautés, je retiens :
 * [Kueue](https://kueue.sigs.k8s.io/docs/overview/)  
 ![](/public/devoxx-2025/20250426144736.png)
 
+{{< youtube Eh8jKVVSVKA >}}
+
+---
+
 Avant-dernière session de la journée, [Christophe Furmaniak](https://www.devoxx.fr/agenda-2025/talk/introduction-aux-tests-avec-terraform-test) introduit le framework de tests "terraform test" et compare les différentes solutions disponibles pour tester les scripts Terraform.  
 C'est une découverte et cela ouvre des perspectives pour améliorer son code Terraform.
 
+{{< youtube butuHMcoA7I >}}
+
+---
+
 Enfin, pour terminer, [Antoine Mayer](https://www.devoxx.fr/agenda-2025/talk/exegol-le-hacking-a-base-de-conteneurs) nous partage son amour pour Exegol. [Exegol](https://exegol.readthedocs.io/en/latest/) est une alternative à la distribution de sécurité [Kali Linux](https://www.kali.org/) basée sur Docker. La solution semble facile à prendre en main et j'ai hâte de la tester pour vérifier la sécurité de nos applications. 🙂
+
+{{< youtube KBaek8qJPMs >}}
+
+---
 
 # Jour 2
 
@@ -72,27 +110,55 @@ Il présente notamment leur [Node Disruption Controller](https://github.com/crit
 
 ![](/public/devoxx-2025/20250423220418.png)
 
+{{< youtube gCOPjk-xGzw >}}
+
+---
+
 Je reste dans la thématique Kubernetes et je pars écouter Denis Germain (encore) nous dévoiler "[Kubernetes : 5 façons créatives de flinguer sa prod 🔫](https://www.devoxx.fr/agenda-2025/talk/kubernetes-5-facons-creatives-de-flinguer-sa-prod/)".
 Ses slides sont [disponibles](https://blog.zwindler.fr/talks/2025-kubernetes-5-facon-de-flinguer-prod/index.html).
 Super conférence, il arrive à rendre simple de vrais problèmes qui ont dû être complexes à régler. J'aurais aimé avoir encore plus d'anecdotes. J'ai découvert l'intérêt de [Talos](https://www.talos.dev/), qui permet d'avoir un OS dédié à Kubernetes minimal et immutable (coucou Martin Fowler - [Immutable Server](https://martinfowler.com/bliki/ImmutableServer.html)).
 
 ![](/public/devoxx-2025/20250423220708.png)
 
+{{< youtube IeIuUCmjXUQ >}}
+
+---
+
 Je profite de la pause de midi pour aller écouter ["Maîtrisez son infrastructure mail en 2025 : anti-spam et auto-hébergement"](https://www.devoxx.fr/agenda-2025/talk/maitrisez-son-infrastructure-mail-en-2025-anti-spam-et-auto-hebergement/) par Guillaume LAPIERRE. Guillaume LAPIERRE nous rappelle les éléments à prendre en compte pour améliorer la délivrabilité des mails. A l'issue de la présentation, SPF, DKIM, DMARC n'avaient plus de secrets pour les auditeurs.
 ![](/public/devoxx-2025/20250423222223.png)
 
+{{< youtube ViG1R6FzAUg >}}
+
+---
+
 Je découvre ensuite le retour d'expérience de Bedrock sur l'utilisation de [Gatling](https://gatling.io/) afin d'effectuer des tests de charge sur la plate-forme M6+ ["Load-testons M6+ pour préparer l’Euro 2024 !"](https://www.devoxx.fr/agenda-2025/talk/load-testons-m6-pour-preparer-l-euro-2024/).
+
+{{< youtube NUwYlJjY3g4 >}}
+
+---
 
 Thierry Chantier nous embarque ensuite dans le merveilleux monde des interfaces utilisateur textuelles (Textual User Interface - TUI): ["Quand le Terminal dévore la UI : TUI pour tout le monde !"](https://www.devoxx.fr/agenda-2025/talk/quand-le-terminal-devore-la-ui-tui-pour-tout-le-monde/).
 La conférence est super fluide. Il nous partage quelques librairies en Python, Go ou Rust pour développer des TUI. Cela semble relativement simple et ça donne vraiment envie de développer ce type d'interface.
+
+{{< youtube yEzKbvbOmTI >}}
+
+---
 
 Retour dans l'amphi Bleu pour écouter "[Vos requêtes SQL jusqu'à 10000 plus rapides, durablement](https://www.devoxx.fr/agenda-2025/talk/vos-requetes-sql-jusqu-a-10000-fois-plus-rapides-durablement)" par Alain Lesage de la société [Dalibo](https://www.dalibo.com/). A nouveau, super conférence sur les performances des bases de données. Alain rappelle qu'optimiser une base de données est un vrai métier (DBA) et que ce métier tend à disparaître alors qu'il est essentiel pour la pérennité du modèle de données ou les performances.
 Il partage des ressources développées par Dalibo : 
  * [explain.dalibo.com](https://explain.dalibo.com/): un outil permettant de visualiser un EXPLAIN PLAN
  * [kb.dalibo.com](https://kb.dalibo.com/): la base de connaissances de Dalibo autour de PostgreSQL
 
+{{< youtube TAJKNBPv4Wc >}}
+
+---
+
 J'assiste au [quizz d'Aurélie Vache et Sherine Khoury sur le containers](https://www.devoxx.fr/agenda-2025/talk/question-pour-un-conteneur-quiz-sur-les-images-les-conteneurs-oci-docker/) puis je pars découvrir "[Infisical : Le meilleur ami des devs pour des secrets bien gardés !](https://www.devoxx.fr/agenda-2025/talk/infisical-le-meilleur-ami-des-devs-pour-des-secrets-bien-gardes/)" par Julien Briault.
 [Infisical](https://infisical.com/) est une alternative à Hashicorp Vault qui semble pertinente suite au changement de licences de Hashicorp Vault. A tester au retour au travail. 
+
+{{< youtube uTmcpS9gowY >}}
+
+---
 
 Le mercredi soir, la Devoxx propose une nocturne "Meet & Greet" avec des sessions organisées par les associations communautaires mais j'ai d'autres engagements.
 
@@ -105,6 +171,10 @@ Comme les jours précédents, malgré mes 20-25 minutes d'avances, je me retrouv
 La première session nous plonge dans l'univers de l'informatique Quantique ["Plongez dans l’Ère Quantique : décryptez et anticipez la révolution à venir"](https://www.devoxx.fr/agenda-2025/talk/plongez-dans-l-ere-quantique-decryptez-et-anticipez-la-revolution-a-venir/). Fanny Bouton nous synthétise en quelques minutes où nous en sommes autour de l'informatique Quantique (Spoiler: il nous reste encore 10-15 ans à attendre afin que la technologie se démocratise). Elle nous invite à s'intéresser au sujet afin de ne pas louper le coche.
 Je repars 20 ans en arrière. Lorsque durant mes études j'avais dû faire une synthèse de 2 pages sur cette future révolution. 😊
 
+{{< youtube 6iv2tbP4nd8 >}}
+
+---
+
 Je passe sur la deuxième keynote qui ne m'a pas marqué.
 
 Je reste dans ce superbe "Amphi bleu" pour assister à ["Astro GitOps - Press ⓧ to start"](https://www.devoxx.fr/agenda-2025/talk/astro-gitops-press-to-start/) par Kévin DAVIN. En quelques minutes, Kévin nous partage sa vision du GitOps. Ses slides sont [disponibles](https://download.davinkevin.fr/presentations/astrogitops/devoxxfr-2025/slides.pdf). Cela va vite, peut-être trop vite. Il faut s'accrocher.
@@ -113,23 +183,48 @@ Pour lui, simplement stocker des scripts Bash dans Git n'est pas une pratique Gi
 Je découvre [Google Config Connector](https://cloud.google.com/config-connector/docs/overview) chez GKE en alternative à [Crossplane](https://www.crossplane.io/) afin de gérer ses ressources GCP depuis des manifests Kubernetes.
 Il nous recommande de ne pas utiliser de Vault (comme Hashicorp Vault) mais de plutôt stocker ses secrets directement en les chiffrant avec [Mozilla SOPS](https://getsops.io/). La conférence était très chouette.
 
+{{< youtube nIW_VN3-QDw >}}
+
+---
+
 Je reste dans l'"Amphi Bleu" pour écouter ["Platform Engineering : DevOps est maintenant majeur"](https://www.devoxx.fr/agenda-2025/talk/platform-engineering-devops-est-maintenant-majeur/) par des représentants de la société [WeScale](https://www.wescale.fr/). Je suis persuadé que le "Platform Engineering" est une évolution des pratiques "DevOps". Le sujet m'intéresse mais je reste sur ma fin. Le rythme est trop lent malgré la parfaite connaissance du sujet des intervenants.
 Je reste marqué par l'introduction : 
 > DevOps: the devs run their shit
 > 
 > Platform : a guy creates stuff to let the devs run their shit
 
+{{< youtube LVusw5REgD0 >}}
+
+---
+
 C'est déjà la pause déjeuner et Sébastien Ferrer nous présentre ["Une identité pour les fédérer toutes !"](https://www.devoxx.fr/agenda-2025/talk/une-identite-pour-les-federer-toutes/) une synthèse en 15 minutes du fonctionnement des protocoles SAML et OIDC.
+
+{{< youtube aN4rvdbDMy8 >}}
+
+---
 
 Fin de la pause déjeuner, je participe à l'une des meilleures conférences des 3 jours "[Staff Engineer : Les défis, les galères, et comment les surmonter](https://www.devoxx.fr/agenda-2025/talk/staff-engineer-les-defis-les-galeres-et-comment-les-surmonter/)". La conférence est parfaite. Ane Naiz en a fait une synthèse en image:
 
 ![](/public/devoxx-2025/20250425215300.png)
 (source : https://bsky.app/profile/ane-naiz.bsky.social/post/3lnfacvc4dc25)
 
+{{< youtube EiADjypQoY0 >}}
+
+---
+
 Je rejoins "[Retour d'expérience : migrer une application critique vers le cloud](https://www.devoxx.fr/agenda-2025/talk/retour-d-experience-migrer-une-application-critique-vers-le-cloud/)". Antoine Irisson et Bernard Pons nous content avec beaucoup d'humour la migration du système de réservation d'ACCOR vers AWS. On rigole beaucoup. Antoine et Bernard nous rappellent qu'un projet migration est un long chemin semé d'embûches mais qui en général se termine bien.
+
+{{< youtube QNEm2Do0mcY >}}
+
+---
+
 
 Retour dans l'"Amphi Bleu" pour écouter "[Au secours ! Mon manager me demande des KPIs !](https://www.devoxx.fr/agenda-2025/talk/au-secours-mon-manager-me-demande-des-kpis/)" puis direction "[Du full text search dans PostgreSQL !](https://www.devoxx.fr/agenda-2025/talk/du-full-text-search-dans-postgresql/)" afin de terminer les 3 jours denses du Devoxx. 
 Cette dernière session me permet de découvrir les fonctionnalités de recherche de PostgreSQL que je peux mettre en parallèle avec les implémentations que nous avons pu faire avec Elasticsearch. C'est une bonne introduction à l'outil.
+
+{{< youtube MJwUdk9OzuU >}}
+
+---
 
 
 # Conclusion
@@ -162,4 +257,4 @@ D'autres retours sur la conférence, on était écrit :
 * [Julien Wittouck](https://codeka.io/2025/04/24/devoxx-2025-bilan/)
 * ...
 
-
+Toutes les vidéos sont [en ligne](https://www.youtube.com/@DevoxxFRvideos).
