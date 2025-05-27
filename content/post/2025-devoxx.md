@@ -10,7 +10,7 @@ tags: ["Devoxx", "2025", "conférence"]
 
 Pour la première fois, j'ai participé la semaine dernière à la [Devoxx](https://www.devoxx.fr/), la plus grande conférence indépendante autour du développement. 
 
-Toutes les thématiques qu'un développeur rencontre dans son quotidien étaient représentées (de l'IA au front, en passant par le DevOps, le platform engineering, le cloud, l'informatique quantique ou encore le management). C'était très riche. Comme d'habitude dans ce genre d'événement, j'aimerais disposer du don d'ubiquité afin de pouvoir assister aux différentes sessions qui ont lieu simultanément. Ce n'est pas encore mon cas, mais j'y travaille ! 🙂
+Toutes les thématiques qu'un développeur rencontrent dans son quotidien étaient représentées (de l'IA au front, en passant par le DevOps, le platform engineering, le cloud, l'informatique quantique ou encore le management). C'était très riche. Comme d'habitude dans ce genre d'événement, j'aimerais disposer du don d'ubiquité afin de pouvoir assister aux différentes sessions qui ont lieu simultanément. Ce n'est pas encore mon cas, mais j'y travaille ! 🙂
 
 L'événement, qui dure 3 jours, regroupe **4 500 personnes** par jour. Il y a donc du monde, beaucoup de monde.
 
