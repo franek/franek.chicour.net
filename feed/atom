@@ -7,7 +7,7 @@
             <link href="https://franek.chicour.net/" rel="alternate" type="text/html" title="html" />
             <link href="https://franek.chicour.net/feed/rss2" rel="alternate" type="application/rss+xml" title="rss" />
             <link href="https://franek.chicour.net/feed/atom" rel="self" type="application/atom+xml" title="atom" />
-    <updated>2026-05-03T09:51:12+00:00</updated>
+    <updated>2026-05-03T18:25:29+00:00</updated>
     
     
     <author>
@@ -18,7 +18,7 @@
     
         
         <entry>
-            <title type="html"><![CDATA[Devoxx 2026]]></title>
+            <title type="html"><![CDATA[Devoxx France 2026]]></title>
             <link href="https://franek.chicour.net/post/2026-devoxx/?utm_source=atom_feed" rel="alternate" type="text/html" />
             
                 <link href="https://franek.chicour.net/post/2025-devoxx/?utm_source=atom_feed" rel="related" type="text/html" title="Devoxx 2025" />
@@ -33,9 +33,9 @@
             <updated>2026-05-01T14:34:13+01:00</updated>
             
             
-            <content type="html"><![CDATA[<p>Pour la seconde année (<a href="/post/2025-devoxx/">voir mon compte-rendu 2025</a>), j&rsquo;ai participé à la <a href="https://www.devoxx.fr/">Devoxx</a>, la plus grande conférence indépendante autour du développement et de la programmation.</p>
-<p>Durant les 3 jours, c&rsquo;est près de 5 000 personnes qui déambulent dans les couloirs du Palais de la musique et des congrès de Paris et assistent à différentes sessions (15 minutes, 30 minutes, 45 minutes, voire même des sessions longues de 2 ou 3 heures).</p>
-<p>Toutes les composantes du développement logiciel (back, front, tests, gestion de projets, gestion des équipes, &hellip;) sont représentées et c&rsquo;est chouette de naviguer parmi tous ces sujets.</p>
+            <content type="html"><![CDATA[<p>Pour la seconde année, j&rsquo;ai participé à la <a href="https://www.devoxx.fr/">Devoxx France</a>, la plus grande conférence indépendante autour du développement et de la programmation (<a href="/post/2025-devoxx/">voir mon compte-rendu 2025</a>).</p>
+<p>Durant les 3 jours, c&rsquo;est près de 5 000 personnes qui déambulent dans les couloirs du Palais de la musique et des congrès de Paris et assistent à différentes sessions (de 15 minutes à 45 minutes, ou des sessions longues de 2 ou 3 heures).</p>
+<p>Toutes les composantes du développement logiciel (back, front, tests, gestion de projets, gestion des équipes, &hellip;) sont représentées et c&rsquo;est chouette de naviguer parmi tous ces univers.</p>
 <p>Étant donné que la conférence est indépendante et organisée par des bénévoles, il y a peu de conférences &ldquo;Marketing&rdquo; où des sociétés vont venir vanter leurs produits (ou en tout cas, je ne l&rsquo;ai pas ressenti).</p>
 <p>Chaque journée débute par 2 keynotes dans le grand Amphi Bleu. Malgré mon arrivée matinale, je n&rsquo;ai jamais réussi à atteindre cet amphi. Les organisateurs nous proposent de suivre les sessions par écran interposé dans des salles &ldquo;Overflow&rdquo;. C&rsquo;est moins confortable et un peu dommage de venir sur place pour regarder une conférence sur un écran mais bon&hellip;</p>
 <p>Toutes les Keynotes avaient pour thème (directement ou indirectement&hellip;) : l&rsquo;IA&hellip;
@@ -102,9 +102,12 @@ Ils ont notamment une skill partagée pour la review (/review) qui permet d&rsqu
 <h2 id="conclusion">Conclusion</h2>
 <p>Vous l&rsquo;aurez compris. J&rsquo;ai à nouveau passé 3 jours riches à faire ma veille sur des sujets variés. C&rsquo;était à nouveau un excellent cru. Je reviens avec de nouveaux outils à mettre en oeuvre ou des solutions à faire évoluer.</p>
 <p>L&rsquo;organisation était parfaite. Merci aux bénévoles qui assurent l&rsquo;organisation.</p>
-<h1 id="toutes-les-conférences-auxquelles-jai-assisté-">Toutes les conférences auxquelles j&rsquo;ai assisté :</h1>
-<h2 id="mercredi-22-avril">Mercredi 22 avril</h2>
+<hr>
+<h2 id="toutes-les-conférences-auxquelles-jai-assisté-">Toutes les conférences auxquelles j&rsquo;ai assisté :</h2>
+<h3 id="mercredi-22-avril">Mercredi 22 avril</h3>
 <ul>
+<li><a href="https://m.devoxx.com/events/devoxxfr2026/talks/149105/lia-au-service-du-bien-commun-agir-avec-raison-dans-lincertain">L’IA au service du bien commun : Agir avec raison dans l&rsquo;incertain</a> par Laurence Devillers</li>
+<li><a href="https://m.devoxx.com/events/devoxxfr2026/talks/138301/les-checs-lre-de-lintelligence-artificielle">Les échecs à l’ère de l’intelligence artificielle</a> de Laurent Fressinet</li>
 <li><a href="https://m.devoxx.com/events/devoxxfr2026/talks/4020/vous-pensiez-que-la-dette-technique-tait-le-pire-voici-la-dette-de-conception">Vous pensiez que la dette technique était le pire? Voici la dette de conception!</a> par Julien Topçu et Josian Chevalier</li>
 <li><a href="https://m.devoxx.com/events/devoxxfr2026/talks/85073/dployer-dabord-scuriser-jamais-lia-entre-productivit-et-chaos-de-scurit">Déployer d&rsquo;abord, sécuriser jamais: l&rsquo;IA entre productivité et chaos de sécurité</a> par Houssem BELHADJ AHMED et Aymeric Lagier</li>
 <li><a href="https://m.devoxx.com/events/devoxxfr2026/talks/91525/comment-le-protocole-bgp-fait-fonctionner-internet-et-peut-le-faire-disparatre">Comment le protocole BGP fait fonctionner Internet —et peut le faire disparaître</a> par Paul Jeannot</li>
@@ -114,8 +117,10 @@ Ils ont notamment une skill partagée pour la review (/review) qui permet d&rsqu
 <li><a href="https://m.devoxx.com/events/devoxxfr2026/talks/60505/stop-la-dette-documentaire-industrialisez-vos-adrs-et-readmes-avec-speckit">Stop à la dette documentaire : Industrialisez vos ADRs et READMEs avec Spec-kit</a> par Alexandre Guillemot et Axel Chauvin</li>
 <li><a href="https://m.devoxx.com/events/devoxxfr2026/talks/65339/spcialisez-vos-agents-avec-les-skills">Spécialisez vos Agents avec les Skills</a> par Tug Grall</li>
 </ul>
-<h2 id="jeudi-23-avril">Jeudi 23 avril</h2>
+<h3 id="jeudi-23-avril">Jeudi 23 avril</h3>
 <ul>
+<li><a href="https://m.devoxx.com/events/devoxxfr2026/talks/149102/le-dveloppeur-face-lia-du-prototypage-rapide-la-fin-des-intermdiaires-">Le développeur face à l&rsquo;IA : du prototypage rapide à la fin des intermédiaires ?</a> par Nicolas Grenié</li>
+<li><a href="https://m.devoxx.com/events/devoxxfr2026/talks/149101/lia-sur-le-terrain-lhumain-au-cur-de-la-valeur">L’IA sur le terrain : l’humain au cœur de la valeur</a> par Marjory Canonne</li>
 <li><a href="https://m.devoxx.com/events/devoxxfr2026/talks/45203/grer-vos-tickets-support-avec-de-lia-mais-sans-cramer-la-plante">Gérer vos tickets support avec de l’IA mais sans cramer la planète</a>par Matthieu Vincent et Philippe Charrière</li>
 <li><a href="https://m.devoxx.com/events/devoxxfr2026/talks/51601/lagentic-coding-nouveau-territoire-du-platform-engineering">L&rsquo;Agentic Coding, nouveau territoire du Platform Engineering</a> par Yanki Sesyilmaz et Julien Tanay</li>
 <li><a href="https://m.devoxx.com/events/devoxxfr2026/talks/65319/email-at-scale-comment-on-a-survcu-800m-mailsan-et-au-dns">Email at scale : comment on a survécu à 800M mails/an (et au DNS)</a> par Julien Goullon et Julien Eyraud</li>
@@ -124,8 +129,10 @@ Ils ont notamment une skill partagée pour la review (/review) qui permet d&rsqu
 <li><a href="https://m.devoxx.com/events/devoxxfr2026/talks/2719/jujutsu-la-cerise-sur-le-git-oh-">Jujutsu, la cerise sur le git, oh !</a> par Siegfried Ehret</li>
 <li><a href="https://m.devoxx.com/events/devoxxfr2026/talks/34401/mise-un-multioutil-pour-votre-poste-de-dev-ops">Mise : un multi-outil pour votre poste de Dev &amp; Ops</a> par Rémi Verchère</li>
 </ul>
-<h2 id="vendredi-24-avril">Vendredi 24 avril</h2>
+<h3 id="vendredi-24-avril">Vendredi 24 avril</h3>
 <ul>
+<li><a href="https://m.devoxx.com/events/devoxxfr2026/talks/149103/lia-au-dfi-de-la-condition-humaine">L&rsquo;IA au défi de la condition humaine</a> par Jean-Gabriel Ganascia</li>
+<li><a href="https://m.devoxx.com/events/devoxxfr2026/talks/149104/la-course-lia-la-france-risquetelle-de-devenir-un-territoire-servant">La course à l’IA : La France risque-t-elle de devenir un &ldquo;territoire servant&rdquo;?</a> par Loup Cellard</li>
 <li><a href="https://m.devoxx.com/events/devoxxfr2026/talks/2739/limits-requests-qos-priorityclasses-dmystifions-le-scheduling-dans-k8s-">Limits, Requests, QoS, PriorityClasses, démystifions le scheduling dans K8s !</a> par Denis Germain et Quentin Joly</li>
 <li><a href="https://m.devoxx.com/events/devoxxfr2026/talks/45204/docker-compose-votre-dev-toolkit-pour-ai-cloud">Docker Compose votre Dev Toolkit pour AI &amp; Cloud</a> par Nicolas De Loof et Guillaume Lours</li>
 <li><a href="https://m.devoxx.com/events/devoxxfr2026/talks/9733/prolongez-la-vie-de-vos-dashboards-guide-de-survie-antisapin-de-nol">Prolongez la vie de vos dashboards : Guide de survie anti-sapin de Noël</a> par Kamilla Giedrojc</li>
