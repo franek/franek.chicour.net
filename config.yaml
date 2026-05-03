@@ -97,6 +97,12 @@ outputs:
         - html
         - rss
         - atom
+    section:
+        - html
+    taxonomy:
+        - html
+    term:
+        - html
 
 # For compatibility with dotclear (old blog system), redefine feed URI to /feed/atom
 mediaTypes:
