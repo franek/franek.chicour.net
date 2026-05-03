@@ -43,7 +43,7 @@ Ayant effectué une migration d'ampleur de ce type cette année (*Au revoir [Bre
 
 Plusieurs conférences présentaient des outils que j'ai bien envie d'approfondir.
 
-Rémi Verchère dans [Mise : un multi-outil pour votre poste de Dev & Ops](https://m.devoxx.com/events/devoxxfr2026/talks/34401/mise-un-multioutil-pour-votre-poste-de-dev-ops) nous a présenté les outils [mise-en-place](https://mise.jdx.dev/) (qu'on pourrait voir comme un remplaçant de Makefile) et [fnox](https://github.com/jdx/fnox) (qu'on pourrait voir comme un remplaçant de direnv). J'avais déjà lu avec intérêt la [présentation de Julien Wittouck](https://codeka.io/2025/12/19/adieu-direnv-bonjour-mise/) sur mise-en-place ou de [Korben](https://korben.info/fnox-gestionnaire-de-secrets-dev.html) sur Fnox. Cette conférence a confirmé que je devais m'intéresser à ces outils devant en permanence switcher de projets.
+Rémi Verchère dans [Mise : un multi-outil pour votre poste de Dev & Ops](https://m.devoxx.com/events/devoxxfr2026/talks/34401/mise-un-multioutil-pour-votre-poste-de-dev-ops) nous a présenté les outils [mise-en-place](https://mise.jdx.dev/) (qu'on pourrait voir comme un remplaçant de Makefile) et [fnox](https://github.com/jdx/fnox) (qu'on pourrait voir comme un remplaçant de direnv). J'avais déjà lu avec intérêt la [présentation de Julien Wittouck](https://codeka.io/2025/12/19/adieu-direnv-bonjour-mise/) sur mise-en-place ou de [Korben](https://korben.info/fnox-gestionnaire-de-secrets-dev.html) sur Fnox. Cette conférence a confirmé que je devais m'intéresser à ces outils.
 
 Entre temps, Rémi a publié un [article sur son blog synthétisant sa conférence](https://www.vrchr.fr/posts/2026/04/28/mise-en-place-fnox-setup-multi-projets/).
 
