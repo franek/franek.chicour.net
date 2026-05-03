@@ -1,5 +1,5 @@
 ---
-title: "Devoxx 2026"
+title: "Devoxx France 2026"
 date: 2026-05-01T14:34:13+01:00
 cover:
     image: "/public/devoxx-2026/devoxx_2026.webp"
@@ -8,11 +8,11 @@ cover:
 tags: ["Devoxx", "2026", "conférence"]
 ---
 
-Pour la seconde année ([voir mon compte-rendu 2025](/post/2025-devoxx/)), j'ai participé à la [Devoxx](https://www.devoxx.fr/), la plus grande conférence indépendante autour du développement et de la programmation.
+Pour la seconde année, j'ai participé à la [Devoxx France](https://www.devoxx.fr/), la plus grande conférence indépendante autour du développement et de la programmation ([voir mon compte-rendu 2025](/post/2025-devoxx/)).
 
-Durant les 3 jours, c'est près de 5 000 personnes qui déambulent dans les couloirs du Palais de la musique et des congrès de Paris et assistent à différentes sessions (15 minutes, 30 minutes, 45 minutes, voire même des sessions longues de 2 ou 3 heures).
+Durant les 3 jours, c'est près de 5 000 personnes qui déambulent dans les couloirs du Palais de la musique et des congrès de Paris et assistent à différentes sessions (de 15 minutes à 45 minutes, ou des sessions longues de 2 ou 3 heures).
 
-Toutes les composantes du développement logiciel (back, front, tests, gestion de projets, gestion des équipes, ...) sont représentées et c'est chouette de naviguer parmi tous ces sujets.
+Toutes les composantes du développement logiciel (back, front, tests, gestion de projets, gestion des équipes, ...) sont représentées et c'est chouette de naviguer parmi tous ces univers.
 
 Étant donné que la conférence est indépendante et organisée par des bénévoles, il y a peu de conférences "Marketing" où des sociétés vont venir vanter leurs produits (ou en tout cas, je ne l'ai pas ressenti).
 
@@ -114,9 +114,14 @@ Vous l'aurez compris. J'ai à nouveau passé 3 jours riches à faire ma veille s
 
 L'organisation était parfaite. Merci aux bénévoles qui assurent l'organisation. 
 
-# Toutes les conférences auxquelles j'ai assisté :
-## Mercredi 22 avril
+----
 
+## Toutes les conférences auxquelles j'ai assisté :
+
+### Mercredi 22 avril
+
+* [L’IA au service du bien commun : Agir avec raison dans l'incertain](https://m.devoxx.com/events/devoxxfr2026/talks/149105/lia-au-service-du-bien-commun-agir-avec-raison-dans-lincertain) par Laurence Devillers
+* [Les échecs à l’ère de l’intelligence artificielle](https://m.devoxx.com/events/devoxxfr2026/talks/138301/les-checs-lre-de-lintelligence-artificielle) de Laurent Fressinet
 * [Vous pensiez que la dette technique était le pire? Voici la dette de conception!](https://m.devoxx.com/events/devoxxfr2026/talks/4020/vous-pensiez-que-la-dette-technique-tait-le-pire-voici-la-dette-de-conception) par Julien Topçu et Josian Chevalier
 * [Déployer d'abord, sécuriser jamais: l'IA entre productivité et chaos de sécurité](https://m.devoxx.com/events/devoxxfr2026/talks/85073/dployer-dabord-scuriser-jamais-lia-entre-productivit-et-chaos-de-scurit) par Houssem BELHADJ AHMED et Aymeric Lagier
 * [Comment le protocole BGP fait fonctionner Internet —et peut le faire disparaître](https://m.devoxx.com/events/devoxxfr2026/talks/91525/comment-le-protocole-bgp-fait-fonctionner-internet-et-peut-le-faire-disparatre) par Paul Jeannot
@@ -126,8 +131,10 @@ L'organisation était parfaite. Merci aux bénévoles qui assurent l'organisatio
 * [Stop à la dette documentaire : Industrialisez vos ADRs et READMEs avec Spec-kit](https://m.devoxx.com/events/devoxxfr2026/talks/60505/stop-la-dette-documentaire-industrialisez-vos-adrs-et-readmes-avec-speckit) par Alexandre Guillemot et Axel Chauvin
 * [Spécialisez vos Agents avec les Skills](https://m.devoxx.com/events/devoxxfr2026/talks/65339/spcialisez-vos-agents-avec-les-skills) par Tug Grall
 
-## Jeudi 23 avril 
+### Jeudi 23 avril 
 
+* [Le développeur face à l'IA : du prototypage rapide à la fin des intermédiaires ?](https://m.devoxx.com/events/devoxxfr2026/talks/149102/le-dveloppeur-face-lia-du-prototypage-rapide-la-fin-des-intermdiaires-) par Nicolas Grenié
+* [L’IA sur le terrain : l’humain au cœur de la valeur](https://m.devoxx.com/events/devoxxfr2026/talks/149101/lia-sur-le-terrain-lhumain-au-cur-de-la-valeur) par Marjory Canonne
 * [Gérer vos tickets support avec de l’IA mais sans cramer la planète](https://m.devoxx.com/events/devoxxfr2026/talks/45203/grer-vos-tickets-support-avec-de-lia-mais-sans-cramer-la-plante)par Matthieu Vincent et Philippe Charrière
 * [L'Agentic Coding, nouveau territoire du Platform Engineering](https://m.devoxx.com/events/devoxxfr2026/talks/51601/lagentic-coding-nouveau-territoire-du-platform-engineering) par Yanki Sesyilmaz et Julien Tanay
 * [Email at scale : comment on a survécu à 800M mails/an (et au DNS)](https://m.devoxx.com/events/devoxxfr2026/talks/65319/email-at-scale-comment-on-a-survcu-800m-mailsan-et-au-dns) par Julien Goullon et Julien Eyraud
@@ -136,8 +143,10 @@ L'organisation était parfaite. Merci aux bénévoles qui assurent l'organisatio
 * [Jujutsu, la cerise sur le git, oh !](https://m.devoxx.com/events/devoxxfr2026/talks/2719/jujutsu-la-cerise-sur-le-git-oh-) par Siegfried Ehret
 * [Mise : un multi-outil pour votre poste de Dev & Ops](https://m.devoxx.com/events/devoxxfr2026/talks/34401/mise-un-multioutil-pour-votre-poste-de-dev-ops) par Rémi Verchère
 
-## Vendredi 24 avril
+### Vendredi 24 avril
 
+* [L'IA au défi de la condition humaine](https://m.devoxx.com/events/devoxxfr2026/talks/149103/lia-au-dfi-de-la-condition-humaine) par Jean-Gabriel Ganascia
+* [La course à l’IA : La France risque-t-elle de devenir un "territoire servant"?](https://m.devoxx.com/events/devoxxfr2026/talks/149104/la-course-lia-la-france-risquetelle-de-devenir-un-territoire-servant) par Loup Cellard
 * [Limits, Requests, QoS, PriorityClasses, démystifions le scheduling dans K8s !](https://m.devoxx.com/events/devoxxfr2026/talks/2739/limits-requests-qos-priorityclasses-dmystifions-le-scheduling-dans-k8s-) par Denis Germain et Quentin Joly
 * [Docker Compose votre Dev Toolkit pour AI & Cloud](https://m.devoxx.com/events/devoxxfr2026/talks/45204/docker-compose-votre-dev-toolkit-pour-ai-cloud) par Nicolas De Loof et Guillaume Lours
 * [Prolongez la vie de vos dashboards : Guide de survie anti-sapin de Noël](https://m.devoxx.com/events/devoxxfr2026/talks/9733/prolongez-la-vie-de-vos-dashboards-guide-de-survie-antisapin-de-nol) par Kamilla Giedrojc
